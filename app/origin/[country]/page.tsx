@@ -12,19 +12,11 @@ interface CheeseBasicInfo {
   slug: string
 }
 
-interface RegionIndex {
-  region: string
-  slug: string
-  count: number
-  cheeses: CheeseBasicInfo[]
-}
-
 interface CountryIndex {
   country: string
   slug: string
   count: number
   cheeses: CheeseBasicInfo[]
-  regions: RegionIndex[]
 }
 
 // Generate static params
@@ -203,25 +195,6 @@ export default function CountryPage({ params }: { params: { country: string } })
         </p>
       </div>
 
-      {/* Regions Section (if available) */}
-      {countryData.regions.length > 0 && (
-        <section className="content-section mb-8">
-          <h2 className="text-2xl font-bold mb-4">Regions of {countryData.country}</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {countryData.regions.map((region, index) => (
-              <Link
-                key={index}
-                href={`/origin/${countryData.slug}/${region.slug}`}
-                className="bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow"
-              >
-                <h3 className="font-bold text-lg mb-1">{region.region}</h3>
-                <p className="text-sm text-gray-600">{region.count} cheese varieties</p>
-              </Link>
-            ))}
-          </div>
-        </section>
-      )}
-
       {/* Cheese Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
         {cheeses.map((cheese, index) => (
@@ -241,7 +214,7 @@ export default function CountryPage({ params }: { params: { country: string } })
       {countryData.count > 30 && (
         <div className="flex justify-center mb-8">
           <p className="text-gray-600">
-            Showing 30 of {countryData.count} cheeses. Explore more by browsing regions or using the search feature.
+            Showing 30 of {countryData.count} cheeses. Use the search feature to explore more varieties.
           </p>
         </div>
       )}
