@@ -77,7 +77,7 @@ export default function OriginsPage() {
       itemListElement: countries.slice(0, 10).map((country, index) => ({
         "@type": "ListItem",
         position: index + 1,
-        url: `https://qcheese.com/origin/${country.slug}/all`,
+        url: `https://qcheese.com/origin/${country.slug}`,
         name: `${country.country} Cheese`,
       })),
     },
@@ -126,7 +126,7 @@ export default function OriginsPage() {
         {countries.map((country, index) => (
           <Link
             key={index}
-            href={`/origin/${country.slug}/all`}
+            href={`/origin/${country.slug}`}
             className="bg-white p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow"
           >
             <div className="flex items-center mb-4">
