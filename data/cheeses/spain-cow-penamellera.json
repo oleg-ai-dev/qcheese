@@ -1,0 +1,150 @@
+{
+  "url": "https://www.cheese.com/penamellera/",
+  "milk": "cow, goat, sheep",
+  "country": "Spain",
+  "region": "Asturias",
+  "family": "NA",
+  "type": "semi-hard, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, dense, supple",
+  "rind": "natural",
+  "color": "pale yellow",
+  "flavor": "acidic, bitter, herbaceous",
+  "aroma": "aromatic, strong",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "CUAYAU de Penamellera",
+  "producers": "NA",
+  "name": "Penamellera",
+  "slug": "spain-cow-penamellera",
+  "description": "Penamellera cheese is a semi-hard, artisan cheese originating from the Asturias region in northern Spain. It is traditionally made from a blend of cow, goat, and sheep milk, which contributes to its complex flavor profile. The cheese has a firm yet slightly elastic texture, with a natural rind that may develop a light bloom of mold as it ages. Its interior is pale yellow, with small, irregular eyes scattered throughout. Penamellera is known for its balanced taste, which combines the richness of cow milk with the tanginess of goat and sheep milk, making it a versatile cheese for various culinary uses.",
+  "history": "Penamellera cheese has its roots in the pastoral traditions of the Asturias region, where dairy farming has been a way of life for centuries. Named after the Penamellera valley, this cheese reflects the area's commitment to artisanal cheesemaking. Historically, it was produced by local farmers to preserve surplus milk. Over time, it gained recognition for its unique blend of milks and traditional production methods. Today, it remains a symbol of Asturian heritage and is celebrated in local festivals and markets.",
+  "productionProcess": "Penamellera cheese is crafted using raw or pasteurized milk from cows, goats, and sheep. The milk is gently heated and curdled using animal rennet. The curds are then cut, drained, and pressed into molds to form the cheese. After unmolding, the cheese is salted and aged for a minimum of two months, during which it develops its characteristic texture and flavor. The aging process takes place in cool, humid cellars, allowing the cheese to mature naturally.",
+  "flavorProfile": "Penamellera cheese offers a harmonious blend of flavors, with a creamy, slightly nutty base complemented by tangy and earthy undertones. Its aroma is mild yet complex, with hints of grass and hay. The texture is firm and smooth, with a pleasant melt-in-the-mouth quality that makes it highly enjoyable.",
+  "pairings": "Penamellera cheese pairs beautifully with a variety of foods and beverages. Traditional pairings include crusty bread, quince paste, and cured meats like chorizo. For drinks, try it with a crisp Spanish cider, a light red wine such as Tempranillo, or a hoppy IPA. It also works well in salads, grated over roasted vegetables, or melted into a savory tart.",
+  "culinaryApplications": [
+    "Perfect for cheese boards with nuts and dried fruits",
+    "Melts beautifully in grilled sandwiches or quesadillas",
+    "Ideal for grating over pasta dishes",
+    "Enhances the flavor of soups and stews"
+  ],
+  "faqs": [
+    {
+      "question": "What makes Penamellera cheese unique?",
+      "answer": "Its unique blend of cow, goat, and sheep milk gives it a complex flavor profile that sets it apart from other cheeses."
+    },
+    {
+      "question": "How long is Penamellera cheese aged?",
+      "answer": "It is typically aged for at least two months, though some varieties may be aged longer for a more intense flavor."
+    },
+    {
+      "question": "Can Penamellera cheese be used in cooking?",
+      "answer": "Yes, its semi-hard texture makes it versatile for melting, grating, or slicing in various dishes."
+    },
+    {
+      "question": "Is Penamellera cheese widely available outside Spain?",
+      "answer": "It is relatively obscure outside Spain, but specialty cheese shops or online retailers may carry it."
+    },
+    {
+      "question": "What are some similar cheeses to Penamellera?",
+      "answer": "Similar cheeses include Idiazábal, Roncal, and Manchego, which also feature a blend of milks and a semi-hard texture."
+    }
+  ],
+  "tags": [
+    "artisan cheese",
+    "semi-hard cheese",
+    "Spanish cheese",
+    "Asturias",
+    "cow milk",
+    "goat milk",
+    "sheep milk",
+    "natural rind",
+    "complex flavor",
+    "traditional cheesemaking",
+    "cheese board",
+    "grilled cheese",
+    "grated cheese",
+    "cider pairing",
+    "Tempranillo pairing",
+    "IPA pairing",
+    "quince paste",
+    "cured meats",
+    "roasted vegetables",
+    "savory tart",
+    "cheese festivals",
+    "local markets",
+    "dairy farming",
+    "raw milk cheese",
+    "pasteurized milk cheese",
+    "aged cheese",
+    "nutty flavor",
+    "tangy flavor",
+    "earthy aroma",
+    "grass aroma",
+    "hay aroma",
+    "firm texture",
+    "smooth texture",
+    "melt-in-mouth",
+    "culinary versatility",
+    "Spanish cuisine",
+    "cheese history",
+    "cheese culture",
+    "cheese aging",
+    "cheese production",
+    "cheese pairings",
+    "cheese FAQs",
+    "cheese nutrition",
+    "cheese storage",
+    "cheese recipes",
+    "cheese tasting",
+    "cheese appreciation"
+  ],
+  "longTailKeywords": [
+    "Penamellera cheese characteristics",
+    "Penamellera cheese origin",
+    "Penamellera cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Spanish artisan cheese",
+    "how to use Penamellera in cooking",
+    "Penamellera cheese pairings",
+    "where to buy Penamellera cheese",
+    "traditional Asturian cheese",
+    "semi-hard cheese from Spain",
+    "cow goat sheep milk cheese",
+    "complex flavor cheese",
+    "cheese for cheese boards",
+    "melting cheese for sandwiches",
+    "grated cheese for pasta",
+    "Spanish cheese for soups",
+    "Penamellera vs Idiazábal",
+    "Penamellera vs Roncal",
+    "Penamellera vs Manchego",
+    "aging process of Penamellera",
+    "history of Penamellera cheese",
+    "culinary uses of Penamellera",
+    "nutritional benefits of Penamellera",
+    "storing Penamellera cheese"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Idiazábal",
+      "description": "A Spanish cheese made from raw sheep milk, known for its smoky flavor and firm texture."
+    },
+    {
+      "name": "Roncal",
+      "description": "Another Spanish cheese made from sheep milk, aged for a minimum of four months, with a nutty and tangy taste."
+    },
+    {
+      "name": "Manchego",
+      "description": "A well-known Spanish cheese made from sheep milk, aged for varying periods, with a buttery and slightly salty flavor."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High (varies by milk blend)",
+    "calciumContent": "Rich source of calcium"
+  },
+  "lastUpdated": "2025-03-02T09:51:28.398Z"
+}

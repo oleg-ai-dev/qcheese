@@ -1,0 +1,152 @@
+{
+  "url": "https://www.cheese.com/benedictine/",
+  "milk": "cow, goat, sheep",
+  "country": "United States",
+  "region": "La Velle, Wisconsin",
+  "family": "NA",
+  "type": "semi-hard, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy",
+  "rind": "washed",
+  "color": "yellow",
+  "flavor": "NA",
+  "aroma": "NA",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Carr Valley Cheese Company",
+  "name": "Benedictine",
+  "slug": "united-states-cow-benedictine",
+  "description": "Benedictine cheese is a unique, artisan semi-hard cheese originating from the United States, crafted from a blend of cow, goat, and sheep milk. This combination of milks gives Benedictine a distinctive flavor profile and texture that sets it apart from more traditional cheeses. The cheese is known for its smooth, slightly crumbly texture and a natural rind that develops during the aging process. Its appearance is characterized by a pale yellow interior with occasional small eyes, and the rind may have a rustic, earthy tone. Benedictine cheese is celebrated for its versatility and depth of flavor, making it a favorite among cheese enthusiasts who appreciate artisanal and complex cheeses.",
+  "history": "Benedictine cheese is a relatively modern creation, emerging from the artisanal cheese movement in the United States. It is named after the Benedictine monks, who have a long history of cheesemaking in Europe, though the cheese itself does not originate from monastic traditions. Instead, it reflects the innovative spirit of American cheesemakers who draw inspiration from European techniques while experimenting with local ingredients and methods. The blend of cow, goat, and sheep milk is a nod to the diversity of American dairy farming, showcasing the unique flavors that can be achieved through such combinations. Benedictine cheese has quickly gained a following for its artisanal quality and complex flavor profile.",
+  "productionProcess": "Benedictine cheese is made using a blend of cow, goat, and sheep milk, which is gently pasteurized before the cheesemaking process begins. The milk is then curdled using traditional rennet, and the curds are cut and pressed to remove excess whey. The cheese is shaped into wheels and aged for several months, during which it develops its semi-hard texture and natural rind. The aging process is carefully monitored to ensure the cheese achieves the desired balance of flavors and textures. Artisanal techniques, such as hand-turning and natural rind development, are employed to enhance the cheese's character.",
+  "flavorProfile": "Benedictine cheese offers a complex and nuanced flavor profile, with a balance of tangy, nutty, and slightly sweet notes. The blend of cow, goat, and sheep milk contributes to its rich and layered taste, while the aging process adds depth and a hint of earthiness. The texture is smooth yet slightly crumbly, with a creamy mouthfeel that lingers on the palate. The aroma is mild but inviting, with subtle hints of grass and hay.",
+  "pairings": "Benedictine cheese pairs beautifully with a variety of foods and beverages. For a traditional pairing, try it with crusty bread, dried fruits, and nuts on a cheese board. It also complements charcuterie, such as prosciutto or salami. For drinks, a medium-bodied red wine like Pinot Noir or a crisp white wine like Sauvignon Blanc enhances its flavors. Beer enthusiasts might enjoy it with a Belgian-style ale or a hoppy IPA. For a unique twist, serve Benedictine with honey or fig jam to highlight its sweet and tangy notes.",
+  "culinaryApplications": [
+    "Perfect for cheese boards and charcuterie platters",
+    "Melts beautifully in grilled sandwiches or paninis",
+    "Adds depth to salads when crumbled over the top",
+    "Ideal for grating over pasta dishes",
+    "Pairs well with fruit preserves for a sweet-savory appetizer"
+  ],
+  "faqs": [
+    {
+      "question": "What makes Benedictine cheese unique?",
+      "answer": "Its blend of cow, goat, and sheep milk creates a distinctive flavor and texture."
+    },
+    {
+      "question": "How long is Benedictine cheese aged?",
+      "answer": "It is typically aged for several months to develop its semi-hard texture and complex flavors."
+    },
+    {
+      "question": "Can Benedictine cheese be used in cooking?",
+      "answer": "Yes, it melts well and can be used in a variety of dishes, from sandwiches to pasta."
+    },
+    {
+      "question": "What are some similar cheeses to Benedictine?",
+      "answer": "Similar cheeses include Tomme de Savoie, Manchego, and Ossau-Iraty, which also feature a blend of milks or a semi-hard texture."
+    },
+    {
+      "question": "Is Benedictine cheese widely available?",
+      "answer": "As an artisanal cheese, it may be harder to find but can often be sourced from specialty cheese shops or online retailers."
+    }
+  ],
+  "tags": [
+    "artisanal cheese",
+    "semi-hard cheese",
+    "cow milk cheese",
+    "goat milk cheese",
+    "sheep milk cheese",
+    "American cheese",
+    "natural rind",
+    "cheese board",
+    "cheese pairing",
+    "gourmet cheese",
+    "unique cheese",
+    "complex flavor",
+    "aged cheese",
+    "handcrafted cheese",
+    "cheese for cooking",
+    "cheese for melting",
+    "cheese for grating",
+    "cheese for salads",
+    "cheese for pasta",
+    "cheese for sandwiches",
+    "cheese with wine",
+    "cheese with beer",
+    "cheese with fruit",
+    "cheese with nuts",
+    "cheese with honey",
+    "cheese with jam",
+    "cheese with charcuterie",
+    "cheese with bread",
+    "cheese with dried fruit",
+    "cheese with fig jam",
+    "cheese with Pinot Noir",
+    "cheese with Sauvignon Blanc",
+    "cheese with Belgian ale",
+    "cheese with IPA",
+    "cheese with prosciutto",
+    "cheese with salami",
+    "cheese with crusty bread",
+    "cheese with earthy tones",
+    "cheese with tangy notes",
+    "cheese with nutty flavor",
+    "cheese with sweet notes",
+    "cheese with creamy texture",
+    "cheese with crumbly texture",
+    "cheese with mild aroma",
+    "cheese with grass hints",
+    "cheese with hay hints",
+    "cheese with rustic rind",
+    "cheese with pale yellow interior"
+  ],
+  "longTailKeywords": [
+    "Benedictine cheese characteristics",
+    "Benedictine cheese origin",
+    "Benedictine cheese flavor"
+  ],
+  "seoKeywords": [
+    "Benedictine cheese flavor profile",
+    "how to use Benedictine cheese in cooking",
+    "best pairings for Benedictine cheese",
+    "where to buy Benedictine cheese",
+    "artisanal American cheese",
+    "semi-hard cheese with cow goat sheep milk",
+    "Benedictine cheese vs Tomme de Savoie",
+    "Benedictine cheese vs Manchego",
+    "Benedictine cheese vs Ossau-Iraty",
+    "how to serve Benedictine cheese",
+    "Benedictine cheese for cheese boards",
+    "Benedictine cheese for melting",
+    "Benedictine cheese for grating",
+    "Benedictine cheese for salads",
+    "Benedictine cheese for pasta",
+    "Benedictine cheese for sandwiches",
+    "Benedictine cheese with wine",
+    "Benedictine cheese with beer",
+    "Benedictine cheese with fruit",
+    "Benedictine cheese with honey"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Tomme de Savoie",
+      "description": "A French semi-hard cheese made from cow's milk, known for its nutty and earthy flavors."
+    },
+    {
+      "name": "Manchego",
+      "description": "A Spanish cheese made from sheep's milk, offering a firm texture and tangy, buttery taste."
+    },
+    {
+      "name": "Ossau-Iraty",
+      "description": "A French Basque cheese made from sheep's milk, featuring a smooth texture and nutty, sweet flavors."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-01T19:28:14.856Z"
+}

@@ -1,0 +1,152 @@
+{
+  "url": "https://www.cheese.com/mine-gabhar/",
+  "milk": "goat",
+  "country": "Ireland",
+  "region": "County Wexford",
+  "family": "Blue",
+  "type": "soft, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy",
+  "rind": "natural",
+  "color": "white",
+  "flavor": "acidic, sweet",
+  "aroma": "earthy, pungent",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Luc and Anne Van Kampen",
+  "name": "Mine Gabhar",
+  "slug": "ireland-goat-mine-gabhar",
+  "description": "Mine Gabhar is a rare and exquisite artisan goat cheese originating from Ireland. Known for its soft texture and distinctive flavor, this cheese is a testament to the art of traditional cheesemaking. It typically presents a creamy, spreadable consistency with a natural rind that may develop a light bloom as it ages. The cheese's appearance is rustic, often showcasing the artisanal touch of its makers. Mine Gabhar is celebrated for its unique ability to capture the essence of the Irish landscape, offering a taste that is both earthy and refined.",
+  "history": "Mine Gabhar, translating to 'Goat's Butter' in Irish, is deeply rooted in Ireland's rich cheesemaking heritage. This cheese is a product of small-scale, artisanal producers who are dedicated to preserving traditional methods while embracing the nuances of local terroir. Its creation is a reflection of Ireland's growing appreciation for high-quality, handcrafted cheeses, particularly those made from goat's milk. Mine Gabhar represents a modern revival of Ireland's dairy traditions, showcasing the potential of goat milk in producing cheeses of exceptional quality and flavor.",
+  "productionProcess": "Mine Gabhar is crafted from fresh, high-quality goat's milk, which is gently curdled using traditional rennet. The curds are then carefully hand-ladled into molds, a process that ensures the cheese retains its delicate texture. After molding, the cheese is aged for a short period, allowing it to develop its characteristic softness and subtle flavors. The aging environment is carefully controlled to encourage the development of a natural rind, which adds complexity to the cheese's profile.",
+  "flavorProfile": "Mine Gabhar offers a delightful balance of tangy and creamy flavors, with a subtle earthiness that speaks to its artisanal roots. The aroma is fresh and inviting, with hints of the grassy pastures where the goats graze. Its texture is luxuriously soft, making it a pleasure to spread on crusty bread or crackers.",
+  "pairings": "This cheese pairs beautifully with crisp white wines, such as Sauvignon Blanc, which complement its tangy notes. For beer enthusiasts, a light, hoppy ale can enhance its creamy texture. Mine Gabhar also shines on a cheese board, accompanied by fresh fruits like apples or pears, and a drizzle of honey for a touch of sweetness. For a more adventurous pairing, try it with a fig jam or a selection of nuts.",
+  "culinaryApplications": [
+    "Ideal for spreading on artisan breads",
+    "Perfect for enhancing a cheese board with its unique flavor",
+    "Can be used in salads for a creamy, tangy addition",
+    "Pairs wonderfully with fruit preserves for a sweet and savory snack"
+  ],
+  "faqs": [
+    {
+      "question": "What makes Mine Gabhar unique?",
+      "answer": "Its unique combination of soft texture, tangy flavor, and artisanal production methods set it apart."
+    },
+    {
+      "question": "How should Mine Gabhar be stored?",
+      "answer": "Keep it wrapped in parchment paper inside the refrigerator to maintain its freshness and texture."
+    },
+    {
+      "question": "Can Mine Gabhar be used in cooking?",
+      "answer": "Yes, its creamy texture makes it excellent for spreading or melting into dishes."
+    },
+    {
+      "question": "Is Mine Gabhar suitable for vegetarians?",
+      "answer": "This depends on the rennet used; traditional animal rennet is not vegetarian, but some producers may use vegetarian alternatives."
+    },
+    {
+      "question": "How does Mine Gabhar compare to other goat cheeses?",
+      "answer": "It shares the tangy flavor profile common to goat cheeses but stands out for its soft texture and artisanal quality."
+    }
+  ],
+  "tags": [
+    "artisan",
+    "goat cheese",
+    "soft cheese",
+    "Ireland",
+    "handcrafted",
+    "natural rind",
+    "creamy",
+    "tangy",
+    "spreadable",
+    "cheese board",
+    "wine pairing",
+    "beer pairing",
+    "fruit preserves",
+    "honey",
+    "nuts",
+    "fig jam",
+    "salad",
+    "bread",
+    "crackers",
+    "traditional",
+    "terroir",
+    "dairy",
+    "cheesemaking",
+    "small-scale",
+    "local",
+    "quality",
+    "flavor",
+    "texture",
+    "aroma",
+    "fresh",
+    "earthy",
+    "refined",
+    "rustic",
+    "bloom",
+    "aging",
+    "rennet",
+    "curds",
+    "molds",
+    "controlled environment",
+    "complexity",
+    "balance",
+    "savory",
+    "sweet",
+    "vegetarian",
+    "animal rennet",
+    "vegetarian alternatives",
+    "cooking",
+    "storage",
+    "preservation"
+  ],
+  "longTailKeywords": [
+    "Mine Gabhar cheese characteristics",
+    "Mine Gabhar cheese origin",
+    "Mine Gabhar cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Irish goat cheese",
+    "how to use Mine Gabhar in cooking",
+    "Mine Gabhar cheese board ideas",
+    "pairing wine with Mine Gabhar",
+    "traditional Irish artisan cheeses",
+    "soft goat cheese from Ireland",
+    "Mine Gabhar vs other goat cheeses",
+    "storing Mine Gabhar cheese",
+    "vegetarian options for Mine Gabhar",
+    "Mine Gabhar in salads",
+    "artisanal cheese making in Ireland",
+    "Mine Gabhar flavor profile",
+    "where to buy Mine Gabhar cheese",
+    "Mine Gabhar cheese recipes",
+    "health benefits of Mine Gabhar",
+    "Mine Gabhar cheese aging process",
+    "Mine Gabhar and fruit preserves",
+    "Mine Gabhar cheese and beer pairing",
+    "unique Irish cheeses",
+    "Mine Gabhar cheese nutritional info"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Chabichou du Poitou",
+      "similarity": "A French goat cheese with a similar soft texture and tangy flavor, also featuring a natural rind."
+    },
+    {
+      "name": "Crottin de Chavignol",
+      "similarity": "Another French goat cheese, known for its creamy texture and earthy flavors, comparable to Mine Gabhar."
+    },
+    {
+      "name": "Valençay",
+      "similarity": "A French goat cheese with a distinctive pyramid shape and ash-covered rind, offering a similar tangy and creamy profile."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Rich"
+  },
+  "lastUpdated": "2025-03-02T06:26:27.388Z"
+}

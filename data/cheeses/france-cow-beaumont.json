@@ -1,0 +1,152 @@
+{
+  "url": "https://www.cheese.com/beaumont/",
+  "milk": "cow",
+  "country": "France",
+  "region": "Rhône-Alpes",
+  "family": "NA",
+  "type": "semi-soft",
+  "fat_content": "50%",
+  "calcium_content": "NA",
+  "texture": "creamy, smooth",
+  "rind": "washed",
+  "color": "pale yellow",
+  "flavor": "NA",
+  "aroma": "barnyardy, earthy, mild, nutty, rich",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Beaumont",
+  "slug": "france-cow-beaumont",
+  "description": "Beaumont cheese is a semi-soft, cow's milk cheese originating from France, known for its creamy texture and delicate, nutty flavor. It boasts a pale yellow interior with a smooth, slightly elastic consistency, encased in a natural rind that may develop a light bloom of white mold as it ages. This cheese is celebrated for its versatility and approachable taste, making it a favorite among both cheese aficionados and casual consumers. Its production is rooted in traditional French cheesemaking techniques, emphasizing quality and craftsmanship.",
+  "history": "Beaumont cheese hails from the rich dairy traditions of France, a country renowned for its diverse and sophisticated cheese culture. While specific historical records about Beaumont are scarce, it is part of a broader tradition of semi-soft cheeses that have been produced in France for centuries. These cheeses were originally made by farmers as a way to preserve milk and have evolved into a variety of regional specialties. Beaumont, with its creamy texture and mild flavor, represents the French commitment to producing cheeses that are both delicious and accessible.",
+  "productionProcess": "Beaumont cheese is made from cow's milk, which is gently pasteurized to ensure safety while preserving the milk's natural flavors. The milk is then curdled using traditional rennet, and the curds are carefully cut and gently heated to achieve the desired texture. After molding, the cheese is pressed to expel excess whey and then aged for several weeks. During this time, it develops its characteristic semi-soft texture and subtle flavors. The aging process may also encourage the growth of a natural rind, adding complexity to the cheese's profile.",
+  "flavorProfile": "Beaumont cheese offers a mild, nutty flavor with hints of butter and fresh cream. Its aroma is subtle, with earthy undertones that become more pronounced as the cheese ages. The texture is creamy and smooth, with a slight elasticity that makes it a pleasure to eat. This cheese strikes a perfect balance between richness and lightness, making it an excellent choice for a wide range of culinary applications.",
+  "pairings": "Beaumont cheese pairs beautifully with a variety of foods and beverages. For a traditional pairing, enjoy it with a crusty baguette and a glass of light-bodied red wine, such as a Pinot Noir, which complements its nutty flavors without overwhelming them. It also goes well with crisp white wines like Chardonnay or a dry cider. For a more adventurous pairing, try Beaumont with fruit preserves or honey, which highlight its creamy texture and subtle sweetness. Beer enthusiasts might enjoy it with a Belgian-style ale, whose fruity and spicy notes can enhance the cheese's complexity.",
+  "culinaryApplications": [
+    "Ideal for cheese boards, offering a creamy contrast to harder cheeses",
+    "Melts beautifully in sandwiches and grilled cheese",
+    "Perfect for adding richness to sauces and soups",
+    "Great for baking, especially in quiches and savory pastries"
+  ],
+  "faqs": [
+    {
+      "question": "What does Beaumont cheese taste like?",
+      "answer": "Beaumont cheese has a mild, nutty flavor with hints of butter and fresh cream, making it approachable and versatile."
+    },
+    {
+      "question": "How long is Beaumont cheese aged?",
+      "answer": "Beaumont cheese is typically aged for several weeks, during which it develops its semi-soft texture and subtle flavors."
+    },
+    {
+      "question": "Can Beaumont cheese be used in cooking?",
+      "answer": "Yes, Beaumont cheese is excellent for cooking, as it melts well and adds a creamy richness to dishes."
+    },
+    {
+      "question": "What are some similar cheeses to Beaumont?",
+      "answer": "Similar cheeses include Saint-Nectaire, Tomme de Savoie, and Reblochon, which share a semi-soft texture and mild, nutty flavors."
+    },
+    {
+      "question": "Is Beaumont cheese suitable for vegetarians?",
+      "answer": "This depends on the rennet used in production. Traditional rennet is animal-based, but some producers may use vegetarian alternatives."
+    }
+  ],
+  "tags": [
+    "Beaumont cheese",
+    "French cheese",
+    "cow's milk cheese",
+    "semi-soft cheese",
+    "artisanal cheese",
+    "cheese board",
+    "cooking cheese",
+    "nutty flavor",
+    "creamy texture",
+    "French dairy",
+    "cheese pairings",
+    "wine and cheese",
+    "beer and cheese",
+    "vegetarian cheese",
+    "aged cheese",
+    "cheese making",
+    "traditional cheese",
+    "cheese culture",
+    "gourmet cheese",
+    "cheese recipes",
+    "cheese aging",
+    "cheese rind",
+    "cheese flavors",
+    "cheese texture",
+    "cheese history",
+    "cheese production",
+    "cheese FAQ",
+    "cheese nutritional info",
+    "cheese culinary uses",
+    "cheese storage",
+    "cheese slicing",
+    "cheese serving",
+    "cheese varieties",
+    "cheese comparison",
+    "cheese enthusiasts",
+    "cheese lovers",
+    "cheese tasting",
+    "cheese appreciation",
+    "cheese craftsmanship",
+    "cheese quality",
+    "cheese accessibility",
+    "cheese versatility",
+    "cheese richness",
+    "cheese lightness",
+    "cheese complexity",
+    "cheese subtlety",
+    "cheese tradition",
+    "cheese innovation",
+    "cheese exploration"
+  ],
+  "longTailKeywords": [
+    "Beaumont cheese characteristics",
+    "Beaumont cheese origin",
+    "Beaumont cheese flavor"
+  ],
+  "seoKeywords": [
+    "best French cow milk cheese",
+    "how to use Beaumont in cooking",
+    "Beaumont cheese flavor profile",
+    "pairing wine with Beaumont cheese",
+    "traditional French semi-soft cheese",
+    "Beaumont cheese culinary applications",
+    "where to buy Beaumont cheese",
+    "Beaumont cheese vs Saint-Nectaire",
+    "aging process of Beaumont cheese",
+    "vegetarian options for Beaumont cheese",
+    "Beaumont cheese in cheese boards",
+    "melting properties of Beaumont cheese",
+    "history of Beaumont cheese",
+    "Beaumont cheese production techniques",
+    "nutty French cheeses like Beaumont",
+    "Beaumont cheese and beer pairings",
+    "storing Beaumont cheese properly",
+    "Beaumont cheese for baking",
+    "health benefits of Beaumont cheese",
+    "exploring French cheese varieties"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Saint-Nectaire",
+      "description": "A semi-soft cheese from France with a creamy texture and a slightly stronger, earthier flavor than Beaumont."
+    },
+    {
+      "name": "Tomme de Savoie",
+      "description": "A versatile, semi-soft cheese from the Savoie region, known for its mild, nutty flavor and rustic rind."
+    },
+    {
+      "name": "Reblochon",
+      "description": "A creamy, washed-rind cheese from the French Alps, offering a rich, buttery flavor with a hint of nuttiness."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "Approximately 25-30%",
+    "calciumContent": "High, contributing to bone health"
+  },
+  "lastUpdated": "2025-03-01T19:09:11.970Z"
+}

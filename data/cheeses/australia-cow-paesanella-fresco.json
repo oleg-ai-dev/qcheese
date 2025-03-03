@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/paesanella-fresco/",
+  "milk": "cow",
+  "country": "Australia",
+  "region": "NA",
+  "family": "Pecorino",
+  "type": "semi-hard, artisan",
+  "fat_content": "18.4 g/100g",
+  "calcium_content": "NA",
+  "texture": "chewy, firm",
+  "rind": "rindless",
+  "color": "pale yellow",
+  "flavor": "mild, tangy",
+  "aroma": "mild",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "Pecorino Fresco",
+  "alt_spellings": "Fresco Fresh Pecorino style",
+  "producers": "Paesanella Cheese Manufacturers",
+  "name": "Paesanella Fresco",
+  "slug": "australia-cow-paesanella-fresco",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Paesanella Fresco cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Paesanella Fresco cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Paesanella Fresco cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Paesanella Fresco cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Paesanella Fresco cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "cow milk",
+    "Australia",
+    "chewy, firm"
+  ],
+  "longTailKeywords": [
+    "Paesanella Fresco cheese characteristics",
+    "Paesanella Fresco cheese origin",
+    "Paesanella Fresco cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T08:18:31.691Z"
+}

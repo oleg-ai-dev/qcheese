@@ -1,0 +1,153 @@
+{
+  "url": "https://www.cheese.com/aisy-cendre/",
+  "milk": "cow",
+  "country": "France",
+  "region": "Burgundy",
+  "family": "NA",
+  "type": "semi-soft, smear-ripened",
+  "fat_content": "50%",
+  "calcium_content": "NA",
+  "texture": "creamy, smooth",
+  "rind": "washed",
+  "color": "white",
+  "flavor": "full-flavored, herbaceous, salty, smokey",
+  "aroma": "earthy, nutty, smokey",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "Cendre d'Aisy, Ashen Aisy",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Aisy Cendre",
+  "slug": "france-cow-aisy-cendre",
+  "description": "Aisy Cendre is a distinctive French cheese, originating from the Burgundy region, known for its unique ash-covered rind and semi-soft texture. This cheese is made from cow's milk and undergoes a smear-ripening process, which contributes to its complex flavor profile and creamy interior. The ash not only adds to its striking appearance but also helps regulate moisture and acidity during the aging process, enhancing the cheese's depth of flavor. Aisy Cendre is celebrated for its balance of earthy and tangy notes, making it a favorite among cheese connoisseurs.",
+  "history": "Aisy Cendre's roots can be traced back to the Burgundy region of France, where it has been crafted by local cheesemakers for generations. The tradition of covering cheese with ash dates back to ancient times, serving both practical and aesthetic purposes. In Burgundy, this technique was adopted to create a unique cheese that stands out for its flavor and appearance. Aisy Cendre embodies the rich cheesemaking heritage of the region, showcasing the skill and creativity of its producers.",
+  "productionProcess": "Aisy Cendre is produced using cow's milk, which is first pasteurized and then inoculated with specific cultures to start the fermentation process. Rennet is added to coagulate the milk, forming curds that are then cut, drained, and molded. The cheese is then covered with vegetable ash, which plays a crucial role in its ripening process. It is aged for several weeks in a controlled environment, during which it is regularly turned and washed with a brine solution to develop its characteristic rind and flavor.",
+  "flavorProfile": "Aisy Cendre offers a complex flavor profile that combines earthy, tangy, and slightly nutty notes. The ash-covered rind contributes a subtle bitterness that contrasts beautifully with the cheese's creamy and smooth interior. Its aroma is rich and inviting, with hints of mushrooms and fresh earth, making it a truly sensory experience.",
+  "pairings": "Aisy Cendre pairs wonderfully with a variety of foods and beverages. For a traditional pairing, enjoy it with a crusty baguette and a glass of Burgundy wine, which complements its earthy flavors. It also goes well with light beers and ciders that can balance its richness. For a more adventurous pairing, try it with dark chocolate or dried fruits, which highlight its tangy and nutty notes. Aisy Cendre is also a great addition to cheese boards, accompanied by nuts, honey, and fresh fruits.",
+  "culinaryApplications": [
+    "Ideal for cheese boards",
+    "Perfect for melting in gourmet sandwiches",
+    "Enhances the flavor of salads when crumbled",
+    "Great for baking into savory pastries"
+  ],
+  "faqs": [
+    {
+      "question": "What makes Aisy Cendre unique?",
+      "answer": "Its ash-covered rind and smear-ripening process give it a distinctive flavor and appearance."
+    },
+    {
+      "question": "How long is Aisy Cendre aged?",
+      "answer": "It is typically aged for several weeks to develop its complex flavors."
+    },
+    {
+      "question": "Can Aisy Cendre be used in cooking?",
+      "answer": "Yes, it melts beautifully and can enhance a variety of dishes."
+    },
+    {
+      "question": "What are some similar cheeses to Aisy Cendre?",
+      "answer": "Selles-sur-Cher, Valençay, and Morbier share similar characteristics."
+    },
+    {
+      "question": "Is Aisy Cendre suitable for vegetarians?",
+      "answer": "It depends on the rennet used; some versions may be suitable for vegetarians."
+    }
+  ],
+  "tags": [
+    "French cheese",
+    "cow milk",
+    "semi-soft",
+    "smear-ripened",
+    "ash-covered",
+    "Burgundy",
+    "artisanal",
+    "cheese board",
+    "gourmet",
+    "earthy",
+    "tangy",
+    "nutty",
+    "creamy",
+    "unique",
+    "traditional",
+    "culinary",
+    "pairing",
+    "wine",
+    "beer",
+    "cider",
+    "salad",
+    "sandwich",
+    "pastry",
+    "vegetarian option",
+    "complex flavor",
+    "sensory experience",
+    "cheese connoisseurs",
+    "local",
+    "heritage",
+    "ripening",
+    "brine",
+    "fermentation",
+    "cultures",
+    "rennet",
+    "pasteurized",
+    "controlled environment",
+    "turning",
+    "washing",
+    "moisture",
+    "acidity",
+    "depth of flavor",
+    "striking appearance",
+    "balance",
+    "contrast",
+    "bitterness",
+    "smooth",
+    "rich",
+    "inviting",
+    "mushrooms",
+    "fresh earth"
+  ],
+  "longTailKeywords": [
+    "Aisy Cendre cheese characteristics",
+    "Aisy Cendre cheese origin",
+    "Aisy Cendre cheese flavor"
+  ],
+  "seoKeywords": [
+    "best French cow milk cheese",
+    "how to use Aisy Cendre in cooking",
+    "Aisy Cendre cheese pairings",
+    "unique ash-covered French cheese",
+    "Aisy Cendre vs Selles-sur-Cher",
+    "smear-ripened cheese from Burgundy",
+    "Aisy Cendre flavor profile",
+    "where to buy Aisy Cendre cheese",
+    "Aisy Cendre cheese board ideas",
+    "Aisy Cendre wine pairings",
+    "how is Aisy Cendre made",
+    "Aisy Cendre culinary uses",
+    "Aisy Cendre cheese history",
+    "Aisy Cendre vs Morbier",
+    "vegetarian Aisy Cendre cheese",
+    "Aisy Cendre cheese aging process",
+    "Aisy Cendre cheese nutritional info",
+    "Aisy Cendre cheese recipes",
+    "Aisy Cendre cheese taste",
+    "Aisy Cendre cheese Burgundy origin"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Selles-sur-Cher",
+      "similarity": "Both are French cheeses with an ash-covered rind, offering a unique flavor profile."
+    },
+    {
+      "name": "Valençay",
+      "similarity": "Shares the ash-covered characteristic and a complex, tangy flavor."
+    },
+    {
+      "name": "Morbier",
+      "similarity": "Known for its distinctive layer of ash and semi-soft texture, similar to Aisy Cendre."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Rich"
+  },
+  "lastUpdated": "2025-03-01T16:31:09.557Z"
+}

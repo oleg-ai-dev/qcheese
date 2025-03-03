@@ -1,0 +1,159 @@
+{
+  "url": "https://www.cheese.com/crema-agria/",
+  "milk": "cow",
+  "country": "Mexico and Caribbean",
+  "region": "NA",
+  "family": "NA",
+  "type": "fresh soft",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, spreadable",
+  "rind": "rindless",
+  "color": "white",
+  "flavor": "acidic, sour, tangy",
+  "aroma": "aromatic, fresh",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "Crema Centroamericana, Crema Agria",
+  "alt_spellings": "NA",
+  "producers": "Cacique Inc.",
+  "name": "Crema Agria",
+  "slug": "mexico-and-caribbean-cow-crema-agria",
+  "description": "Crema Agria, a staple in Mexican and Caribbean cuisines, is a fresh, soft cheese made from cow's milk. It resembles sour cream in texture and appearance but has a richer, tangier flavor profile. This cheese is characterized by its smooth, creamy consistency and a slightly grainy texture, making it an excellent addition to a variety of dishes. Its versatility and distinctive taste have made it a beloved ingredient in traditional recipes, from tacos to soups. Crema Agria is typically sold in tubs and can be found in the dairy section of grocery stores specializing in Latin American products.",
+  "history": "Crema Agria has its roots deeply embedded in the culinary traditions of Mexico and the Caribbean. It evolved as a local adaptation of European dairy products introduced during the colonial period. Over time, it became an integral part of the region's cuisine, reflecting the fusion of indigenous and European culinary practices. Its popularity has grown beyond its origins, becoming a sought-after ingredient for its unique flavor and texture in various international cuisines.",
+  "productionProcess": "Crema Agria is produced by fermenting cow's milk with lactic acid bacteria, which thickens the milk and imparts a tangy flavor. The process involves pasteurizing the milk, adding the bacterial culture, and allowing it to ferment at a controlled temperature. Unlike aged cheeses, Crema Agria is consumed fresh, which means it does not undergo an aging process. This quick production method ensures its soft texture and fresh taste.",
+  "flavorProfile": "Crema Agria offers a rich, tangy flavor with a creamy, smooth texture. Its acidity is balanced by a subtle sweetness, making it a versatile ingredient that enhances the taste of both savory and sweet dishes. The aroma is fresh and slightly sour, characteristic of fermented dairy products.",
+  "pairings": "Crema Agria pairs wonderfully with spicy dishes, as its creaminess can help balance the heat. It's a perfect topping for tacos, nachos, and enchiladas. For a refreshing combination, try it with fresh fruits like mango or pineapple. In terms of beverages, light beers and crisp white wines complement its tangy flavor. For a non-alcoholic option, a lime-infused sparkling water can be a delightful match.",
+  "culinaryApplications": [
+    "Ideal as a topping for tacos and nachos",
+    "Perfect for enriching soups and stews",
+    "Great in dips and spreads for a tangy flavor",
+    "Can be used in baking to add moisture and richness to cakes"
+  ],
+  "faqs": [
+    {
+      "question": "Is Crema Agria the same as sour cream?",
+      "answer": "While similar, Crema Agria is richer and tangier than sour cream, with a slightly grainy texture."
+    },
+    {
+      "question": "Can I use Crema Agria in baking?",
+      "answer": "Yes, its creamy texture and tangy flavor make it an excellent ingredient for adding moisture and richness to baked goods."
+    },
+    {
+      "question": "How should Crema Agria be stored?",
+      "answer": "It should be kept refrigerated and consumed by the expiration date to ensure freshness."
+    },
+    {
+      "question": "Can Crema Agria be used in desserts?",
+      "answer": "Absolutely, its tangy flavor pairs well with sweet dishes, especially those featuring fruits."
+    },
+    {
+      "question": "Is Crema Agria suitable for vegetarians?",
+      "answer": "Yes, as it is made from cow's milk and bacterial cultures, it is suitable for vegetarians."
+    }
+  ],
+  "tags": [
+    "Crema Agria",
+    "Mexican cheese",
+    "Caribbean cheese",
+    "cow milk cheese",
+    "fresh cheese",
+    "soft cheese",
+    "tangy cheese",
+    "culinary uses",
+    "cheese pairings",
+    "dairy products",
+    "Latin American cuisine",
+    "fermented cheese",
+    "cheese toppings",
+    "baking with cheese",
+    "vegetarian cheese",
+    "cheese storage",
+    "cheese flavor profile",
+    "cheese production",
+    "cheese history",
+    "cheese FAQs",
+    "international cheeses",
+    "cheese in desserts",
+    "cheese in soups",
+    "cheese dips",
+    "cheese spreads",
+    "cheese and wine pairings",
+    "cheese and beer pairings",
+    "non-alcoholic cheese pairings",
+    "cheese in tacos",
+    "cheese in nachos",
+    "cheese in enchiladas",
+    "cheese with fruits",
+    "lactic acid bacteria",
+    "pasteurized milk",
+    "fermentation process",
+    "fresh dairy products",
+    "cheese texture",
+    "cheese aroma",
+    "cheese acidity",
+    "cheese sweetness",
+    "cheese in spicy dishes",
+    "cheese balance",
+    "cheese richness",
+    "cheese moisture",
+    "cheese in cakes",
+    "cheese expiration",
+    "cheese freshness",
+    "cheese for vegetarians"
+  ],
+  "longTailKeywords": [
+    "Crema Agria cheese characteristics",
+    "Crema Agria cheese origin",
+    "Crema Agria cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Crema Agria cheese uses",
+    "how to use Crema Agria in tacos",
+    "Crema Agria vs sour cream",
+    "Crema Agria in baking",
+    "storing Crema Agria cheese",
+    "Crema Agria cheese pairings",
+    "Mexican Crema Agria cheese",
+    "Caribbean Crema Agria cheese",
+    "fresh cow milk cheese",
+    "tangy soft cheese",
+    "Crema Agria in desserts",
+    "vegetarian Crema Agria cheese",
+    "Crema Agria cheese flavor profile",
+    "how Crema Agria is made",
+    "history of Crema Agria cheese",
+    "Crema Agria cheese in soups",
+    "Crema Agria cheese dips",
+    "Crema Agria cheese spreads",
+    "wine pairings with Crema Agria",
+    "beer pairings with Crema Agria"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Sour Cream",
+      "similarity": "Both are fresh, tangy dairy products used as toppings or in cooking, though Crema Agria is richer and tangier."
+    },
+    {
+      "name": "Crème Fraîche",
+      "similarity": "Similar in texture and use, but Crème Fraîche is less tangy and has a higher fat content."
+    },
+    {
+      "name": "Quark",
+      "similarity": "A fresh cheese with a creamy texture, though Quark is milder and less tangy than Crema Agria."
+    },
+    {
+      "name": "Yogurt",
+      "similarity": "Both are fermented dairy products with a tangy flavor, but yogurt is typically thinner and used differently in recipes."
+    },
+    {
+      "name": "Fromage Blanc",
+      "similarity": "A fresh, soft cheese with a mild tanginess, though it's smoother and less grainy than Crema Agria."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Moderate"
+  },
+  "lastUpdated": "2025-03-02T01:42:10.088Z"
+}

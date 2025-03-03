@@ -1,0 +1,161 @@
+{
+  "url": "https://www.cheese.com/catupiry/",
+  "milk": "cow",
+  "country": "Brazil",
+  "region": "NA",
+  "family": "NA",
+  "type": "soft, processed",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, spreadable",
+  "rind": "NA",
+  "color": "white",
+  "flavor": "creamy, mild, milky",
+  "aroma": "fresh, milky",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "Catupiry Original, Catupiry Light",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Catupiry",
+  "slug": "brazil-cow-catupiry",
+  "description": "Catupiry is a beloved Brazilian cheese known for its creamy, spreadable texture and mild, slightly tangy flavor. Originating from Brazil, it is made from cow's milk and is classified as a soft, processed cheese. Its appearance is smooth and velvety, often found in tubs or as a filling in various Brazilian dishes. Catupiry's unique characteristic lies in its versatility and ability to enhance both savory and sweet dishes, making it a staple in Brazilian cuisine.",
+  "history": "Catupiry was created in the early 20th century by an Italian immigrant, Mario Silvestrini, in the state of Minas Gerais, Brazil. Inspired by Italian cream cheeses, Silvestrini aimed to produce a cheese that was both delicious and versatile. Over the years, Catupiry has become an integral part of Brazilian culinary culture, used in everything from pizzas to pastries. Its name is derived from the Tupi-Guarani word 'catupiry,' meaning 'excellent,' reflecting its esteemed status in Brazilian gastronomy.",
+  "productionProcess": "Catupiry is made from pasteurized cow's milk, which is curdled using specific cultures to achieve its soft, creamy texture. The cheese is then processed to ensure a smooth consistency, often involving the addition of cream to enhance its richness. Unlike traditional aged cheeses, Catupiry is not aged, allowing it to retain its fresh, mild flavor. The production process emphasizes hygiene and consistency, ensuring a high-quality product that is safe and enjoyable to consume.",
+  "flavorProfile": "Catupiry boasts a mild, creamy flavor with a slight tanginess that adds depth without overpowering. Its aroma is fresh and inviting, with a buttery undertone. The texture is exceptionally smooth and spreadable, making it a delight to eat on its own or as part of a dish. Its subtle flavor profile makes it a versatile ingredient that complements a wide range of foods.",
+  "pairings": "Catupiry pairs wonderfully with a variety of foods and beverages. Traditionally, it is used as a filling in Brazilian pastries and pizzas, complementing flavors like ham, chicken, and hearts of palm. For a modern twist, try it with fresh fruits or drizzle it with honey for a sweet and savory treat. Wine enthusiasts might enjoy it with a light, crisp white wine, while beer lovers can pair it with a refreshing pilsner. For non-alcoholic options, a sparkling water with a squeeze of lime enhances its creamy texture.",
+  "culinaryApplications": [
+    "Ideal as a spread on bread or crackers",
+    "Perfect for filling pastries and empanadas",
+    "Enhances the flavor of pizzas and sandwiches",
+    "Great for creating creamy pasta sauces",
+    "Can be used in desserts for a unique twist"
+  ],
+  "faqs": [
+    {
+      "question": "Is Catupiry cheese similar to cream cheese?",
+      "answer": "Yes, Catupiry is similar to cream cheese in texture but has a slightly tangier flavor and is more spreadable."
+    },
+    {
+      "question": "Can Catupiry be used in baking?",
+      "answer": "Absolutely, Catupiry is excellent in baking, especially as a filling for pastries and bread."
+    },
+    {
+      "question": "How should Catupiry be stored?",
+      "answer": "Catupiry should be stored in the refrigerator and is best consumed within the timeframe indicated on the packaging."
+    },
+    {
+      "question": "Is Catupiry suitable for vegetarians?",
+      "answer": "Yes, Catupiry is made with microbial rennet, making it suitable for vegetarians."
+    },
+    {
+      "question": "Can Catupiry be frozen?",
+      "answer": "Freezing is not recommended as it can alter the texture and flavor of the cheese."
+    }
+  ],
+  "tags": [
+    "Brazilian cheese",
+    "cow milk cheese",
+    "soft cheese",
+    "processed cheese",
+    "creamy cheese",
+    "spreadable cheese",
+    "mild cheese",
+    "tangy cheese",
+    "versatile cheese",
+    "culinary cheese",
+    "cheese for baking",
+    "cheese for cooking",
+    "cheese for spreads",
+    "cheese for pizzas",
+    "cheese for pastries",
+    "cheese for sandwiches",
+    "cheese for pasta",
+    "cheese for desserts",
+    "vegetarian cheese",
+    "fresh cheese",
+    "smooth cheese",
+    "buttery cheese",
+    "light cheese",
+    "refreshing cheese",
+    "gourmet cheese",
+    "artisanal cheese",
+    "traditional cheese",
+    "modern cheese",
+    "exotic cheese",
+    "unique cheese",
+    "flavorful cheese",
+    "aromatic cheese",
+    "delicate cheese",
+    "rich cheese",
+    "luscious cheese",
+    "indulgent cheese",
+    "savory cheese",
+    "sweet cheese",
+    "Brazilian cuisine",
+    "Minas Gerais cheese",
+    "Italian-inspired cheese",
+    "20th century cheese",
+    "Mario Silvestrini",
+    "Tupi-Guarani",
+    "excellent cheese",
+    "culinary staple",
+    "gastronomy",
+    "food culture",
+    "cheese lover"
+  ],
+  "longTailKeywords": [
+    "Catupiry cheese characteristics",
+    "Catupiry cheese origin",
+    "Catupiry cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Brazilian cow milk cheese",
+    "how to use Catupiry in cooking",
+    "Catupiry cheese recipes",
+    "where to buy Catupiry cheese",
+    "Catupiry vs cream cheese",
+    "Catupiry cheese for vegetarians",
+    "Catupiry in Brazilian cuisine",
+    "how to store Catupiry cheese",
+    "Catupiry cheese for baking",
+    "Catupiry cheese for pizzas",
+    "Catupiry cheese for pastries",
+    "Catupiry cheese for sandwiches",
+    "Catupiry cheese for pasta",
+    "Catupiry cheese for desserts",
+    "Catupiry cheese pairings",
+    "Catupiry cheese flavor profile",
+    "Catupiry cheese production process",
+    "history of Catupiry cheese",
+    "Catupiry cheese culinary applications",
+    "Catupiry cheese nutritional info"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Cream Cheese",
+      "similarity": "Both are soft, spreadable cheeses with a mild flavor, though Catupiry is slightly tangier."
+    },
+    {
+      "name": "Boursin",
+      "similarity": "Boursin is also creamy and spreadable, often flavored with herbs, making it a gourmet alternative."
+    },
+    {
+      "name": "Mascarpone",
+      "similarity": "Mascarpone shares the creamy texture and is used in both savory and sweet dishes, though it's richer and less tangy."
+    },
+    {
+      "name": "Ricotta",
+      "similarity": "Ricotta is another soft cheese with a mild flavor, but it has a grainier texture compared to Catupiry."
+    },
+    {
+      "name": "Philadelphia",
+      "similarity": "Philadelphia cream cheese is very similar in texture and use, though Catupiry has a distinct tanginess."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Moderate"
+  },
+  "lastUpdated": "2025-03-01T23:42:37.109Z"
+}

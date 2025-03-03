@@ -1,0 +1,159 @@
+{
+  "url": "https://www.cheese.com/crowdie/",
+  "milk": "cow",
+  "country": "Scotland",
+  "region": "NA",
+  "family": "Cottage",
+  "type": "fresh soft",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, crumbly",
+  "rind": "natural",
+  "color": "white",
+  "flavor": "sour",
+  "aroma": "NA",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Highland Fine Cheeses Limited",
+  "name": "Crowdie",
+  "slug": "scotland-cow-crowdie",
+  "description": "Crowdie is a traditional Scottish fresh cheese made from cow's milk, known for its simple, rustic charm. It has a soft, crumbly texture and a mild, slightly tangy flavor that reflects its fresh nature. This cheese is often compared to cottage cheese or fromage frais but has a distinct identity rooted in Scottish culinary tradition. Its appearance is typically white and moist, with a consistency that can range from creamy to slightly grainy, depending on the production method. Crowdie is celebrated for its versatility and is a staple in Scottish households, often enjoyed as a breakfast item or snack.",
+  "history": "Crowdie has a long history in Scotland, dating back to the Viking era, making it one of the oldest types of cheese in the region. It was traditionally made by crofters (small-scale farmers) using leftover milk after skimming off the cream for butter. This cheese was a practical way to preserve milk in a time before refrigeration. Over the centuries, Crowdie has remained a symbol of Scottish resilience and resourcefulness, embodying the simplicity and ingenuity of rural life. Today, it is still made using traditional methods, though it is less common than in the past.",
+  "productionProcess": "Crowdie is made from cow's milk, which is gently heated and then curdled using a natural acid, such as lemon juice or vinegar, rather than rennet. The curds are drained in a cloth to remove excess whey, resulting in a soft, crumbly cheese. Unlike aged cheeses, Crowdie is consumed fresh, usually within a few days of production. Some modern variations may include added cream for a richer texture, but the traditional version remains simple and unadorned.",
+  "flavorProfile": "Crowdie has a mild, fresh, and slightly tangy flavor with a clean, lactic finish. Its texture is soft and crumbly, with a moist, creamy mouthfeel. The aroma is fresh and milky, with no strong or pungent notes, making it approachable for a wide range of palates.",
+  "pairings": "Crowdie pairs beautifully with traditional Scottish oatcakes or crusty bread, enhancing its rustic charm. For a sweet contrast, try it with honey, fresh berries, or a drizzle of heather-infused syrup. It also complements smoked salmon or cured meats, making it a versatile addition to charcuterie boards. Beverage pairings include light, crisp white wines like Sauvignon Blanc or a refreshing Scottish ale. For a non-alcoholic option, try it with a glass of buttermilk or a herbal tea.",
+  "culinaryApplications": [
+    "Perfect for spreading on oatcakes or toast",
+    "Ideal for adding to salads for a creamy texture",
+    "Great for mixing into mashed potatoes for extra richness",
+    "Can be used as a filling for savory pastries or scones"
+  ],
+  "faqs": [
+    {
+      "question": "Is Crowdie similar to cottage cheese?",
+      "answer": "Yes, Crowdie is similar to cottage cheese in texture and freshness, but it has a slightly tangier flavor and a more crumbly consistency."
+    },
+    {
+      "question": "How long does Crowdie last?",
+      "answer": "Crowdie is best consumed fresh, typically within a few days of production, as it does not undergo aging."
+    },
+    {
+      "question": "Can Crowdie be used in cooking?",
+      "answer": "Absolutely! Crowdie is versatile and can be used in both sweet and savory dishes, from spreads to baked goods."
+    },
+    {
+      "question": "Is Crowdie widely available outside Scotland?",
+      "answer": "Crowdie is relatively obscure outside Scotland, but similar fresh cheeses like cottage cheese or fromage frais can be used as substitutes."
+    },
+    {
+      "question": "Does Crowdie contain rennet?",
+      "answer": "Traditional Crowdie is made without rennet, using natural acids like lemon juice or vinegar to curdle the milk."
+    }
+  ],
+  "tags": [
+    "Scottish cheese",
+    "fresh cheese",
+    "cow's milk cheese",
+    "soft cheese",
+    "traditional cheese",
+    "Crowdie",
+    "artisanal cheese",
+    "rustic cheese",
+    "mild cheese",
+    "crumbly cheese",
+    "lactic cheese",
+    "breakfast cheese",
+    "snack cheese",
+    "cottage cheese alternative",
+    "fromage frais alternative",
+    "Scottish culinary tradition",
+    "Viking-era cheese",
+    "crofters' cheese",
+    "simple cheese",
+    "versatile cheese",
+    "cheese for spreads",
+    "cheese for salads",
+    "cheese for baking",
+    "cheese for charcuterie",
+    "cheese with oatcakes",
+    "cheese with honey",
+    "cheese with berries",
+    "cheese with smoked salmon",
+    "cheese with white wine",
+    "cheese with ale",
+    "cheese with buttermilk",
+    "cheese with herbal tea",
+    "fresh and tangy cheese",
+    "moist cheese",
+    "creamy cheese",
+    "grainy cheese",
+    "unaged cheese",
+    "acid-curdled cheese",
+    "lemon juice cheese",
+    "vinegar cheese",
+    "no-rennet cheese",
+    "Scottish breakfast cheese",
+    "Scottish snack cheese",
+    "Scottish artisanal cheese",
+    "Scottish rustic cheese",
+    "Scottish mild cheese",
+    "Scottish crumbly cheese",
+    "Scottish lactic cheese"
+  ],
+  "longTailKeywords": [
+    "Crowdie cheese characteristics",
+    "Crowdie cheese origin",
+    "Crowdie cheese flavor"
+  ],
+  "seoKeywords": [
+    "traditional Scottish Crowdie cheese",
+    "how to use Crowdie in cooking",
+    "best pairings for Crowdie cheese",
+    "Crowdie cheese vs cottage cheese",
+    "where to buy Crowdie cheese",
+    "history of Crowdie cheese",
+    "how to make Crowdie cheese at home",
+    "Crowdie cheese nutritional information",
+    "Crowdie cheese flavor profile",
+    "Crowdie cheese texture",
+    "Scottish fresh cow milk cheese",
+    "Crowdie cheese and oatcakes",
+    "Crowdie cheese and smoked salmon",
+    "Crowdie cheese and honey",
+    "Crowdie cheese and berries",
+    "Crowdie cheese and white wine",
+    "Crowdie cheese and Scottish ale",
+    "Crowdie cheese and buttermilk",
+    "Crowdie cheese and herbal tea",
+    "Crowdie cheese in salads"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Cottage Cheese",
+      "description": "A fresh cheese with a similar crumbly texture and mild flavor, often used as a substitute for Crowdie."
+    },
+    {
+      "name": "Fromage Frais",
+      "description": "A fresh, creamy cheese with a slightly tangy taste, similar in texture and freshness to Crowdie."
+    },
+    {
+      "name": "Quark",
+      "description": "A fresh, soft cheese with a mild flavor and creamy texture, often used in both sweet and savory dishes."
+    },
+    {
+      "name": "Ricotta",
+      "description": "A fresh, slightly grainy cheese with a mild, milky flavor, often used in cooking and baking."
+    },
+    {
+      "name": "Clabber",
+      "description": "A traditional fresh cheese made from naturally soured milk, similar in texture and simplicity to Crowdie."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T01:58:09.750Z"
+}

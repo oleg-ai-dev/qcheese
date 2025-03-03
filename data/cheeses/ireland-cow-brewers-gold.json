@@ -1,0 +1,151 @@
+{
+  "url": "https://www.cheese.com/brewers-gold/",
+  "milk": "cow",
+  "country": "Ireland",
+  "region": "Stoneyford",
+  "family": "NA",
+  "type": "semi-soft, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy",
+  "rind": "washed",
+  "color": "pale yellow",
+  "flavor": "NA",
+  "aroma": "NA",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Knockdrinna Farmhouse Cheese",
+  "name": "Brewers Gold",
+  "slug": "ireland-cow-brewers-gold",
+  "description": "Brewers Gold is an artisan, semi-soft cheese originating from Ireland, crafted from cow's milk. This cheese is celebrated for its unique character, which is influenced by the local terroir and the artisanal methods used in its production. It typically presents a creamy, smooth texture that is slightly elastic, making it a delight to both the palate and the touch. The rind of Brewers Gold is often natural, developing a rustic appearance that hints at the traditional cheesemaking techniques employed. Its color ranges from pale yellow to a deeper golden hue, depending on the aging process. Brewers Gold is known for its distinctive flavor profile, which is a harmonious blend of nutty and buttery notes, with a subtle tanginess that adds complexity.",
+  "history": "Brewers Gold cheese is a testament to Ireland's rich dairy farming and cheesemaking heritage. While specific historical records about Brewers Gold are scarce, it is part of a broader tradition of Irish artisan cheeses that have gained recognition for their quality and craftsmanship. The cheese is named after the Brewers Gold hop, suggesting a connection or inspiration from the brewing industry, which is also prominent in Ireland. This cheese represents the innovation and creativity of Irish cheesemakers, who are increasingly experimenting with flavors and techniques to produce unique cheeses that stand out in the global market.",
+  "productionProcess": "Brewers Gold is made from high-quality cow's milk, which is carefully selected to ensure the best flavor and texture. The milk is gently pasteurized before the addition of starter cultures and rennet, which initiate the curdling process. The curds are then cut, stirred, and gently heated to achieve the desired moisture content. After being molded, the cheese is pressed to expel any remaining whey and then aged for several weeks to several months. During this time, the cheese develops its characteristic rind and flavor profile. The aging process is crucial, as it allows the cheese to mature and develop its complex flavors and textures.",
+  "flavorProfile": "Brewers Gold offers a rich and nuanced flavor profile that is both inviting and complex. It features a creamy, buttery base with nutty undertones, complemented by a slight tanginess that adds depth and character. The texture is smooth and semi-soft, with a pleasant elasticity that makes it versatile in culinary applications. The aroma is mild yet inviting, with hints of earthiness and a subtle sweetness that rounds out the sensory experience.",
+  "pairings": "Brewers Gold pairs beautifully with a variety of foods and beverages. For a traditional pairing, enjoy it with crusty bread, fresh fruits like apples and pears, and a selection of nuts. It also complements charcuterie boards, adding a creamy contrast to cured meats. In terms of beverages, Brewers Gold goes well with both red and white wines, particularly those with a fruity or floral profile. Beer enthusiasts will appreciate its harmony with craft ales, especially those with a hoppy character, echoing the cheese's namesake. For a non-alcoholic option, try pairing it with a crisp cider or a rich, dark tea.",
+  "culinaryApplications": [
+    "Ideal for cheese boards, offering a creamy texture and complex flavor",
+    "Melts beautifully in grilled cheese sandwiches, adding a rich, nutty flavor",
+    "Perfect for incorporating into savory dishes, such as quiches or casseroles, for added depth",
+    "Can be used as a gourmet topping for burgers or steaks, enhancing the dish with its buttery notes"
+  ],
+  "faqs": [
+    {
+      "question": "What makes Brewers Gold unique?",
+      "answer": "Brewers Gold is unique due to its artisanal production, semi-soft texture, and complex flavor profile that combines nutty, buttery, and tangy notes."
+    },
+    {
+      "question": "How long is Brewers Gold aged?",
+      "answer": "The aging process for Brewers Gold can vary, typically ranging from several weeks to several months, allowing it to develop its distinctive flavors and textures."
+    },
+    {
+      "question": "Can Brewers Gold be used in cooking?",
+      "answer": "Yes, Brewers Gold is versatile in culinary applications, melting well for dishes like grilled cheese and adding depth to savory recipes."
+    },
+    {
+      "question": "What are the best pairings for Brewers Gold?",
+      "answer": "Brewers Gold pairs well with crusty bread, fresh fruits, nuts, charcuterie, and a variety of beverages including wine, beer, and cider."
+    },
+    {
+      "question": "Is Brewers Gold similar to any other cheeses?",
+      "answer": "Brewers Gold shares similarities with other semi-soft, artisan cheeses like Gouda, Havarti, and Fontina, known for their creamy textures and complex flavors."
+    }
+  ],
+  "tags": [
+    "artisan cheese",
+    "semi-soft cheese",
+    "cow milk cheese",
+    "Irish cheese",
+    "Brewers Gold",
+    "cheese pairing",
+    "culinary cheese",
+    "cheese board",
+    "grilled cheese",
+    "savory dishes",
+    "wine pairing",
+    "beer pairing",
+    "cider pairing",
+    "nutty flavor",
+    "buttery flavor",
+    "tangy flavor",
+    "creamy texture",
+    "cheese aging",
+    "cheese production",
+    "dairy farming",
+    "terroir",
+    "cheese culture",
+    "gourmet cheese",
+    "cheese melting",
+    "cheese recipes",
+    "cheese and charcuterie",
+    "cheese and fruit",
+    "cheese and nuts",
+    "cheese and bread",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese and cider",
+    "cheese and tea",
+    "cheese and burgers",
+    "cheese and steaks",
+    "cheese and quiches",
+    "cheese and casseroles",
+    "cheese and sandwiches",
+    "cheese and crackers",
+    "cheese and appetizers",
+    "cheese and desserts",
+    "cheese and salads",
+    "cheese and pasta",
+    "cheese and pizza",
+    "cheese and fondue",
+    "cheese and raclette",
+    "cheese and tapas",
+    "cheese and brunch"
+  ],
+  "longTailKeywords": [
+    "Brewers Gold cheese characteristics",
+    "Brewers Gold cheese origin",
+    "Brewers Gold cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Irish cow milk cheese",
+    "how to use Brewers Gold in cooking",
+    "Brewers Gold cheese pairings",
+    "artisan semi-soft cheese Ireland",
+    "Brewers Gold vs Gouda",
+    "Brewers Gold cheese board ideas",
+    "Brewers Gold melting cheese",
+    "Brewers Gold and wine pairing",
+    "Brewers Gold and beer pairing",
+    "Brewers Gold cheese recipes",
+    "where to buy Brewers Gold cheese",
+    "Brewers Gold cheese flavor profile",
+    "Brewers Gold cheese aging process",
+    "Brewers Gold cheese production",
+    "Brewers Gold cheese culinary uses",
+    "Brewers Gold cheese and charcuterie",
+    "Brewers Gold cheese and fruit",
+    "Brewers Gold cheese and nuts",
+    "Brewers Gold cheese and bread",
+    "Brewers Gold cheese and cider"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Gouda",
+      "similarity": "Both are semi-soft cheeses with a creamy texture and nutty flavor, though Gouda can vary more widely in age and flavor intensity."
+    },
+    {
+      "name": "Havarti",
+      "similarity": "Havarti shares the creamy, buttery texture of Brewers Gold, with a mild flavor that can be enhanced with various additions like herbs or spices."
+    },
+    {
+      "name": "Fontina",
+      "similarity": "Fontina is another semi-soft cheese known for its excellent melting qualities and a flavor profile that includes nutty and earthy notes, similar to Brewers Gold."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Rich"
+  },
+  "lastUpdated": "2025-03-01T21:14:41.951Z"
+}

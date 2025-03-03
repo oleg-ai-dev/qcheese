@@ -1,0 +1,160 @@
+{
+  "url": "https://www.cheese.com/brie-de-melun/",
+  "milk": "cow",
+  "country": "France",
+  "region": "Ile de France",
+  "family": "Brie",
+  "type": "semi-soft, soft-ripened",
+  "fat_content": "45%",
+  "calcium_content": "NA",
+  "texture": "firm",
+  "rind": "bloomy",
+  "color": "yellow",
+  "flavor": "salty, sharp, sour, strong",
+  "aroma": "grassy, musty",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "Brie Noir",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Brie De Melun",
+  "slug": "france-cow-brie-de-melun",
+  "description": "Brie de Melun is a distinguished French cheese, hailing from the Melun region in Île-de-France. This cheese is celebrated for its rich, creamy texture and a soft, edible rind that encases its luscious interior. Unlike its more famous cousin, Brie de Meaux, Brie de Melun offers a more pronounced flavor profile, with a deeper, earthier aroma and a slightly firmer texture. Its appearance is marked by a pale ivory color with a velvety white rind, making it a visually appealing addition to any cheese board. Brie de Melun is a testament to the art of French cheesemaking, embodying the tradition and craftsmanship of its region.",
+  "history": "Brie de Melun's roots trace back to the Middle Ages, where it was a prized delicacy among French nobility. Its production is deeply intertwined with the history of the Melun region, where the unique terroir contributes to the distinct characteristics of the cheese. Historically, Brie de Melun was made in smaller quantities compared to Brie de Meaux, making it a rarer find. Its cultural significance is highlighted by its AOC (Appellation d'Origine Contrôlée) status, which ensures that only cheeses produced in the designated area and following traditional methods can bear the name. This cheese is a symbol of French gastronomic heritage, representing centuries of cheesemaking tradition.",
+  "productionProcess": "Brie de Melun is crafted from raw cow's milk, which is gently heated before rennet is added to coagulate the milk. The curds are then carefully ladled into molds, a process that preserves the delicate structure of the cheese. After molding, the cheese is salted and left to age for a minimum of four weeks, during which it develops its characteristic rind and complex flavors. The aging process is crucial, as it allows the cheese to mature and develop its unique texture and taste. Artisans pay close attention to the humidity and temperature during aging, ensuring the cheese's quality and flavor profile.",
+  "flavorProfile": "Brie de Melun boasts a rich and complex flavor profile, with a creamy, buttery texture that melts in the mouth. It has a slightly tangy and earthy taste, complemented by a subtle mushroomy aroma. The rind adds a mild, nutty flavor, enhancing the overall sensory experience. This cheese is known for its depth of flavor, which becomes more pronounced as it ages.",
+  "pairings": "Brie de Melun pairs beautifully with a variety of foods and beverages. Traditional pairings include crusty French bread, fresh fruits like apples and pears, and nuts such as walnuts. For wine enthusiasts, a glass of Champagne or a light-bodied red wine like Pinot Noir complements its creamy texture and rich flavors. Beer lovers might enjoy it with a Belgian-style ale, which balances the cheese's earthiness. For a more innovative approach, try pairing Brie de Melun with honey or fig jam to enhance its natural sweetness.",
+  "culinaryApplications": [
+    "Perfect for cheese boards, offering a rich and creamy centerpiece.",
+    "Melts beautifully in sandwiches or on top of burgers for a gourmet touch.",
+    "Ideal for baking, creating a gooey and flavorful addition to dishes.",
+    "Can be used in salads, adding a creamy texture and depth of flavor."
+  ],
+  "faqs": [
+    {
+      "question": "How does Brie de Melun differ from Brie de Meaux?",
+      "answer": "Brie de Melun has a more pronounced flavor and a slightly firmer texture compared to Brie de Meaux. It also has a longer aging period, which contributes to its deeper, earthier taste."
+    },
+    {
+      "question": "Can Brie de Melun be eaten with the rind?",
+      "answer": "Yes, the rind of Brie de Melun is edible and adds a mild, nutty flavor to the cheese."
+    },
+    {
+      "question": "What is the best way to store Brie de Melun?",
+      "answer": "Brie de Melun should be stored in the refrigerator, wrapped in wax paper or cheese paper to allow it to breathe. It's best consumed at room temperature."
+    },
+    {
+      "question": "Is Brie de Melun made from pasteurized milk?",
+      "answer": "Traditionally, Brie de Melun is made from raw cow's milk, which contributes to its complex flavor profile."
+    },
+    {
+      "question": "How long does Brie de Melun age?",
+      "answer": "Brie de Melun is aged for a minimum of four weeks, but some versions may be aged longer to develop a more intense flavor."
+    }
+  ],
+  "tags": [
+    "French cheese",
+    "cow milk",
+    "soft-ripened",
+    "semi-soft",
+    "Brie de Melun",
+    "artisanal cheese",
+    "AOC",
+    "gourmet",
+    "cheese board",
+    "pairing",
+    "wine",
+    "beer",
+    "culinary",
+    "gastronomy",
+    "France",
+    "Île-de-France",
+    "Melun",
+    "raw milk",
+    "aged cheese",
+    "creamy",
+    "buttery",
+    "earthy",
+    "mushroomy",
+    "nutty",
+    "tangy",
+    "delicacy",
+    "nobility",
+    "Middle Ages",
+    "tradition",
+    "craftsmanship",
+    "terroir",
+    "flavor",
+    "texture",
+    "aroma",
+    "rind",
+    "edible rind",
+    "cheesemaking",
+    "artisan",
+    "quality",
+    "complex",
+    "depth",
+    "sensory",
+    "experience",
+    "unique",
+    "distinct",
+    "characteristics",
+    "appearance",
+    "pale ivory",
+    "velvety white"
+  ],
+  "longTailKeywords": [
+    "Brie De Melun cheese characteristics",
+    "Brie De Melun cheese origin",
+    "Brie De Melun cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Brie de Melun cheese",
+    "how to use Brie de Melun in cooking",
+    "Brie de Melun vs Brie de Meaux",
+    "traditional French Brie de Melun",
+    "where to buy Brie de Melun",
+    "Brie de Melun cheese pairings",
+    "Brie de Melun wine pairings",
+    "Brie de Melun beer pairings",
+    "Brie de Melun culinary uses",
+    "Brie de Melun cheese board ideas",
+    "how to store Brie de Melun",
+    "Brie de Melun aging process",
+    "Brie de Melun flavor profile",
+    "Brie de Melun nutritional information",
+    "Brie de Melun history and origin",
+    "Brie de Melun production process",
+    "artisanal Brie de Melun cheese",
+    "Brie de Melun AOC status",
+    "Brie de Melun raw milk cheese",
+    "gourmet Brie de Melun recipes"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Brie de Meaux",
+      "similarity": "Both are soft-ripened French cheeses made from cow's milk, but Brie de Meaux is milder and creamier."
+    },
+    {
+      "name": "Camembert",
+      "similarity": "Camembert shares a similar texture and rind with Brie de Melun but has a stronger, more pungent flavor."
+    },
+    {
+      "name": "Coulommiers",
+      "similarity": "Coulommiers is another French soft-ripened cheese, slightly smaller and thicker than Brie, with a similar creamy texture."
+    },
+    {
+      "name": "Explorateur",
+      "similarity": "Explorateur is a triple-cream cheese with a rich, buttery flavor, similar in texture to Brie de Melun but with a higher fat content."
+    },
+    {
+      "name": "Brillat-Savarin",
+      "similarity": "This triple-cream cheese is known for its decadent richness and creamy texture, offering a luxurious alternative to Brie de Melun."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Moderate"
+  },
+  "lastUpdated": "2025-03-01T21:24:22.282Z"
+}

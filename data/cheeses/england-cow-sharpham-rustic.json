@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/sharpham-rustic/",
+  "milk": "cow",
+  "country": "England, Great Britain, United Kingdom",
+  "region": "Devon",
+  "family": "NA",
+  "type": "semi-hard, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy",
+  "rind": "natural",
+  "color": "white",
+  "flavor": "lemony, nutty",
+  "aroma": "fresh",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Sharpham Wine & Cheese",
+  "name": "Sharpham Rustic",
+  "slug": "england-cow-sharpham-rustic",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Sharpham Rustic cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Sharpham Rustic cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Sharpham Rustic cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Sharpham Rustic cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Sharpham Rustic cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "cow milk",
+    "England, Great Britain, United Kingdom",
+    "creamy"
+  ],
+  "longTailKeywords": [
+    "Sharpham Rustic cheese characteristics",
+    "Sharpham Rustic cheese origin",
+    "Sharpham Rustic cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T13:55:37.708Z"
+}

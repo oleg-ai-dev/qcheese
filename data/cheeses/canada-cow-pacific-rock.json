@@ -1,0 +1,161 @@
+{
+  "url": "https://www.cheese.com/pacific-rock/",
+  "milk": "cow",
+  "country": "Canada",
+  "region": "Quebec",
+  "family": "NA",
+  "type": "hard",
+  "fat_content": "30%",
+  "calcium_content": "NA",
+  "texture": "crumbly, firm",
+  "rind": "washed",
+  "color": "orange",
+  "flavor": "buttery, earthy, nutty, subtle",
+  "aroma": "fruity, rich",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "La Maison Alexis de Portneuf Inc.",
+  "name": "Pacific Rock",
+  "slug": "canada-cow-pacific-rock",
+  "description": "Pacific Rock is a hard cheese originating from Canada, crafted from cow's milk. This cheese is known for its dense texture and robust flavor, making it a favorite among those who appreciate aged cheeses. Its appearance is characterized by a natural, sometimes slightly waxy rind that encases a firm, pale yellow interior. The aging process contributes to its complex flavor profile, which can include nutty and slightly sharp notes, depending on the duration of aging. Pacific Rock is versatile in culinary applications, from grating over dishes to being a standout on a cheese board.",
+  "history": "Pacific Rock cheese is a testament to Canada's growing artisanal cheese scene. While specific historical details about Pacific Rock are scarce, it is part of a broader tradition of hard cheese production in Canada, which has been influenced by European cheesemaking techniques. The cheese reflects the Canadian commitment to quality and innovation in dairy products, showcasing the rich, diverse flavors that can be achieved with local cow's milk. Its creation is a nod to the traditional methods of hard cheese production, adapted to the unique conditions and tastes of the Canadian palate.",
+  "productionProcess": "Pacific Rock cheese begins with high-quality cow's milk, which is carefully selected to ensure the best flavor and texture. The milk is then curdled using traditional rennet, and the curds are pressed to remove excess whey, resulting in a dense, firm cheese. After pressing, the cheese is aged for several months to develop its characteristic flavor and texture. The aging process is crucial, as it allows the cheese to develop its complex flavor profile, including nutty and slightly sharp notes. The cheese is turned and cared for regularly during aging to ensure even development and to prevent any unwanted mold growth.",
+  "flavorProfile": "Pacific Rock cheese offers a rich and complex flavor profile, with nutty undertones and a slightly sharp finish that becomes more pronounced with age. Its aroma is earthy and inviting, hinting at the depth of flavor contained within. The texture is firm and dense, making it ideal for grating or slicing. The cheese's robust flavor makes it a versatile addition to a variety of dishes, enhancing them with its distinctive taste.",
+  "pairings": "Pacific Rock cheese pairs beautifully with a range of foods and beverages. For a traditional pairing, try it with a full-bodied red wine, such as a Cabernet Sauvignon, which complements its robust flavor. Beer enthusiasts might enjoy it with a dark ale or stout, where the cheese's nutty notes can shine. For a non-alcoholic option, a rich, dark coffee or a tart apple cider can also be excellent choices. On the food side, Pacific Rock is delightful with crusty bread, fresh fruits like apples and pears, and nuts, which highlight its texture and flavor.",
+  "culinaryApplications": [
+    "Ideal for grating over pasta dishes",
+    "Perfect for adding depth to soups and stews",
+    "Excellent on cheese boards with fruits and nuts",
+    "Great for melting in grilled cheese sandwiches",
+    "Can be used in baking, adding flavor to bread and pastries"
+  ],
+  "faqs": [
+    {
+      "question": "What type of milk is used in Pacific Rock cheese?",
+      "answer": "Pacific Rock cheese is made from cow's milk."
+    },
+    {
+      "question": "How long is Pacific Rock cheese aged?",
+      "answer": "The aging period can vary, but it is typically aged for several months to develop its flavor."
+    },
+    {
+      "question": "Can Pacific Rock cheese be used in cooking?",
+      "answer": "Yes, its firm texture makes it excellent for grating over dishes, melting, and incorporating into recipes."
+    },
+    {
+      "question": "What does Pacific Rock cheese taste like?",
+      "answer": "It has a rich, nutty flavor with a slightly sharp finish that becomes more pronounced with age."
+    },
+    {
+      "question": "Is Pacific Rock cheese similar to any other cheeses?",
+      "answer": "Yes, it shares similarities with other hard, aged cow's milk cheeses like Cheddar and Gouda."
+    }
+  ],
+  "tags": [
+    "Canadian cheese",
+    "cow's milk",
+    "hard cheese",
+    "artisanal",
+    "aged cheese",
+    "nutty flavor",
+    "robust",
+    "versatile",
+    "grating cheese",
+    "cheese board",
+    "culinary uses",
+    "full-bodied red wine pairing",
+    "dark ale pairing",
+    "stout pairing",
+    "coffee pairing",
+    "apple cider pairing",
+    "crusty bread",
+    "fresh fruits",
+    "nuts",
+    "pasta dishes",
+    "soups",
+    "stews",
+    "grilled cheese sandwiches",
+    "baking",
+    "bread",
+    "pastries",
+    "flavor profile",
+    "texture",
+    "aroma",
+    "aging process",
+    "traditional methods",
+    "Canadian dairy",
+    "quality",
+    "innovation",
+    "local milk",
+    "complex flavor",
+    "sharp finish",
+    "earthy aroma",
+    "dense texture",
+    "firm cheese",
+    "cheese production",
+    "cheese care",
+    "mold prevention",
+    "even development",
+    "cheese turning",
+    "cheese selection",
+    "cheese appreciation",
+    "cheese culture",
+    "dairy products"
+  ],
+  "longTailKeywords": [
+    "Pacific Rock cheese characteristics",
+    "Pacific Rock cheese origin",
+    "Pacific Rock cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Canadian cow milk cheese",
+    "how to use Pacific Rock in cooking",
+    "Pacific Rock cheese flavor profile",
+    "pairing Pacific Rock with wine",
+    "Pacific Rock cheese aging process",
+    "where to buy Pacific Rock cheese",
+    "Pacific Rock cheese culinary uses",
+    "Pacific Rock vs Cheddar",
+    "Pacific Rock cheese recipes",
+    "Pacific Rock cheese board ideas",
+    "Pacific Rock cheese nutritional info",
+    "Pacific Rock cheese for pasta",
+    "Pacific Rock cheese for baking",
+    "Pacific Rock cheese for soups",
+    "Pacific Rock cheese for grilled cheese",
+    "Pacific Rock cheese with fruits",
+    "Pacific Rock cheese with nuts",
+    "Pacific Rock cheese with beer",
+    "Pacific Rock cheese with coffee",
+    "Pacific Rock cheese with apple cider"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Cheddar",
+      "similarity": "Both are hard, aged cow's milk cheeses with a robust flavor profile."
+    },
+    {
+      "name": "Gouda",
+      "similarity": "Gouda shares a similar texture and nutty flavor, especially when aged."
+    },
+    {
+      "name": "Parmesan",
+      "similarity": "Like Pacific Rock, Parmesan is a hard cheese ideal for grating and has a complex, nutty flavor."
+    },
+    {
+      "name": "Comté",
+      "similarity": "Comté is another hard cheese with a rich, nutty flavor, making it a good alternative."
+    },
+    {
+      "name": "Gruyère",
+      "similarity": "Gruyère offers a similar texture and depth of flavor, suitable for both cooking and cheese boards."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "High"
+  },
+  "lastUpdated": "2025-03-02T08:05:34.097Z"
+}

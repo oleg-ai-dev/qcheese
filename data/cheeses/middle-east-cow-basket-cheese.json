@@ -1,0 +1,153 @@
+{
+  "url": "https://www.cheese.com/basket-cheese/",
+  "milk": "cow",
+  "country": "Middle East",
+  "region": "NA",
+  "family": "Cottage",
+  "type": "soft, semi-soft",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "chewy, supple",
+  "rind": "rindless",
+  "color": "white",
+  "flavor": "mild, salty",
+  "aroma": "milky",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Specialty Cheese Company, Inc",
+  "name": "Basket Cheese",
+  "slug": "middle-east-cow-basket-cheese",
+  "description": "Basket Cheese is a unique, artisanal cheese originating from the Middle East, known for its distinctive basket-weave pattern that imprints on its surface during the cheese-making process. This cheese is made from cow's milk and falls into the soft to semi-soft category, offering a delicate texture that is both creamy and slightly firm. Its appearance is marked by the beautiful, intricate patterns left by the basket molds in which it is formed, making it not only a culinary delight but also a visual treat. Basket Cheese is celebrated for its mild, fresh flavor and its ability to absorb the flavors of accompanying ingredients, making it a versatile choice in various dishes.",
+  "history": "The origins of Basket Cheese trace back to the Middle East, where it has been a part of the region's culinary traditions for centuries. This cheese is deeply embedded in the local culture, often made in small batches by artisanal cheesemakers who pass down their techniques through generations. The use of basket molds for shaping the cheese not only serves a practical purpose in the cheese-making process but also adds a cultural and aesthetic value, reflecting the craftsmanship and heritage of the region. Basket Cheese holds a special place in Middle Eastern cuisine, often featured in festive meals and family gatherings.",
+  "productionProcess": "Basket Cheese is produced using fresh cow's milk, which is gently heated and then coagulated using natural rennet to form curds. The curds are carefully ladled into specially designed basket molds, which give the cheese its characteristic shape and surface pattern. After molding, the cheese is lightly pressed to remove excess whey and then salted, either by brining or dry salting. The cheese is aged for a short period, typically a few weeks, to develop its flavor and texture. The basket molds not only shape the cheese but also allow it to breathe during the aging process, contributing to its unique texture and flavor profile.",
+  "flavorProfile": "Basket Cheese is known for its mild, fresh, and slightly tangy flavor, with a creamy yet slightly firm texture that melts in the mouth. It has a subtle milky aroma, with hints of butter and a clean, refreshing finish. The cheese's ability to absorb flavors makes it an excellent canvas for a variety of culinary applications, enhancing dishes with its delicate taste and texture.",
+  "pairings": "Basket Cheese pairs wonderfully with a variety of foods and beverages. Traditional pairings include fresh fruits like grapes and figs, nuts, and olives, which complement its mild flavor. It also goes well with crusty bread and crackers. For a more innovative approach, try pairing it with light-bodied white wines, such as Sauvignon Blanc or Pinot Grigio, which enhance its freshness. Beer enthusiasts might enjoy it with a crisp lager or a fruity wheat beer. Basket Cheese can also be used in salads, sandwiches, and as a topping for pizzas, adding a creamy texture and subtle flavor.",
+  "culinaryApplications": [
+    "Ideal for cheese boards, showcasing its unique appearance and mild flavor.",
+    "Perfect for melting in sandwiches and wraps, adding a creamy texture.",
+    "Great in salads, offering a fresh and tangy note.",
+    "Can be used as a topping for pizzas and flatbreads, melting beautifully.",
+    "Excellent for baking, incorporated into savory pastries and quiches."
+  ],
+  "faqs": [
+    {
+      "question": "What does Basket Cheese taste like?",
+      "answer": "Basket Cheese has a mild, fresh, and slightly tangy flavor with a creamy yet slightly firm texture."
+    },
+    {
+      "question": "How is Basket Cheese made?",
+      "answer": "It's made from cow's milk, coagulated with rennet, shaped in basket molds, lightly pressed, salted, and aged for a few weeks."
+    },
+    {
+      "question": "Can Basket Cheese be used in cooking?",
+      "answer": "Yes, it's versatile in cooking, great for melting, baking, and as a fresh addition to salads and sandwiches."
+    },
+    {
+      "question": "What are some good pairings for Basket Cheese?",
+      "answer": "It pairs well with fresh fruits, nuts, light-bodied white wines, and crisp lagers."
+    },
+    {
+      "question": "Is Basket Cheese similar to any other cheeses?",
+      "answer": "It's similar to fresh mozzarella, feta, and queso fresco in texture and mild flavor, but with a unique basket-weave pattern."
+    }
+  ],
+  "tags": [
+    "Basket Cheese",
+    "Middle Eastern cheese",
+    "cow milk cheese",
+    "soft cheese",
+    "semi-soft cheese",
+    "artisanal cheese",
+    "cheese with patterns",
+    "fresh cheese",
+    "mild cheese",
+    "creamy cheese",
+    "cheese for salads",
+    "cheese for sandwiches",
+    "cheese for baking",
+    "cheese pairings",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese board",
+    "culinary cheese",
+    "festive cheese",
+    "family gatherings cheese",
+    "traditional cheese",
+    "cultural cheese",
+    "cheese molds",
+    "cheese aging",
+    "cheese texture",
+    "cheese flavor",
+    "cheese aroma",
+    "cheese making",
+    "cheese craftsmanship",
+    "cheese heritage",
+    "cheese in cuisine",
+    "cheese versatility",
+    "cheese absorption",
+    "cheese and fruits",
+    "cheese and nuts",
+    "cheese and olives",
+    "cheese and bread",
+    "cheese and crackers",
+    "cheese in pizzas",
+    "cheese in flatbreads",
+    "cheese in pastries",
+    "cheese in quiches",
+    "cheese melting",
+    "cheese freshness",
+    "cheese tanginess",
+    "cheese milkiness",
+    "cheese butteriness",
+    "cheese finish",
+    "cheese applications"
+  ],
+  "longTailKeywords": [
+    "Basket Cheese cheese characteristics",
+    "Basket Cheese cheese origin",
+    "Basket Cheese cheese flavor"
+  ],
+  "seoKeywords": [
+    "Basket Cheese Middle East",
+    "cow milk Basket Cheese",
+    "soft to semi-soft cheese",
+    "artisanal Middle Eastern cheese",
+    "cheese with basket-weave pattern",
+    "how to use Basket Cheese in cooking",
+    "Basket Cheese pairings",
+    "Basket Cheese flavor profile",
+    "traditional Middle Eastern cheese",
+    "Basket Cheese in salads",
+    "Basket Cheese in sandwiches",
+    "Basket Cheese for baking",
+    "best wines with Basket Cheese",
+    "beer pairings for Basket Cheese",
+    "Basket Cheese cheese board ideas",
+    "Basket Cheese culinary applications",
+    "where to buy Basket Cheese",
+    "Basket Cheese vs fresh mozzarella",
+    "Basket Cheese vs feta",
+    "Basket Cheese vs queso fresco"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Fresh Mozzarella",
+      "similarity": "Both are soft, fresh cheeses with a mild flavor, though mozzarella is more widely available and lacks the basket-weave pattern."
+    },
+    {
+      "name": "Feta",
+      "similarity": "Feta shares a similar texture and is also used in a variety of dishes, but it has a saltier and tangier flavor profile."
+    },
+    {
+      "name": "Queso Fresco",
+      "similarity": "Queso fresco is another fresh, mild cheese that crumbles easily, making it a good substitute in recipes calling for Basket Cheese."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "Moderate",
+    "calciumContent": "High"
+  },
+  "lastUpdated": "2025-03-01T18:52:02.159Z"
+}

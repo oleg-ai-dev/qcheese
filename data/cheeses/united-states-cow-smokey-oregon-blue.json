@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/smokey-oregon-blue/",
+  "milk": "cow",
+  "country": "United States",
+  "region": "Oregon",
+  "family": "Blue",
+  "type": "semi-hard, blue-veined",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "dense, firm",
+  "rind": "natural",
+  "color": "pale yellow",
+  "flavor": "caramel, earthy, savory, sharp, sweet",
+  "aroma": "milky, nutty, smokey",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Rogue Creamery",
+  "name": "Smokey Oregon Blue",
+  "slug": "united-states-cow-smokey-oregon-blue",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Smokey Oregon Blue cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Smokey Oregon Blue cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Smokey Oregon Blue cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Smokey Oregon Blue cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Smokey Oregon Blue cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "cow milk",
+    "United States",
+    "dense, firm"
+  ],
+  "longTailKeywords": [
+    "Smokey Oregon Blue cheese characteristics",
+    "Smokey Oregon Blue cheese origin",
+    "Smokey Oregon Blue cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T14:32:58.994Z"
+}

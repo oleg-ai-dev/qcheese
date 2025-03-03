@@ -1,0 +1,161 @@
+{
+  "url": "https://www.cheese.com/canestrato/",
+  "milk": "goat, sheep",
+  "country": "Italy",
+  "region": "Moliterno",
+  "family": "NA",
+  "type": "hard, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "dense, flaky",
+  "rind": "NA",
+  "color": "straw",
+  "flavor": "full-flavored",
+  "aroma": "spicy, strong",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "Canestrato di Moliterno, Canestrato di Moliterno IGP",
+  "alt_spellings": "NA",
+  "producers": "Casa Madaio",
+  "name": "Canestrato",
+  "slug": "italy-goat-canestrato",
+  "description": "Canestrato is a traditional Italian hard cheese, primarily made from a blend of goat and sheep milk, though some variations may include cow's milk. Originating from the pastoral regions of Italy, this cheese is named after the 'canestri' (baskets) used in its production, which imprint a distinctive pattern on its rind. Canestrato boasts a firm, compact texture and a natural, rustic rind that ranges from pale yellow to deep amber, depending on its age. The interior is a rich, straw-yellow color, with a slightly granular texture that becomes more pronounced as it ages. Known for its robust flavor, Canestrato is a testament to the artisanal cheesemaking traditions of Italy, offering a unique taste experience that reflects the terroir of its origin.",
+  "history": "Canestrato cheese has its roots deeply embedded in the rural landscapes of Italy, where pastoral farming has been a way of life for centuries. The cheese's name derives from the traditional method of using woven baskets ('canestri') to shape and drain the curds, a technique that has been passed down through generations. This method not only gives the cheese its characteristic appearance but also contributes to its unique texture and flavor profile. Canestrato is a product of necessity and ingenuity, developed by shepherds who needed a durable cheese that could withstand long periods of storage without refrigeration. Over time, it has become a cherished part of Italy's culinary heritage, celebrated for its artisanal quality and deep connection to the land.",
+  "productionProcess": "Canestrato is made from a blend of goat and sheep milk, which is heated and then curdled using natural rennet. The curds are cut, cooked, and then pressed into baskets, which give the cheese its distinctive shape and rind pattern. After pressing, the cheese is salted, either by dry salting or brining, and then aged for several months to develop its flavor and texture. The aging process takes place in cool, humid cellars, where the cheese is regularly turned and brushed to promote even maturation and prevent mold. The length of aging can vary, but typically ranges from three to six months, resulting in a cheese that is firm, flavorful, and aromatic.",
+  "flavorProfile": "Canestrato offers a complex flavor profile that is both rich and nuanced. It has a pronounced tanginess from the goat and sheep milk, balanced by a deep, savory umami character that develops with age. The cheese's aroma is earthy and slightly pungent, with hints of nuts and grass. Its texture is firm and slightly crumbly, with a pleasant granularity that adds to its rustic charm. As it ages, Canestrato becomes more intense and complex, making it a favorite among cheese connoisseurs.",
+  "pairings": "Canestrato pairs beautifully with a variety of foods and beverages. Its robust flavor makes it an excellent match for full-bodied red wines, such as Barolo or Chianti, which can stand up to its intensity. For a more refreshing contrast, try it with a crisp white wine or a light, hoppy beer. On the table, Canestrato shines alongside cured meats, olives, and crusty bread. It can also be grated over pasta dishes or risottos, adding depth and richness to the meal. For a simple yet satisfying snack, enjoy it with a drizzle of honey or a dollop of fruit preserves.",
+  "culinaryApplications": [
+    "Grated over pasta or risotto for added depth",
+    "Served on cheese boards with cured meats and olives",
+    "Melted into a rich, flavorful fondue",
+    "Sliced and enjoyed with crusty bread and a glass of wine",
+    "Used in traditional Italian dishes for an authentic touch"
+  ],
+  "faqs": [
+    {
+      "question": "What makes Canestrato unique?",
+      "answer": "Canestrato's uniqueness lies in its blend of goat and sheep milk, its traditional basket-shaped production method, and its robust, complex flavor profile that develops with age."
+    },
+    {
+      "question": "How long is Canestrato aged?",
+      "answer": "Canestrato is typically aged for three to six months, though some variations may be aged longer for a more intense flavor."
+    },
+    {
+      "question": "Can Canestrato be made with cow's milk?",
+      "answer": "While traditionally made from goat and sheep milk, some variations of Canestrato may include cow's milk, which can slightly alter its flavor and texture."
+    },
+    {
+      "question": "What are the best pairings for Canestrato?",
+      "answer": "Canestrato pairs well with full-bodied red wines, crisp white wines, light beers, cured meats, olives, and crusty bread. It can also be enjoyed with honey or fruit preserves."
+    },
+    {
+      "question": "How should Canestrato be stored?",
+      "answer": "Canestrato should be wrapped in wax paper or cheese paper and stored in the refrigerator. It's best to bring it to room temperature before serving to fully appreciate its flavors."
+    }
+  ],
+  "tags": [
+    "Italian cheese",
+    "hard cheese",
+    "artisanal cheese",
+    "goat milk cheese",
+    "sheep milk cheese",
+    "traditional cheese",
+    "Canestrato",
+    "cheese aging",
+    "cheese pairings",
+    "cheese board",
+    "gourmet cheese",
+    "cheese for pasta",
+    "cheese for risotto",
+    "cheese for fondue",
+    "cheese storage",
+    "cheese history",
+    "cheese production",
+    "cheese flavor profile",
+    "cheese culinary uses",
+    "cheese FAQs",
+    "cheese nutritional info",
+    "Italian culinary heritage",
+    "pastoral farming",
+    "cheese connoisseurs",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese and cured meats",
+    "cheese and olives",
+    "cheese and bread",
+    "cheese and honey",
+    "cheese and fruit preserves",
+    "cheese for snacks",
+    "cheese for meals",
+    "cheese for entertaining",
+    "cheese for cooking",
+    "cheese for baking",
+    "cheese for grilling",
+    "cheese for melting",
+    "cheese for grating",
+    "cheese for slicing",
+    "cheese for tasting",
+    "cheese for sharing",
+    "cheese for gifts",
+    "cheese for holidays",
+    "cheese for special occasions",
+    "cheese for everyday",
+    "cheese for health",
+    "cheese for nutrition",
+    "cheese for wellness"
+  ],
+  "longTailKeywords": [
+    "Canestrato cheese characteristics",
+    "Canestrato cheese origin",
+    "Canestrato cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Italian hard cheese",
+    "how to use Canestrato in cooking",
+    "Canestrato cheese pairings",
+    "traditional Italian cheese making",
+    "Canestrato vs Pecorino",
+    "Canestrato cheese history",
+    "Canestrato cheese production",
+    "Canestrato cheese flavor profile",
+    "Canestrato cheese culinary uses",
+    "Canestrato cheese storage tips",
+    "Canestrato cheese nutritional benefits",
+    "Canestrato cheese for cheese boards",
+    "Canestrato cheese for pasta",
+    "Canestrato cheese for risotto",
+    "Canestrato cheese for fondue",
+    "Canestrato cheese and wine pairings",
+    "Canestrato cheese and beer pairings",
+    "Canestrato cheese and cured meats",
+    "Canestrato cheese and olives",
+    "Canestrato cheese and bread"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Pecorino Romano",
+      "description": "A hard, salty Italian cheese made from sheep's milk, known for its sharp flavor and granular texture."
+    },
+    {
+      "name": "Feta",
+      "description": "A brined curd cheese from Greece, made from sheep's milk or a mixture of sheep and goat's milk, known for its tangy flavor and crumbly texture."
+    },
+    {
+      "name": "Manchego",
+      "description": "A Spanish cheese made from the milk of Manchega sheep, known for its firm texture and nutty, buttery flavor."
+    },
+    {
+      "name": "Grana Padano",
+      "description": "A hard, slow-ripened, semi-fat cheese from Italy, made from cow's milk, known for its grainy texture and rich flavor."
+    },
+    {
+      "name": "Asiago",
+      "description": "An Italian cow's milk cheese that can assume different textures according to its aging, from smooth for the fresh Asiago to a crumbly texture for the aged cheese."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "High"
+  },
+  "lastUpdated": "2025-03-01T22:57:22.264Z"
+}

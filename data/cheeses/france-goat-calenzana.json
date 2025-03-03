@@ -1,0 +1,160 @@
+{
+  "url": "https://www.cheese.com/calenzana/",
+  "milk": "goat, sheep",
+  "country": "France",
+  "region": "Upper Corsica",
+  "family": "NA",
+  "type": "semi-soft, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy",
+  "rind": "natural",
+  "color": "pale yellow",
+  "flavor": "strong",
+  "aroma": "rich",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "Calinzanincu",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Calenzana",
+  "slug": "france-goat-calenzana",
+  "description": "Calenzana cheese is a semi-soft, artisan cheese originating from the picturesque region of Corsica, France. This cheese is uniquely crafted from a blend of goat and sheep milk, which contributes to its distinctive flavor and texture. Calenzana is known for its creamy, slightly elastic texture and a natural rind that often bears the marks of its traditional cheesecloth wrapping. The cheese's appearance is rustic, with a pale ivory interior that may feature small eyes or a slightly open texture. Its flavor is a harmonious balance of tangy and earthy notes, with a subtle hint of the wild herbs and flowers that the animals graze on in Corsica's rugged landscape.",
+  "history": "Calenzana cheese is deeply rooted in the pastoral traditions of Corsica, an island renowned for its rich cheesemaking heritage. The cheese is named after the village of Calenzana, located in the Balagne region, which is celebrated for its artisanal food products. Historically, Calenzana cheese was made by local shepherds who utilized the milk from their herds of goats and sheep. This cheese is a testament to the island's commitment to preserving traditional methods and flavors, embodying the essence of Corsican terroir. Over the years, Calenzana has gained recognition among cheese connoisseurs for its unique character and artisanal quality.",
+  "productionProcess": "The production of Calenzana cheese begins with the careful selection of high-quality goat and sheep milk, which is then gently heated and curdled using natural rennet. The curds are cut, stirred, and molded into traditional cheese forms, often wrapped in cheesecloth to imprint its characteristic texture. After molding, the cheese is salted and left to age in cool, humid cellars for several weeks to a few months. During this time, it develops its semi-soft texture and complex flavor profile. The aging process is crucial, as it allows the cheese to absorb the nuances of its environment, contributing to its unique taste and aroma.",
+  "flavorProfile": "Calenzana cheese offers a delightful sensory experience, with a flavor profile that is both tangy and earthy. The blend of goat and sheep milk imparts a rich, slightly gamey taste, complemented by a creamy, smooth texture. The cheese's aroma is reminiscent of the Corsican maquis, with subtle hints of wild herbs and flowers. Its semi-soft texture makes it a pleasure to eat, melting gently on the palate and leaving a lingering, savory finish.",
+  "pairings": "Calenzana cheese pairs beautifully with a variety of foods and beverages. Traditional pairings include crusty bread, fresh figs, and Corsican charcuterie. For a more innovative approach, try it with honey or fruit preserves to complement its tangy flavor. Wine enthusiasts will appreciate Calenzana with a glass of Corsican red wine, such as a Nielluccio, or a crisp white wine like Vermentino. Beer lovers can enjoy it with a light, hoppy ale that balances the cheese's richness. For a complete tasting experience, include some olives and nuts to enhance the cheese's earthy notes.",
+  "culinaryApplications": [
+    "Perfect for cheese boards, offering a rustic and flavorful option.",
+    "Melts beautifully in warm dishes, adding depth to gratins and casseroles.",
+    "Ideal for sandwiches, providing a creamy texture and tangy flavor.",
+    "Enhances salads when crumbled over the top, adding a rich, savory element."
+  ],
+  "faqs": [
+    {
+      "question": "What makes Calenzana cheese unique?",
+      "answer": "Its unique blend of goat and sheep milk, combined with traditional Corsican cheesemaking techniques, gives Calenzana its distinctive flavor and texture."
+    },
+    {
+      "question": "How long is Calenzana cheese aged?",
+      "answer": "Calenzana cheese is typically aged for several weeks to a few months, allowing it to develop its semi-soft texture and complex flavor profile."
+    },
+    {
+      "question": "Can Calenzana cheese be used in cooking?",
+      "answer": "Yes, Calenzana cheese melts well and can be used in a variety of dishes, including gratins, casseroles, and sandwiches."
+    },
+    {
+      "question": "What are some good wine pairings for Calenzana cheese?",
+      "answer": "Calenzana cheese pairs well with Corsican red wines like Nielluccio and crisp white wines such as Vermentino."
+    },
+    {
+      "question": "Is Calenzana cheese similar to any other cheeses?",
+      "answer": "Calenzana cheese shares similarities with other Corsican cheeses like Brocciu and Fleur du Maquis, due to its use of goat and sheep milk and traditional production methods."
+    }
+  ],
+  "tags": [
+    "Calenzana cheese",
+    "Corsican cheese",
+    "goat and sheep milk cheese",
+    "semi-soft cheese",
+    "artisan cheese",
+    "French cheese",
+    "cheese board",
+    "cheese pairing",
+    "Corsican cuisine",
+    "traditional cheese",
+    "cheese aging",
+    "cheese flavor",
+    "cheese texture",
+    "cheese production",
+    "cheese history",
+    "cheese culture",
+    "cheese connoisseur",
+    "cheese tasting",
+    "cheese melting",
+    "cheese cooking",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese and charcuterie",
+    "cheese and bread",
+    "cheese and figs",
+    "cheese and honey",
+    "cheese and fruit preserves",
+    "cheese and olives",
+    "cheese and nuts",
+    "cheese and salads",
+    "cheese and sandwiches",
+    "cheese and gratins",
+    "cheese and casseroles",
+    "cheese and pasta",
+    "cheese and fondue",
+    "cheese and raclette",
+    "cheese and tartiflette",
+    "cheese and quiche",
+    "cheese and soufflé",
+    "cheese and pizza",
+    "cheese and burgers",
+    "cheese and tapas",
+    "cheese and antipasto",
+    "cheese and dessert",
+    "cheese and breakfast",
+    "cheese and brunch",
+    "cheese and lunch",
+    "cheese and dinner",
+    "cheese and snacks"
+  ],
+  "longTailKeywords": [
+    "Calenzana cheese characteristics",
+    "Calenzana cheese origin",
+    "Calenzana cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Corsican goat and sheep milk cheese",
+    "how to use Calenzana in cooking",
+    "Calenzana cheese wine pairings",
+    "traditional Corsican cheese making",
+    "semi-soft artisan cheese from France",
+    "Calenzana cheese flavor profile",
+    "where to buy Calenzana cheese",
+    "Calenzana cheese vs Brocciu",
+    "Calenzana cheese in cheese boards",
+    "Calenzana cheese melting properties",
+    "Calenzana cheese aging process",
+    "Calenzana cheese and charcuterie",
+    "Calenzana cheese and figs pairing",
+    "Calenzana cheese and honey pairing",
+    "Calenzana cheese and olives pairing",
+    "Calenzana cheese and nuts pairing",
+    "Calenzana cheese in salads",
+    "Calenzana cheese in sandwiches",
+    "Calenzana cheese in gratins",
+    "Calenzana cheese in casseroles"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Brocciu",
+      "description": "A Corsican cheese made from sheep or goat milk whey, known for its fresh, creamy texture and mild flavor."
+    },
+    {
+      "name": "Fleur du Maquis",
+      "description": "A Corsican sheep milk cheese coated with herbs and spices, offering a unique flavor and aromatic profile."
+    },
+    {
+      "name": "Tomme de Chèvre",
+      "description": "A French goat milk cheese with a semi-soft texture and a tangy, earthy flavor, similar to Calenzana."
+    },
+    {
+      "name": "Pecorino Sardo",
+      "description": "An Italian sheep milk cheese with a firm texture and a rich, nutty flavor, reminiscent of Calenzana's depth."
+    },
+    {
+      "name": "Manchego",
+      "description": "A Spanish sheep milk cheese known for its firm texture and buttery, slightly tangy flavor, offering a similar taste experience."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "High"
+  },
+  "lastUpdated": "2025-03-01T22:38:20.450Z"
+}

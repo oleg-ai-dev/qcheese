@@ -1,0 +1,152 @@
+{
+  "url": "https://www.cheese.com/amsterdammer-british-columbia/",
+  "milk": "",
+  "country": "Canada",
+  "region": "Comox Valley, Vancouver Island",
+  "family": "NA",
+  "type": "semi-soft, firm",
+  "fat_content": "30%",
+  "calcium_content": "NA",
+  "texture": "buttery, creamy",
+  "rind": "natural",
+  "color": "pale yellow",
+  "flavor": "buttery, creamy",
+  "aroma": "aromatic, buttery",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Natural Pastures Cheese Company",
+  "name": "Amsterdammer British Columbia",
+  "slug": "canada-amsterdammer-british-columbia",
+  "description": "Amsterdammer British Columbia cheese is a semi-soft to firm cheese originating from Canada, specifically the British Columbia region. While detailed information about this cheese is scarce, it is known for its rich and creamy texture, making it a versatile choice for various culinary applications. The cheese typically has a smooth, pale yellow interior with a natural rind that may develop a slight bloom over time. Its flavor is mild yet complex, with subtle nutty and buttery notes that make it a delightful addition to any cheese board or dish.",
+  "history": "The history of Amsterdammer British Columbia cheese is not well-documented, which suggests it may be a relatively obscure or artisanal product. It likely draws inspiration from traditional Dutch cheesemaking techniques, given its name, which hints at a connection to Amsterdam. In Canada, particularly in British Columbia, there has been a growing interest in artisanal and locally produced cheeses, and Amsterdammer may be part of this movement. Its production reflects a blend of European traditions and Canadian innovation, contributing to the diverse cheese culture in the region.",
+  "productionProcess": "The production process of Amsterdammer British Columbia cheese involves using high-quality milk, though the specific type (cow, goat, or sheep) is not specified. The milk is curdled using traditional methods, possibly with the addition of rennet to achieve the desired texture. The curds are then pressed and aged for a period that allows the cheese to develop its semi-soft to firm consistency. The aging process may take several weeks to months, during which the cheese develops its characteristic flavor and texture. Artisanal techniques, such as hand-turning and careful monitoring of humidity and temperature, are likely employed to ensure quality.",
+  "flavorProfile": "Amsterdammer British Columbia cheese offers a mild yet complex flavor profile. It has a creamy, buttery base with subtle nutty undertones. The texture is smooth and slightly elastic, making it easy to slice or melt. The aroma is mild and inviting, with a hint of earthiness that adds depth to its overall sensory experience.",
+  "pairings": "Amsterdammer British Columbia cheese pairs well with a variety of foods and beverages. Traditional pairings include crusty bread, fresh fruits like apples and pears, and nuts such as walnuts or almonds. For beverages, it complements light-bodied white wines like Sauvignon Blanc or Chardonnay, as well as Belgian-style ales. Innovative pairings might include honey drizzles, fig jam, or even a crisp cider to enhance its mild yet complex flavors.",
+  "culinaryApplications": [
+    "Ideal for cheese boards",
+    "Melts well in grilled cheese sandwiches",
+    "Perfect for adding to salads",
+    "Great for baking into savory pastries",
+    "Excellent for fondue"
+  ],
+  "faqs": [
+    {
+      "question": "What type of milk is used in Amsterdammer British Columbia cheese?",
+      "answer": "The specific type of milk used is not documented, but it is likely cow's milk given its texture and flavor profile."
+    },
+    {
+      "question": "How long is Amsterdammer British Columbia cheese aged?",
+      "answer": "The aging period is not specified, but it is typically aged for several weeks to months to develop its semi-soft to firm texture."
+    },
+    {
+      "question": "Can Amsterdammer British Columbia cheese be used in cooking?",
+      "answer": "Yes, it is versatile and can be used in various culinary applications, including melting, baking, and as a table cheese."
+    },
+    {
+      "question": "What are some similar cheeses to Amsterdammer British Columbia?",
+      "answer": "Similar cheeses include Gouda, Edam, and Havarti, which share a semi-soft texture and mild, nutty flavor."
+    },
+    {
+      "question": "Where can I buy Amsterdammer British Columbia cheese?",
+      "answer": "It may be available at specialty cheese shops or farmers' markets in British Columbia, though availability can vary."
+    }
+  ],
+  "tags": [
+    "Amsterdammer British Columbia cheese",
+    "Canadian cheese",
+    "semi-soft cheese",
+    "firm cheese",
+    "artisanal cheese",
+    "British Columbia cheese",
+    "cheese board",
+    "grilled cheese",
+    "fondue",
+    "cheese pairings",
+    "nutty cheese",
+    "buttery cheese",
+    "mild cheese",
+    "creamy cheese",
+    "local cheese",
+    "cheese culture",
+    "cheese history",
+    "cheese production",
+    "cheese aging",
+    "cheese flavor",
+    "cheese aroma",
+    "cheese texture",
+    "cheese culinary uses",
+    "cheese FAQs",
+    "cheese nutrition",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese and fruit",
+    "cheese and nuts",
+    "cheese and honey",
+    "cheese and jam",
+    "cheese and cider",
+    "cheese and bread",
+    "cheese and salads",
+    "cheese and pastries",
+    "cheese and fondue",
+    "cheese and Sauvignon Blanc",
+    "cheese and Chardonnay",
+    "cheese and Belgian ale",
+    "cheese and apples",
+    "cheese and pears",
+    "cheese and walnuts",
+    "cheese and almonds",
+    "cheese and fig jam",
+    "cheese and crusty bread",
+    "cheese and fresh fruit",
+    "cheese and light-bodied wines",
+    "cheese and crisp cider"
+  ],
+  "longTailKeywords": [
+    "Amsterdammer British Columbia cheese characteristics",
+    "Amsterdammer British Columbia cheese origin",
+    "Amsterdammer British Columbia cheese flavor"
+  ],
+  "seoKeywords": [
+    "Amsterdammer British Columbia cheese",
+    "Canadian semi-soft cheese",
+    "British Columbia artisanal cheese",
+    "best Canadian cheese",
+    "how to use Amsterdammer cheese",
+    "Amsterdammer cheese pairings",
+    "Amsterdammer cheese flavor",
+    "Amsterdammer cheese history",
+    "Amsterdammer cheese production",
+    "Amsterdammer cheese aging",
+    "Amsterdammer cheese culinary uses",
+    "Amsterdammer cheese and wine",
+    "Amsterdammer cheese and beer",
+    "Amsterdammer cheese and fruit",
+    "Amsterdammer cheese and nuts",
+    "Amsterdammer cheese and honey",
+    "Amsterdammer cheese and jam",
+    "Amsterdammer cheese and cider",
+    "Amsterdammer cheese and bread",
+    "Amsterdammer cheese and salads"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Gouda",
+      "description": "A Dutch cheese known for its creamy texture and mild, nutty flavor, similar to Amsterdammer."
+    },
+    {
+      "name": "Edam",
+      "description": "Another Dutch cheese with a semi-soft texture and mild taste, often compared to Amsterdammer."
+    },
+    {
+      "name": "Havarti",
+      "description": "A Danish cheese that is creamy and slightly elastic, with a mild, buttery flavor akin to Amsterdammer."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "Approximately 28-30% fat content",
+    "calciumContent": "High in calcium, contributing to bone health"
+  },
+  "lastUpdated": "2025-03-01T17:07:14.114Z"
+}

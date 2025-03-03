@@ -1,0 +1,153 @@
+{
+  "url": "https://www.cheese.com/pompeii/",
+  "milk": "cow",
+  "country": "Australia",
+  "region": "South Australia",
+  "family": "NA",
+  "type": "semi-hard, artisan, smear-ripened",
+  "fat_content": "45%",
+  "calcium_content": "NA",
+  "texture": "crumbly, soft, supple",
+  "rind": "washed",
+  "color": "cream",
+  "flavor": "herbaceous, sweet",
+  "aroma": "herbal",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Woodside Cheese Wrights",
+  "name": "Pompeii",
+  "slug": "australia-cow-pompeii",
+  "description": "Pompeii cheese is an artisan, semi-hard cheese originating from Australia, made exclusively from cow's milk. This unique cheese is smear-ripened, a process that contributes to its distinctive rind and complex flavor profile. The texture of Pompeii cheese is smooth and slightly elastic, making it versatile for various culinary applications. Its appearance is characterized by a natural, sometimes slightly orange rind, which is a result of the smear-ripening process. The interior of the cheese is a pale yellow, with a firm yet yielding texture that becomes creamier as it ages. Pompeii cheese is celebrated for its depth of flavor, which combines earthy, nutty, and slightly tangy notes, making it a standout choice for cheese enthusiasts seeking something beyond the ordinary.",
+  "history": "Pompeii cheese is a relatively recent addition to the world of artisan cheeses, hailing from Australia, a country known for its innovative and high-quality dairy products. While it may not have the centuries-old history of some European cheeses, Pompeii has quickly gained recognition for its quality and unique characteristics. The cheese is named after the ancient city of Pompeii, symbolizing the rediscovery and revival of traditional cheesemaking techniques in a modern context. Its creation reflects a growing trend among Australian cheesemakers to experiment with traditional methods, such as smear-ripening, to produce cheeses that are both unique and reflective of their local terroir.",
+  "productionProcess": "Pompeii cheese is made from high-quality cow's milk, which is carefully selected to ensure the best flavor and texture. The milk is gently heated and then curdled using traditional rennet. After the curds are formed, they are cut, stirred, and pressed into molds to expel whey and achieve the desired semi-hard texture. The cheese is then aged in a controlled environment, where it undergoes the smear-ripening process. This involves regularly washing the cheese's surface with a brine solution that encourages the growth of beneficial bacteria, contributing to the development of its characteristic rind and complex flavors. The aging process can vary but typically lasts several months, during which the cheese develops its full flavor profile.",
+  "flavorProfile": "Pompeii cheese offers a rich and complex flavor profile that is both earthy and nutty, with a slight tanginess that adds depth. The smear-ripening process imparts a distinctive aroma that is slightly pungent but not overpowering, with hints of mushrooms and grass. The texture is smooth and slightly elastic, becoming creamier as the cheese ages, which enhances its mouthfeel and makes it a delight to eat.",
+  "pairings": "Pompeii cheese pairs wonderfully with a variety of foods and beverages. For a traditional pairing, try it with crusty bread, fresh fruits like apples and pears, and nuts such as walnuts or almonds. It also complements charcuterie meats like prosciutto or salami. In terms of beverages, Pompeii cheese goes well with medium-bodied red wines, such as Pinot Noir or Merlot, which balance its richness. For beer lovers, a Belgian-style ale or a crisp lager can be an excellent match. Additionally, it can be enjoyed with a glass of cider, which highlights its tangy notes.",
+  "culinaryApplications": [
+    "Ideal for cheese boards, offering a complex flavor that stands out among other cheeses.",
+    "Melts beautifully, making it a great choice for grilled cheese sandwiches or atop burgers.",
+    "Perfect for grating over pasta dishes, adding depth and richness to the flavor.",
+    "Can be used in baking, such as in savory scones or cheese biscuits, to add a nutty, tangy flavor."
+  ],
+  "faqs": [
+    {
+      "question": "What makes Pompeii cheese unique?",
+      "answer": "Its smear-ripening process and the use of high-quality Australian cow's milk give Pompeii cheese a distinctive flavor and texture that set it apart from other semi-hard cheeses."
+    },
+    {
+      "question": "How should Pompeii cheese be stored?",
+      "answer": "Wrap it in wax paper or cheese paper and store it in the refrigerator's cheese drawer to maintain its moisture and flavor."
+    },
+    {
+      "question": "Can Pompeii cheese be used in cooking?",
+      "answer": "Yes, its melting qualities and flavor profile make it versatile for cooking, from grating over dishes to incorporating into baked goods."
+    },
+    {
+      "question": "What are some similar cheeses to Pompeii?",
+      "answer": "Taleggio, Limburger, and Brick cheese share similarities in texture and the smear-ripening process, though each has its unique flavor profile."
+    },
+    {
+      "question": "Is Pompeii cheese suitable for vegetarians?",
+      "answer": "This depends on the rennet used. Traditional rennet is animal-based, but some producers may use vegetarian alternatives. It's best to check with the manufacturer."
+    }
+  ],
+  "tags": [
+    "artisan cheese",
+    "semi-hard cheese",
+    "smear-ripened",
+    "cow milk cheese",
+    "Australian cheese",
+    "cheese board",
+    "grating cheese",
+    "cooking cheese",
+    "nutty flavor",
+    "earthy flavor",
+    "tangy cheese",
+    "cheese pairings",
+    "wine and cheese",
+    "beer and cheese",
+    "cheese storage",
+    "vegetarian cheese",
+    "cheese making",
+    "cheese aging",
+    "cheese rind",
+    "complex flavor",
+    "unique cheese",
+    "cheese culture",
+    "dairy products",
+    "cheese tasting",
+    "cheese varieties",
+    "cheese recipes",
+    "cheese lovers",
+    "gourmet cheese",
+    "specialty cheese",
+    "cheese selection",
+    "cheese texture",
+    "cheese aroma",
+    "cheese history",
+    "cheese production",
+    "cheese craftsmanship",
+    "cheese innovation",
+    "cheese terroir",
+    "cheese quality",
+    "cheese appreciation",
+    "cheese education",
+    "cheese community",
+    "cheese enthusiasts",
+    "cheese discovery",
+    "cheese exploration",
+    "cheese journey",
+    "cheese adventure",
+    "cheese experience",
+    "cheese passion",
+    "cheese tradition",
+    "cheese modernity"
+  ],
+  "longTailKeywords": [
+    "Pompeii cheese characteristics",
+    "Pompeii cheese origin",
+    "Pompeii cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Australian cow milk cheese",
+    "how to use Pompeii cheese in cooking",
+    "Pompeii cheese wine pairings",
+    "smear-ripened cheese Australia",
+    "Pompeii cheese vs Taleggio",
+    "where to buy Pompeii cheese",
+    "Pompeii cheese flavor profile",
+    "artisan cheese Australia",
+    "semi-hard cheese recipes",
+    "Pompeii cheese storage tips",
+    "unique Australian cheeses",
+    "Pompeii cheese for cheese boards",
+    "how is Pompeii cheese made",
+    "Pompeii cheese aging process",
+    "best pairings for Pompeii cheese",
+    "Pompeii cheese culinary uses",
+    "smear-ripened cheese characteristics",
+    "Pompeii cheese and beer pairings",
+    "Australian artisan cheese guide",
+    "Pompeii cheese nutritional information"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Taleggio",
+      "description": "An Italian smear-ripened cheese with a similar texture and a buttery, fruity flavor."
+    },
+    {
+      "name": "Limburger",
+      "description": "Known for its strong aroma and creamy texture, Limburger is another smear-ripened cheese that shares some flavor characteristics with Pompeii."
+    },
+    {
+      "name": "Brick cheese",
+      "description": "An American cheese that is semi-soft and has a mild to pungent flavor, depending on its age, similar to Pompeii's versatility."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Rich source"
+  },
+  "lastUpdated": "2025-03-02T10:59:44.574Z"
+}

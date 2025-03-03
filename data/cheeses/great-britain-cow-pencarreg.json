@@ -1,0 +1,160 @@
+{
+  "url": "https://www.cheese.com/pencarreg/",
+  "milk": "cow",
+  "country": "Great Britain",
+  "region": "Wales",
+  "family": "Brie",
+  "type": "soft, blue-veined",
+  "fat_content": "40%",
+  "calcium_content": "NA",
+  "texture": "creamy",
+  "rind": "natural",
+  "color": "pale yellow",
+  "flavor": "smooth",
+  "aroma": "rich",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Pencarreg",
+  "slug": "great-britain-cow-pencarreg",
+  "description": "Pencarreg is a distinctive soft, blue-veined cheese originating from Great Britain, made exclusively from cow's milk. This cheese is celebrated for its creamy texture and striking blue veins that run throughout, offering a bold and tangy flavor profile. Pencarreg's rind is typically natural and slightly wrinkled, contributing to its artisanal appearance. The cheese's interior is soft and spreadable, making it a versatile choice for various culinary applications. Its unique characteristics stem from the traditional methods used in its production, which have been passed down through generations of British cheesemakers.",
+  "history": "Pencarreg cheese has its roots deeply embedded in the rich cheesemaking traditions of Great Britain. While not as widely documented as some of its counterparts, Pencarreg represents the artisanal spirit of British cheesemaking, focusing on quality and tradition. The cheese is named after the village of Pencarreg in Wales, hinting at its regional significance. Over the years, Pencarreg has gained recognition among cheese enthusiasts for its unique flavor and texture, contributing to the diversity of British blue cheeses.",
+  "productionProcess": "Pencarreg cheese is produced using high-quality cow's milk, which is carefully selected to ensure the best flavor and texture. The milk is pasteurized and then inoculated with Penicillium roqueforti, the mold responsible for the cheese's characteristic blue veins. The curdling process involves the addition of rennet, after which the curds are cut, drained, and molded. The cheese is then pierced to allow air to enter, promoting the growth of the blue mold. Aging takes place in controlled environments, where the cheese develops its flavor and texture over several weeks.",
+  "flavorProfile": "Pencarreg cheese offers a complex flavor profile, characterized by its creamy texture and tangy, slightly spicy notes from the blue veins. The aroma is earthy and pungent, typical of blue-veined cheeses. Its spreadable consistency makes it a delight on the palate, with a balance between the richness of the cow's milk and the sharpness of the blue mold.",
+  "pairings": "Pencarreg cheese pairs wonderfully with a variety of foods and beverages. Traditional pairings include crusty bread, fresh fruits like pears and apples, and nuts such as walnuts. For drinks, a sweet dessert wine or a robust ale complements the cheese's tangy flavor. Innovative pairings might include drizzling honey over the cheese or serving it with a spicy chutney to contrast its creaminess.",
+  "culinaryApplications": [
+    "Ideal for spreading on crackers or bread",
+    "Perfect for adding depth to cheese boards",
+    "Enhances the flavor of salads when crumbled",
+    "Melts beautifully in sauces or over grilled meats"
+  ],
+  "faqs": [
+    {
+      "question": "What makes Pencarreg cheese unique?",
+      "answer": "Its unique combination of creamy texture and tangy, spicy blue veins sets it apart."
+    },
+    {
+      "question": "How long is Pencarreg aged?",
+      "answer": "Pencarreg is typically aged for several weeks to develop its flavor and texture."
+    },
+    {
+      "question": "Can Pencarreg be used in cooking?",
+      "answer": "Yes, its creamy texture makes it excellent for melting in dishes or as a spread."
+    },
+    {
+      "question": "Is Pencarreg similar to other blue cheeses?",
+      "answer": "While it shares characteristics with other blue cheeses, its specific flavor profile and texture are unique."
+    },
+    {
+      "question": "Where can I buy Pencarreg cheese?",
+      "answer": "It may be found in specialty cheese shops or online retailers specializing in British cheeses."
+    }
+  ],
+  "tags": [
+    "Pencarreg",
+    "British cheese",
+    "blue-veined cheese",
+    "cow's milk cheese",
+    "soft cheese",
+    "artisanal cheese",
+    "cheese board",
+    "spreadable cheese",
+    "cheese pairing",
+    "British cheesemaking",
+    "Penicillium roqueforti",
+    "creamy cheese",
+    "tangy cheese",
+    "spicy cheese",
+    "cheese aging",
+    "cheese production",
+    "cheese flavor",
+    "cheese texture",
+    "cheese aroma",
+    "cheese culinary uses",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese and fruit",
+    "cheese and nuts",
+    "cheese and honey",
+    "cheese and chutney",
+    "cheese melting",
+    "cheese sauces",
+    "cheese salads",
+    "cheese crackers",
+    "cheese bread",
+    "cheese meats",
+    "cheese history",
+    "cheese culture",
+    "cheese tradition",
+    "cheese enthusiasts",
+    "cheese quality",
+    "cheese diversity",
+    "cheese selection",
+    "cheese pasteurization",
+    "cheese curdling",
+    "cheese molding",
+    "cheese piercing",
+    "cheese environment",
+    "cheese development",
+    "cheese balance",
+    "cheese richness",
+    "cheese sharpness",
+    "cheese delight"
+  ],
+  "longTailKeywords": [
+    "Pencarreg cheese characteristics",
+    "Pencarreg cheese origin",
+    "Pencarreg cheese flavor"
+  ],
+  "seoKeywords": [
+    "best British blue-veined cheese",
+    "how to use Pencarreg in cooking",
+    "Pencarreg cheese pairings",
+    "where to buy Pencarreg cheese",
+    "Pencarreg vs other blue cheeses",
+    "Pencarreg cheese flavor profile",
+    "Pencarreg cheese production process",
+    "Pencarreg cheese history",
+    "Pencarreg cheese culinary applications",
+    "Pencarreg cheese nutritional info",
+    "Pencarreg cheese aging process",
+    "Pencarreg cheese texture",
+    "Pencarreg cheese aroma",
+    "Pencarreg cheese spreadable",
+    "Pencarreg cheese artisanal",
+    "Pencarreg cheese British cheesemaking",
+    "Pencarreg cheese Penicillium roqueforti",
+    "Pencarreg cheese creamy",
+    "Pencarreg cheese tangy",
+    "Pencarreg cheese spicy"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Stilton",
+      "similarity": "Another British blue cheese with a creamy texture and bold flavor."
+    },
+    {
+      "name": "Gorgonzola",
+      "similarity": "An Italian blue cheese that shares the tangy and spicy flavor profile."
+    },
+    {
+      "name": "Roquefort",
+      "similarity": "A French blue cheese known for its rich and creamy texture with a sharp taste."
+    },
+    {
+      "name": "Cambozola",
+      "similarity": "A German cheese that combines the creaminess of Camembert with the blue veins of Gorgonzola."
+    },
+    {
+      "name": "Dorset Blue Vinney",
+      "similarity": "A traditional British blue cheese with a crumbly texture and strong flavor."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "High"
+  },
+  "lastUpdated": "2025-03-02T09:54:10.427Z"
+}

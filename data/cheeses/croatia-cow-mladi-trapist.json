@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/mladi-trapist/",
+  "milk": "cow",
+  "country": "Croatia",
+  "region": "Dalmatia",
+  "family": "NA",
+  "type": "semi-hard, artisan",
+  "fat_content": "50%",
+  "calcium_content": "NA",
+  "texture": "crumbly, semi firm",
+  "rind": "natural",
+  "color": "white",
+  "flavor": "grassy, savory",
+  "aroma": "aromatic",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "SIRANA GLIGORA D.O.O",
+  "name": "Mladi Trapist",
+  "slug": "croatia-cow-mladi-trapist",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Mladi Trapist cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Mladi Trapist cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Mladi Trapist cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Mladi Trapist cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Mladi Trapist cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "cow milk",
+    "Croatia",
+    "crumbly, semi firm"
+  ],
+  "longTailKeywords": [
+    "Mladi Trapist cheese characteristics",
+    "Mladi Trapist cheese origin",
+    "Mladi Trapist cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T06:36:05.248Z"
+}

@@ -1,0 +1,160 @@
+{
+  "url": "https://www.cheese.com/picobello/",
+  "milk": "cow",
+  "country": "Netherlands",
+  "region": "Huizen",
+  "family": "Gouda",
+  "type": "hard",
+  "fat_content": "45%",
+  "calcium_content": "NA",
+  "texture": "crumbly, open",
+  "rind": "waxed",
+  "color": "golden yellow",
+  "flavor": "caramel, nutty, sweet",
+  "aroma": "NA",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "NA",
+  "alt_spellings": "Picobello Fino, Picobello Maturo",
+  "producers": "Westland Kaasexport B.V.",
+  "name": "Picobello",
+  "slug": "netherlands-cow-picobello",
+  "description": "Picobello is a hard cheese originating from the Netherlands, made exclusively from cow's milk. It is known for its firm texture and rich, nutty flavor, which becomes more pronounced with age. The cheese typically has a natural rind that may be slightly waxy to the touch, encasing a pale yellow interior. Picobello is often aged for several months, allowing it to develop a complex flavor profile that balances sweetness with a slight tanginess. Its versatility makes it a favorite among cheese enthusiasts, suitable for both cooking and direct consumption.",
+  "history": "Picobello cheese is a testament to the Dutch tradition of cheesemaking, which dates back centuries. The Netherlands is renowned for its high-quality dairy products, and Picobello is a modern addition to this rich heritage. While not as historically documented as some of its counterparts, Picobello has quickly gained recognition for its quality and flavor. It represents the Dutch commitment to innovation within the framework of traditional cheesemaking practices, offering a contemporary take on the classic hard cheese.",
+  "productionProcess": "Picobello cheese is produced using pasteurized cow's milk, which is curdled using traditional rennet. The curds are then pressed to remove whey, resulting in a dense texture. After pressing, the cheese is salted and left to age for several months. During this aging process, the cheese develops its characteristic hard texture and complex flavors. The aging environment is carefully controlled to ensure optimal conditions for flavor development, including temperature and humidity levels.",
+  "flavorProfile": "Picobello cheese offers a rich and nutty flavor with a slight tanginess that becomes more pronounced as it ages. The texture is firm yet smooth, making it easy to slice or grate. Its aroma is mild but inviting, with hints of butter and toasted nuts. The balance of flavors makes Picobello a versatile cheese that can complement a wide range of dishes.",
+  "pairings": "Picobello cheese pairs beautifully with a variety of wines, including full-bodied reds like Cabernet Sauvignon and Merlot, as well as crisp whites such as Chardonnay. For beer enthusiasts, a Belgian Dubbel or a rich Stout can complement its nutty flavors. On the food side, Picobello is excellent with crusty bread, fresh fruits like apples and pears, and nuts. It also adds depth to salads and pasta dishes when grated over the top.",
+  "culinaryApplications": [
+    "Ideal for cheese boards and platters",
+    "Perfect for grating over pasta and salads",
+    "Melts well in sandwiches and grilled cheese",
+    "Can be used in baking, adding richness to savory pastries",
+    "Excellent for snacking with crackers and fruit"
+  ],
+  "faqs": [
+    {
+      "question": "What type of milk is used in Picobello cheese?",
+      "answer": "Picobello cheese is made exclusively from cow's milk."
+    },
+    {
+      "question": "How long is Picobello cheese aged?",
+      "answer": "Picobello cheese is typically aged for several months to develop its flavor and texture."
+    },
+    {
+      "question": "Can Picobello cheese be used in cooking?",
+      "answer": "Yes, Picobello is versatile and can be used in a variety of culinary applications, including grating over dishes and melting in sandwiches."
+    },
+    {
+      "question": "What does Picobello cheese taste like?",
+      "answer": "Picobello has a rich, nutty flavor with a slight tanginess, which becomes more pronounced with age."
+    },
+    {
+      "question": "Is Picobello cheese similar to any other cheeses?",
+      "answer": "Picobello is similar to other hard, aged cow's milk cheeses like Gouda or Cheddar, offering a comparable texture and flavor profile."
+    }
+  ],
+  "tags": [
+    "Dutch cheese",
+    "cow milk cheese",
+    "hard cheese",
+    "aged cheese",
+    "nutty flavor",
+    "cheese board",
+    "cooking cheese",
+    "gourmet cheese",
+    "artisanal cheese",
+    "cheese pairings",
+    "wine and cheese",
+    "beer and cheese",
+    "cheese for pasta",
+    "cheese for salads",
+    "cheese for baking",
+    "snacking cheese",
+    "cheese with fruit",
+    "cheese with nuts",
+    "cheese with bread",
+    "cheese with crackers",
+    "rich flavor",
+    "smooth texture",
+    "natural rind",
+    "pale yellow interior",
+    "traditional cheesemaking",
+    "modern cheese",
+    "Dutch dairy",
+    "high-quality cheese",
+    "versatile cheese",
+    "cheese for grilling",
+    "cheese for melting",
+    "cheese for grating",
+    "cheese for sandwiches",
+    "cheese for pastries",
+    "cheese for wine",
+    "cheese for beer",
+    "cheese for appetizers",
+    "cheese for main dishes",
+    "cheese for desserts",
+    "cheese for snacks",
+    "cheese for parties",
+    "cheese for gatherings",
+    "cheese for holidays",
+    "cheese for gifts",
+    "cheese for cheese lovers",
+    "cheese for foodies",
+    "cheese for chefs",
+    "cheese for home cooks"
+  ],
+  "longTailKeywords": [
+    "Picobello cheese characteristics",
+    "Picobello cheese origin",
+    "Picobello cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Dutch cow milk cheese",
+    "how to use Picobello in cooking",
+    "Picobello cheese pairings with wine",
+    "Picobello cheese vs Gouda",
+    "where to buy Picobello cheese",
+    "Picobello cheese for cheese boards",
+    "Picobello cheese for pasta",
+    "Picobello cheese for salads",
+    "Picobello cheese for baking",
+    "Picobello cheese for snacking",
+    "Picobello cheese with fruit",
+    "Picobello cheese with nuts",
+    "Picobello cheese with bread",
+    "Picobello cheese with crackers",
+    "Picobello cheese for grilling",
+    "Picobello cheese for melting",
+    "Picobello cheese for grating",
+    "Picobello cheese for sandwiches",
+    "Picobello cheese for pastries",
+    "Picobello cheese for appetizers"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Gouda",
+      "explanation": "Gouda is a well-known Dutch cheese that shares a similar nutty flavor and firm texture with Picobello, especially when aged."
+    },
+    {
+      "name": "Cheddar",
+      "explanation": "Cheddar, particularly aged varieties, offers a comparable texture and depth of flavor, making it a good alternative to Picobello."
+    },
+    {
+      "name": "Emmental",
+      "explanation": "Emmental is another hard cheese with a slightly sweet and nutty flavor, similar to Picobello, though it is known for its characteristic holes."
+    },
+    {
+      "name": "Comté",
+      "explanation": "Comté, a French cheese, shares the rich, complex flavors and firm texture of Picobello, making it a suitable substitute in many dishes."
+    },
+    {
+      "name": "Parmigiano-Reggiano",
+      "explanation": "While more granular and salty, Parmigiano-Reggiano can be used similarly to Picobello for grating over dishes, offering a comparable umami richness."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "High"
+  },
+  "lastUpdated": "2025-03-02T10:25:04.694Z"
+}

@@ -1,0 +1,159 @@
+{
+  "url": "https://www.cheese.com/charolais/",
+  "milk": "goat",
+  "country": "France",
+  "region": "Bourgogne",
+  "family": "NA",
+  "type": "semi-soft",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "firm",
+  "rind": "NA",
+  "color": "NA",
+  "flavor": "acidic, salty, sweet",
+  "aroma": "subtle",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "Charoles",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Charolais",
+  "slug": "france-goat-charolais",
+  "description": "Charolais cheese is a semi-soft, artisanal cheese made exclusively from goat's milk, originating from the Charolais region in Burgundy, France. It is distinguished by its small, cylindrical shape and a natural, slightly wrinkled rind that develops a bluish mold as it ages. The interior paste is smooth, creamy, and ivory-colored, offering a delicate balance of tanginess and subtle nutty flavors. Charolais is often celebrated for its approachable yet complex profile, making it a favorite among goat cheese enthusiasts. Its texture is firm yet yielding, with a melt-in-your-mouth quality that enhances its appeal.",
+  "history": "Charolais cheese has deep roots in the pastoral traditions of the Charolais region, where goat farming has been a way of life for centuries. The cheese is named after the Charolais cattle breed, which is also native to the area, though it is made from goat's milk. Historically, it was produced by local farmers as a way to preserve milk and provide sustenance during the winter months. Over time, Charolais gained recognition for its unique flavor and texture, becoming a staple of Burgundian cheesemaking. Today, it is protected under French agricultural regulations, ensuring its authenticity and quality.",
+  "productionProcess": "Charolais is crafted using raw or pasteurized goat's milk, which is gently heated and curdled using natural rennet. The curds are then hand-ladled into molds, a traditional technique that helps preserve the cheese's delicate texture. After draining, the cheese is salted and aged for a minimum of two weeks, during which it develops its characteristic rind and flavor. The aging process is carefully monitored to ensure the cheese achieves the perfect balance of creaminess and tang. Some variations may be aged longer for a more pronounced flavor.",
+  "flavorProfile": "Charolais cheese offers a delightful interplay of flavors, with a tangy, slightly acidic taste that is balanced by a creamy, nutty undertone. Its aroma is fresh and earthy, with hints of hay and citrus. The texture is smooth and velvety, with a slight crumbliness that adds to its charm. As it ages, the flavors become more complex, developing a subtle sharpness that lingers on the palate.",
+  "pairings": "Charolais pairs beautifully with a variety of foods and beverages. Traditional pairings include crusty baguettes, fresh figs, and honey, which complement its tangy flavor. For wine, a crisp Sauvignon Blanc or a light Pinot Noir enhances its creamy texture. Beer enthusiasts might enjoy it with a Belgian-style wheat beer or a fruity cider. For a more adventurous pairing, try it with a drizzle of balsamic glaze or alongside roasted vegetables.",
+  "culinaryApplications": [
+    "Perfect for cheese boards, offering a tangy contrast to richer cheeses",
+    "Melts beautifully in warm dishes like quiches or tarts",
+    "Ideal for salads, adding a creamy, tangy element",
+    "Pairs wonderfully with fruit preserves or chutneys as an appetizer"
+  ],
+  "faqs": [
+    {
+      "question": "Is Charolais cheese made from cow's milk?",
+      "answer": "No, Charolais is made exclusively from goat's milk."
+    },
+    {
+      "question": "How long is Charolais aged?",
+      "answer": "It is typically aged for at least two weeks, though some variations may be aged longer for a stronger flavor."
+    },
+    {
+      "question": "Can Charolais be used in cooking?",
+      "answer": "Yes, it melts well and is excellent in warm dishes like quiches or tarts."
+    },
+    {
+      "question": "What does Charolais taste like?",
+      "answer": "It has a tangy, slightly acidic flavor with creamy, nutty undertones."
+    },
+    {
+      "question": "Is Charolais similar to other goat cheeses?",
+      "answer": "Yes, it is similar to cheeses like Crottin de Chavignol or Valençay, which also feature tangy, creamy profiles."
+    }
+  ],
+  "tags": [
+    "goat cheese",
+    "French cheese",
+    "semi-soft cheese",
+    "artisanal cheese",
+    "Burgundy cheese",
+    "Charolais region",
+    "natural rind",
+    "creamy texture",
+    "tangy flavor",
+    "nutty undertones",
+    "cheese board",
+    "wine pairing",
+    "beer pairing",
+    "culinary cheese",
+    "aged cheese",
+    "farmhouse cheese",
+    "traditional cheese",
+    "French gastronomy",
+    "cheese making",
+    "cheese history",
+    "cheese culture",
+    "goat milk",
+    "raw milk cheese",
+    "pasteurized cheese",
+    "hand-ladled cheese",
+    "small-batch cheese",
+    "seasonal cheese",
+    "winter cheese",
+    "summer cheese",
+    "spring cheese",
+    "fall cheese",
+    "cheese preservation",
+    "cheese aging",
+    "cheese rind",
+    "bluish mold",
+    "ivory paste",
+    "smooth texture",
+    "crumbliness",
+    "fresh aroma",
+    "earthy aroma",
+    "citrus notes",
+    "hay notes",
+    "balanced flavor",
+    "complex flavor",
+    "sharpness",
+    "melt-in-your-mouth",
+    "cheese pairings",
+    "cheese accompaniments"
+  ],
+  "longTailKeywords": [
+    "Charolais cheese characteristics",
+    "Charolais cheese origin",
+    "Charolais cheese flavor"
+  ],
+  "seoKeywords": [
+    "best French goat cheese",
+    "how to use Charolais in cooking",
+    "Charolais cheese flavor profile",
+    "traditional Burgundy cheese",
+    "semi-soft goat cheese",
+    "artisanal French cheese",
+    "Charolais cheese pairings",
+    "aging process of Charolais",
+    "Charolais vs Crottin de Chavignol",
+    "where to buy Charolais cheese",
+    "Charolais cheese history",
+    "how to serve Charolais cheese",
+    "Charolais cheese nutritional info",
+    "best wine with Charolais cheese",
+    "Charolais cheese for cheese boards",
+    "Charolais cheese in salads",
+    "Charolais cheese melting properties",
+    "Charolais cheese production process",
+    "Charolais cheese rind development",
+    "Charolais cheese and honey pairing"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Crottin de Chavignol",
+      "description": "A classic French goat cheese with a tangy, slightly nutty flavor and a firm texture that becomes creamier with age."
+    },
+    {
+      "name": "Valençay",
+      "description": "A pyramid-shaped goat cheese with a natural ash-coated rind, offering a balanced flavor of tanginess and earthiness."
+    },
+    {
+      "name": "Sainte-Maure de Touraine",
+      "description": "A log-shaped goat cheese with a straw running through its center, known for its creamy texture and mild, tangy flavor."
+    },
+    {
+      "name": "Pouligny-Saint-Pierre",
+      "description": "A tall, cylindrical goat cheese with a delicate, slightly acidic taste and a smooth, creamy texture."
+    },
+    {
+      "name": "Chabichou du Poitou",
+      "description": "A small, cylindrical goat cheese with a firm texture and a balanced flavor of tanginess and sweetness."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T00:03:34.595Z"
+}

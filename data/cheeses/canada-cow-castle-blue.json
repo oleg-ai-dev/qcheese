@@ -1,0 +1,157 @@
+{
+  "url": "https://www.cheese.com/castle-blue/",
+  "milk": "cow",
+  "country": "Canada",
+  "region": "British Columbia",
+  "family": "Brie",
+  "type": "semi-soft, blue-veined, soft-ripened",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "buttery, creamy",
+  "rind": "natural",
+  "color": "cream",
+  "flavor": "creamy, piquant, sweet",
+  "aroma": "earthy, rich",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "The Farm House Natural Cheeses",
+  "name": "Castle Blue",
+  "slug": "canada-cow-castle-blue",
+  "description": "Castle Blue is a Canadian artisanal cheese that stands out for its creamy texture and distinctive blue veins. Made from cow's milk, this semi-soft, soft-ripened cheese boasts a delicate rind that encases a luscious, buttery interior. The blue veins, a result of carefully introduced Penicillium cultures, add a bold, tangy contrast to the cheese's overall creaminess. Its appearance is striking, with a pale ivory base crisscrossed by deep blue-green marbling. Castle Blue is celebrated for its balance of flavors and textures, making it a favorite among blue cheese aficionados and newcomers alike.",
+  "history": "Castle Blue cheese is a testament to Canada's burgeoning artisanal cheese scene. While specific historical details about Castle Blue are scarce, it is part of a broader tradition of blue cheese production that has been embraced and innovated upon by Canadian cheesemakers. The cheese reflects a commitment to quality and craftsmanship, drawing on European blue cheese techniques while incorporating local Canadian flavors and ingredients. Its creation is a nod to the global appreciation for blue-veined cheeses, adapted to the Canadian palate and dairy landscape.",
+  "productionProcess": "Castle Blue is crafted from high-quality cow's milk, which is pasteurized before the addition of Penicillium cultures to initiate the blue veining. The milk is then curdled using rennet, and the curds are carefully cut and transferred to molds. After molding, the cheese is salted and pierced to encourage the growth of the blue mold within. It undergoes a soft-ripening process, during which it develops its characteristic rind and creamy texture. The aging period is relatively short, allowing the cheese to retain its semi-soft consistency and develop a complex flavor profile.",
+  "flavorProfile": "Castle Blue offers a harmonious blend of creamy, tangy, and slightly spicy flavors. The blue veins impart a sharp, earthy tanginess that contrasts beautifully with the cheese's rich, buttery base. Its aroma is pungent yet inviting, with hints of mushroom and grass. The texture is smooth and spreadable, making it a versatile choice for various culinary applications.",
+  "pairings": "Castle Blue pairs wonderfully with sweet and savory accompaniments. Try it with honey, figs, or pears to complement its tanginess. For a savory option, pair it with cured meats like prosciutto or salami. It also shines alongside crusty bread or crackers. In terms of beverages, a sweet dessert wine like Sauternes or a robust stout beer can balance its bold flavors. For a non-alcoholic option, a rich, dark coffee or a tart apple cider works beautifully.",
+  "culinaryApplications": [
+    "Ideal for cheese boards, offering a bold flavor contrast",
+    "Melts beautifully in sauces or atop burgers",
+    "Perfect for spreading on crusty bread or crackers",
+    "Enhances salads with its creamy texture and tangy flavor",
+    "Can be used in baking, adding depth to savory pastries"
+  ],
+  "faqs": [
+    {
+      "question": "Is Castle Blue cheese similar to Gorgonzola?",
+      "answer": "Yes, Castle Blue shares similarities with Gorgonzola in terms of its creamy texture and blue veining, but it has a unique flavor profile that sets it apart."
+    },
+    {
+      "question": "How long is Castle Blue aged?",
+      "answer": "Castle Blue is typically aged for a short period, allowing it to develop its semi-soft texture and complex flavors without becoming too firm."
+    },
+    {
+      "question": "Can Castle Blue be used in cooking?",
+      "answer": "Absolutely, Castle Blue's creamy texture and bold flavor make it an excellent choice for cooking, especially in sauces, on pizzas, or in baked dishes."
+    },
+    {
+      "question": "Is Castle Blue suitable for vegetarians?",
+      "answer": "This depends on the production process. If animal rennet is used, it may not be suitable for vegetarians. It's best to check with the producer."
+    },
+    {
+      "question": "How should Castle Blue be stored?",
+      "answer": "Store Castle Blue in the refrigerator, wrapped in parchment paper followed by plastic wrap, to maintain its moisture and prevent it from absorbing other flavors."
+    }
+  ],
+  "tags": [
+    "Canadian cheese",
+    "blue cheese",
+    "cow milk cheese",
+    "artisanal cheese",
+    "semi-soft cheese",
+    "soft-ripened cheese",
+    "blue-veined cheese",
+    "creamy cheese",
+    "tangy cheese",
+    "spicy cheese",
+    "cheese board",
+    "cheese pairing",
+    "gourmet cheese",
+    "cheese for cooking",
+    "cheese for baking",
+    "cheese for salads",
+    "cheese for burgers",
+    "cheese for sauces",
+    "cheese for pastries",
+    "cheese for wine",
+    "cheese for beer",
+    "cheese for coffee",
+    "cheese for cider",
+    "cheese for honey",
+    "cheese for figs",
+    "cheese for pears",
+    "cheese for prosciutto",
+    "cheese for salami",
+    "cheese for bread",
+    "cheese for crackers",
+    "cheese storage",
+    "cheese aging",
+    "cheese flavor",
+    "cheese texture",
+    "cheese aroma",
+    "cheese production",
+    "cheese history",
+    "cheese culture",
+    "cheese tradition",
+    "cheese innovation",
+    "cheese craftsmanship",
+    "cheese quality",
+    "cheese versatility",
+    "cheese complexity",
+    "cheese balance",
+    "cheese contrast",
+    "cheese appreciation",
+    "cheese aficionados",
+    "cheese newcomers"
+  ],
+  "longTailKeywords": [
+    "Castle Blue cheese characteristics",
+    "Castle Blue cheese origin",
+    "Castle Blue cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Canadian blue cheese",
+    "how to use Castle Blue in cooking",
+    "Castle Blue cheese pairings",
+    "where to buy Castle Blue cheese",
+    "Castle Blue vs Gorgonzola",
+    "Castle Blue cheese recipes",
+    "Castle Blue cheese flavor profile",
+    "how to store Castle Blue cheese",
+    "Castle Blue cheese for cheese boards",
+    "Castle Blue cheese in sauces",
+    "Castle Blue cheese for baking",
+    "Castle Blue cheese for salads",
+    "Castle Blue cheese for burgers",
+    "Castle Blue cheese for pastries",
+    "Castle Blue cheese with wine",
+    "Castle Blue cheese with beer",
+    "Castle Blue cheese with coffee",
+    "Castle Blue cheese with cider",
+    "Castle Blue cheese with honey",
+    "Castle Blue cheese with figs"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Cambozola",
+      "description": "A German cheese that combines the creamy texture of Camembert with the bold flavor of Gorgonzola, similar to Castle Blue in its balance of creaminess and tanginess."
+    },
+    {
+      "name": "Saint Agur",
+      "description": "A French blue cheese known for its creamy texture and spicy, tangy flavor, offering a similar experience to Castle Blue."
+    },
+    {
+      "name": "Bleu d'Auvergne",
+      "description": "A French blue cheese with a creamy texture and a sharp, slightly spicy flavor, reminiscent of Castle Blue's profile."
+    },
+    {
+      "name": "Shropshire Blue",
+      "description": "An English cheese with a rich, buttery texture and a tangy, slightly nutty flavor, similar to Castle Blue in its complexity and balance."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Moderate"
+  },
+  "lastUpdated": "2025-03-01T23:39:32.589Z"
+}

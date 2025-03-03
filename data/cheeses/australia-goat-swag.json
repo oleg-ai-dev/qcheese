@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/swag/",
+  "milk": "goat",
+  "country": "Australia",
+  "region": "South Australia",
+  "family": "NA",
+  "type": "fresh firm, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, crumbly",
+  "rind": "ash coated",
+  "color": "white",
+  "flavor": "acidic, creamy",
+  "aroma": "fresh",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Woodside Cheese Wrights",
+  "name": "Swag",
+  "slug": "australia-goat-swag",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Swag cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Swag cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Swag cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Swag cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Swag cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "goat milk",
+    "Australia",
+    "creamy, crumbly"
+  ],
+  "longTailKeywords": [
+    "Swag cheese characteristics",
+    "Swag cheese origin",
+    "Swag cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T16:05:44.972Z"
+}

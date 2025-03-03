@@ -1,0 +1,162 @@
+{
+  "url": "https://www.cheese.com/country-morning/",
+  "milk": "cow",
+  "country": "Canada",
+  "region": "British Columbia",
+  "family": "Cheddar",
+  "type": "hard, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, crumbly",
+  "rind": "natural",
+  "color": "pale yellow",
+  "flavor": "nutty, sharp",
+  "aroma": "strong",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "The Farm House Natural Cheeses",
+  "name": "Country Morning",
+  "slug": "canada-cow-country-morning",
+  "description": "Country Morning cheese is a hard, artisan cheese originating from Canada, crafted from cow's milk. This cheese is celebrated for its robust texture and deep, complex flavors, making it a standout choice for cheese enthusiasts. Its appearance is characterized by a natural, sometimes rustic rind that encases a firm, dense interior. The cheese's color ranges from pale yellow to a deeper golden hue, depending on its age. Country Morning cheese is known for its versatility in culinary applications, from being a star on cheese boards to melting beautifully in cooked dishes.",
+  "history": "Country Morning cheese is a testament to Canada's rich dairy farming and artisanal cheesemaking traditions. While specific historical details about Country Morning cheese are scarce, it is part of a broader movement in Canada towards producing high-quality, artisanal cheeses that reflect the country's diverse landscapes and climates. Canadian cheesemakers have been increasingly recognized on the global stage for their innovative and traditional approaches to cheesemaking, with Country Morning cheese being a proud example of this craftsmanship.",
+  "productionProcess": "Country Morning cheese is made from high-quality cow's milk, which is carefully selected to ensure the cheese's distinctive flavor and texture. The milk undergoes a traditional curdling process, using natural enzymes to separate the curds from the whey. The curds are then pressed and aged for several months, during which the cheese develops its characteristic hard texture and complex flavor profile. The aging process is crucial, as it allows the cheese to mature and intensify in flavor, resulting in a product that is both rich and nuanced.",
+  "flavorProfile": "Country Morning cheese offers a rich and savory flavor profile, with notes of nuttiness and a slight tanginess that adds depth to its taste. The aroma is earthy and inviting, hinting at the cheese's artisanal roots. Its texture is firm yet smooth, making it a pleasure to both taste and feel. The cheese's flavor becomes more pronounced with age, offering a satisfying complexity that lingers on the palate.",
+  "pairings": "Country Morning cheese pairs wonderfully with a variety of foods and beverages. For a traditional pairing, try it with a full-bodied red wine, such as a Cabernet Sauvignon, which complements its rich flavors. Beer enthusiasts might enjoy it with a dark ale or stout, where the cheese's nuttiness can shine. For accompaniments, consider crusty bread, fresh fruits like apples or pears, and nuts, which all enhance the cheese's natural flavors. Country Morning cheese also makes an excellent addition to a cheese platter, offering a robust counterpoint to milder cheeses.",
+  "culinaryApplications": [
+    "Ideal for cheese boards",
+    "Melts well in grilled cheese",
+    "Perfect for grating over pasta",
+    "Enhances the flavor of soups and stews",
+    "Great for baking into bread or savory scones"
+  ],
+  "faqs": [
+    {
+      "question": "What type of milk is used in Country Morning cheese?",
+      "answer": "Country Morning cheese is made from cow's milk."
+    },
+    {
+      "question": "How long is Country Morning cheese aged?",
+      "answer": "It is aged for several months to develop its hard texture and complex flavor."
+    },
+    {
+      "question": "Can Country Morning cheese be used in cooking?",
+      "answer": "Yes, it melts well and is great for cooking, including in grilled cheese, pasta dishes, and baked goods."
+    },
+    {
+      "question": "What does Country Morning cheese taste like?",
+      "answer": "It has a rich, savory flavor with nutty notes and a slight tanginess."
+    },
+    {
+      "question": "Is Country Morning cheese similar to any other cheeses?",
+      "answer": "It shares similarities with other hard, artisan cheeses like aged Cheddar or Gouda, offering a complex flavor profile and firm texture."
+    }
+  ],
+  "tags": [
+    "artisan cheese",
+    "Canadian cheese",
+    "cow milk cheese",
+    "hard cheese",
+    "cheese board",
+    "cooking cheese",
+    "aged cheese",
+    "nutty flavor",
+    "savory cheese",
+    "full-bodied wine pairing",
+    "dark ale pairing",
+    "stout pairing",
+    "crusty bread pairing",
+    "fruit pairing",
+    "nut pairing",
+    "grilled cheese",
+    "pasta topping",
+    "soup enhancer",
+    "stew enhancer",
+    "baking cheese",
+    "savory scones",
+    "cheese platter",
+    "complex flavor",
+    "firm texture",
+    "earthy aroma",
+    "traditional cheesemaking",
+    "artisanal craftsmanship",
+    "dairy farming",
+    "Canadian dairy",
+    "cheese aging",
+    "flavor development",
+    "culinary versatility",
+    "robust cheese",
+    "cheese enthusiast",
+    "global cheese recognition",
+    "cheese innovation",
+    "cheese tradition",
+    "cheese culture",
+    "cheese appreciation",
+    "cheese tasting",
+    "cheese pairing",
+    "cheese cooking",
+    "cheese baking",
+    "cheese grating",
+    "cheese melting",
+    "cheese flavor profile",
+    "cheese texture",
+    "cheese aroma",
+    "cheese complexity",
+    "cheese richness"
+  ],
+  "longTailKeywords": [
+    "Country Morning cheese characteristics",
+    "Country Morning cheese origin",
+    "Country Morning cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Canadian cow milk cheese",
+    "how to use Country Morning in cooking",
+    "Country Morning cheese flavor profile",
+    "pairing Country Morning cheese with wine",
+    "Country Morning cheese vs aged Cheddar",
+    "artisan hard cheese from Canada",
+    "Country Morning cheese for cheese boards",
+    "cooking with Country Morning cheese",
+    "baking recipes with Country Morning cheese",
+    "Country Morning cheese aging process",
+    "where to buy Country Morning cheese",
+    "Country Morning cheese nutritional info",
+    "Country Morning cheese culinary uses",
+    "how to pair Country Morning cheese with beer",
+    "Country Morning cheese in soups and stews",
+    "grilled cheese with Country Morning cheese",
+    "pasta dishes with Country Morning cheese",
+    "savory scones with Country Morning cheese",
+    "Country Morning cheese for cheese enthusiasts",
+    "exploring Canadian artisan cheeses"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Aged Cheddar",
+      "similarity": "Both are hard, cow's milk cheeses with a rich, complex flavor profile."
+    },
+    {
+      "name": "Gouda",
+      "similarity": "Shares a firm texture and nutty flavor, especially when aged."
+    },
+    {
+      "name": "Parmesan",
+      "similarity": "Similar in texture and versatility in cooking, though Parmesan has a sharper taste."
+    },
+    {
+      "name": "Comté",
+      "similarity": "Both are artisan cheeses with a nutty flavor and firm texture, though Comté has a slightly sweeter profile."
+    },
+    {
+      "name": "Gruyère",
+      "similarity": "Offers a similar melting quality and depth of flavor, ideal for cooking and baking."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "High"
+  },
+  "lastUpdated": "2025-03-02T01:24:53.799Z"
+}

@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/smoked-gouda/",
+  "milk": "cow, goat, sheep",
+  "country": "Netherlands",
+  "region": "NA",
+  "family": "Gouda",
+  "type": "hard",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "buttery, crumbly",
+  "rind": "waxed",
+  "color": "brownish yellow",
+  "flavor": "NA",
+  "aroma": "smokey",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Smoked Gouda",
+  "slug": "netherlands-cow-smoked-gouda",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Smoked Gouda cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Smoked Gouda cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Smoked Gouda cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Smoked Gouda cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Smoked Gouda cheese vegetarian?",
+      "answer": "No"
+    }
+  ],
+  "tags": [
+    "cow, goat, sheep milk",
+    "Netherlands",
+    "buttery, crumbly"
+  ],
+  "longTailKeywords": [
+    "Smoked Gouda cheese characteristics",
+    "Smoked Gouda cheese origin",
+    "Smoked Gouda cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T14:26:35.471Z"
+}

@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/saltbush_chevre/",
+  "milk": "goat",
+  "country": "Australia",
+  "region": "South Australia",
+  "family": "NA",
+  "type": "fresh firm, artisan",
+  "fat_content": "45%",
+  "calcium_content": "NA",
+  "texture": "creamy",
+  "rind": "rindless",
+  "color": "white",
+  "flavor": "acidic, grassy, herbaceous, salty",
+  "aroma": "goaty, grassy, herbal",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Woodside Cheese Wrights",
+  "name": "Saltbush_chevre",
+  "slug": "australia-goat-saltbushchevre",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Saltbush_chevre cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Saltbush_chevre cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Saltbush_chevre cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Saltbush_chevre cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Saltbush_chevre cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "goat milk",
+    "Australia",
+    "creamy"
+  ],
+  "longTailKeywords": [
+    "Saltbush_chevre cheese characteristics",
+    "Saltbush_chevre cheese origin",
+    "Saltbush_chevre cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T12:30:59.658Z"
+}

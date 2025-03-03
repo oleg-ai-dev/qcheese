@@ -1,0 +1,160 @@
+{
+  "url": "https://www.cheese.com/burgos/",
+  "milk": "cow, sheep",
+  "country": "Spain",
+  "region": "Castille-Leon",
+  "family": "NA",
+  "type": "fresh soft",
+  "fat_content": "46-60%",
+  "calcium_content": "NA",
+  "texture": "creamy",
+  "rind": "rindless",
+  "color": "white",
+  "flavor": "mild, milky",
+  "aroma": "fresh",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "Queso de Burgos, Fromage Burgos, Burgos käse",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Burgos",
+  "slug": "spain-cow-burgos",
+  "description": "Burgos cheese is a traditional fresh cheese from the Burgos province in Spain, known for its soft texture and mild, slightly tangy flavor. It is primarily made from cow's milk, though sheep's milk versions also exist, offering a richer taste. This cheese is characterized by its white, creamy appearance and is often sold in small, round molds. Its high moisture content makes it incredibly soft and spreadable, ideal for a variety of culinary uses. Burgos cheese is celebrated for its simplicity and freshness, embodying the pastoral traditions of its region.",
+  "history": "Originating from the Burgos province in the Castile and León region of Spain, Burgos cheese has a long history rooted in the pastoral traditions of the area. It was traditionally made by shepherds and farmers as a way to utilize surplus milk. Over time, it has become a staple in Spanish cuisine, particularly in the northern regions. Its production is closely tied to the local culture and gastronomy, often featured in traditional dishes and festivals. Despite its regional origins, Burgos cheese has gained popularity across Spain and is appreciated for its fresh, delicate flavor.",
+  "productionProcess": "Burgos cheese is made by curdling cow's or sheep's milk with rennet, followed by gentle heating to separate the curds from the whey. The curds are then molded into small, round shapes and lightly pressed to remove excess whey. Unlike aged cheeses, Burgos is consumed fresh, typically within a few days of production. This quick turnover ensures its characteristic softness and high moisture content. The simplicity of its production process highlights the quality of the milk and the skill of the cheesemaker.",
+  "flavorProfile": "Burgos cheese offers a mild, slightly tangy flavor with a fresh, milky aroma. Its texture is soft and creamy, making it spreadable and light on the palate. The sheep's milk version tends to have a richer, more pronounced flavor compared to the cow's milk variant. Its high moisture content contributes to a refreshing quality, making it a delightful addition to various dishes.",
+  "pairings": "Burgos cheese pairs wonderfully with honey and nuts for a simple yet elegant snack. It also complements fresh fruits like figs and pears, enhancing its mild flavor. For a traditional Spanish experience, serve it with membrillo (quince paste) and crusty bread. In terms of beverages, a light white wine or a crisp cider can balance its creaminess. For beer lovers, a pale ale or lager offers a refreshing contrast.",
+  "culinaryApplications": [
+    "Perfect for spreading on toast or crackers",
+    "Ideal for incorporating into salads for a creamy texture",
+    "Great for making light, fresh cheese dips",
+    "Suitable for desserts when paired with honey or fruit"
+  ],
+  "faqs": [
+    {
+      "question": "Is Burgos cheese similar to ricotta?",
+      "answer": "Yes, Burgos cheese shares similarities with ricotta in terms of its fresh, soft texture and mild flavor. However, Burgos is typically made from cow's or sheep's milk, while ricotta is made from whey."
+    },
+    {
+      "question": "How long can Burgos cheese be stored?",
+      "answer": "Due to its high moisture content, Burgos cheese should be consumed within a few days of purchase and kept refrigerated."
+    },
+    {
+      "question": "Can Burgos cheese be used in cooking?",
+      "answer": "Absolutely! Its soft texture makes it versatile for spreads, dips, and even light baking applications."
+    },
+    {
+      "question": "Is there a difference between cow's and sheep's milk Burgos cheese?",
+      "answer": "Yes, sheep's milk Burgos cheese tends to have a richer, more pronounced flavor compared to the milder cow's milk version."
+    },
+    {
+      "question": "Where can I buy Burgos cheese outside of Spain?",
+      "answer": "While it may be challenging to find outside of Spain, specialty cheese shops or online retailers that focus on European cheeses may carry it."
+    }
+  ],
+  "tags": [
+    "Burgos cheese",
+    "Spanish cheese",
+    "fresh cheese",
+    "cow milk cheese",
+    "sheep milk cheese",
+    "soft cheese",
+    "spreadable cheese",
+    "traditional Spanish cheese",
+    "Castile and León cheese",
+    "artisanal cheese",
+    "cheese for spreads",
+    "cheese for dips",
+    "light cheese",
+    "mild cheese",
+    "creamy cheese",
+    "high moisture cheese",
+    "cheese for desserts",
+    "cheese pairings",
+    "cheese and honey",
+    "cheese and fruit",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese in salads",
+    "cheese for baking",
+    "cheese for snacks",
+    "cheese for cheese boards",
+    "cheese for traditional dishes",
+    "cheese for festivals",
+    "cheese for shepherds",
+    "cheese for farmers",
+    "cheese for surplus milk",
+    "cheese for quick consumption",
+    "cheese for freshness",
+    "cheese for delicacy",
+    "cheese for simplicity",
+    "cheese for quality milk",
+    "cheese for skill",
+    "cheese for culture",
+    "cheese for gastronomy",
+    "cheese for northern Spain",
+    "cheese for regional cuisine",
+    "cheese for local dishes",
+    "cheese for membrillo",
+    "cheese for quince paste",
+    "cheese for crusty bread",
+    "cheese for light white wine",
+    "cheese for crisp cider",
+    "cheese for pale ale",
+    "cheese for lager"
+  ],
+  "longTailKeywords": [
+    "Burgos cheese characteristics",
+    "Burgos cheese origin",
+    "Burgos cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Burgos cheese in Spain",
+    "how to use Burgos cheese in cooking",
+    "Burgos cheese vs ricotta",
+    "where to buy Burgos cheese",
+    "traditional Spanish Burgos cheese",
+    "cow milk Burgos cheese",
+    "sheep milk Burgos cheese",
+    "soft fresh cheese from Spain",
+    "Burgos cheese pairings",
+    "Burgos cheese culinary uses",
+    "Burgos cheese for spreads",
+    "Burgos cheese for dips",
+    "Burgos cheese for desserts",
+    "Burgos cheese for salads",
+    "Burgos cheese for cheese boards",
+    "Burgos cheese for traditional dishes",
+    "Burgos cheese for festivals",
+    "Burgos cheese for shepherds",
+    "Burgos cheese for farmers",
+    "Burgos cheese for surplus milk"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Ricotta",
+      "similarity": "Both are fresh, soft cheeses with a mild flavor, though ricotta is made from whey."
+    },
+    {
+      "name": "Fromage Blanc",
+      "similarity": "A fresh, spreadable cheese with a similar texture and mild taste."
+    },
+    {
+      "name": "Quark",
+      "similarity": "A fresh cheese with a soft texture and mild flavor, often used in similar culinary applications."
+    },
+    {
+      "name": "Cottage Cheese",
+      "similarity": "Both are fresh cheeses with a high moisture content, though cottage cheese has a more granular texture."
+    },
+    {
+      "name": "Mascarpone",
+      "similarity": "A soft, creamy cheese, though mascarpone is richer and often used in desserts."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "Varies by milk type; generally moderate",
+    "calciumContent": "High, due to fresh milk content"
+  },
+  "lastUpdated": "2025-03-01T22:00:00.526Z"
+}

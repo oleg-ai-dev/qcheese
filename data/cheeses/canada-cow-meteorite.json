@@ -1,0 +1,161 @@
+{
+  "url": "https://www.cheese.com/meteorite/",
+  "milk": "cow",
+  "country": "Canada",
+  "region": "Quebec",
+  "family": "Blue",
+  "type": "soft, blue-veined",
+  "fat_content": "37%",
+  "calcium_content": "NA",
+  "texture": "creamy, supple",
+  "rind": "ash coated",
+  "color": "straw",
+  "flavor": "mild",
+  "aroma": "NA",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "La Maison Alexis de Portneuf Inc.",
+  "name": "Meteorite",
+  "slug": "canada-cow-meteorite",
+  "description": "Meteorite cheese is a distinctive Canadian blue cheese made from cow's milk, known for its soft texture and striking blue veins that resemble the celestial patterns of a meteorite. This cheese is a testament to the innovative spirit of Canadian cheesemakers, blending traditional blue cheese techniques with unique aging processes to create a product that is both visually stunning and rich in flavor. Its rind is typically natural, developing a slightly rugged appearance as it ages, while the interior remains creamy and spreadable, punctuated by the bold blue veins that are characteristic of blue cheeses.",
+  "history": "Meteorite cheese is a relatively recent addition to the world of artisanal cheeses, emerging from Canada's vibrant and growing cheese culture. Canadian cheesemakers have been experimenting with traditional European cheese-making techniques, adapting them to local tastes and ingredients. Meteorite cheese, with its unique name and appearance, is a product of this innovative environment. It reflects Canada's commitment to quality and creativity in cheese production, offering a new experience for cheese lovers who appreciate the artistry behind blue-veined cheeses.",
+  "productionProcess": "Meteorite cheese is crafted from high-quality cow's milk, which is carefully selected to ensure a rich and creamy base. The milk is then inoculated with Penicillium roqueforti, the mold responsible for the characteristic blue veins. After curdling, the cheese is aged in controlled environments that allow the mold to develop evenly throughout the cheese. The aging process is crucial, as it influences the cheese's texture and flavor intensity. Special attention is given to the development of the blue veins, ensuring they are evenly distributed and visually striking.",
+  "flavorProfile": "Meteorite cheese offers a complex flavor profile that balances creamy richness with the sharp, tangy notes typical of blue cheeses. The aroma is earthy and slightly pungent, inviting yet bold. Its texture is soft and creamy, making it spreadable, while the blue veins provide a slight crumble and a burst of intense flavor. The cheese finishes with a lingering, slightly spicy aftertaste that is both satisfying and intriguing.",
+  "pairings": "Meteorite cheese pairs beautifully with a variety of foods and beverages. For a classic pairing, serve it with a robust red wine or a sweet dessert wine to complement its bold flavors. It also goes well with dark beers or stouts, which can stand up to its intensity. On the food side, try it with fresh pears, figs, or a drizzle of honey to balance its tanginess. For a savory option, incorporate it into a cheese board with nuts and crusty bread, or use it to elevate a simple salad with its creamy texture and bold flavor.",
+  "culinaryApplications": [
+    "Ideal for cheese boards, offering a visually striking and flavorful option.",
+    "Perfect for spreading on crackers or bread, adding a bold flavor to simple snacks.",
+    "Can be used in salads to add a creamy texture and tangy flavor.",
+    "Excellent for melting into sauces or soups, providing depth and richness.",
+    "Great for pairing with fruits and nuts in desserts or appetizers."
+  ],
+  "faqs": [
+    {
+      "question": "What makes Meteorite cheese unique?",
+      "answer": "Its unique name and the striking pattern of its blue veins, resembling a meteorite, set it apart. The balance of creamy texture and bold flavor also makes it distinctive."
+    },
+    {
+      "question": "Can Meteorite cheese be used in cooking?",
+      "answer": "Yes, its creamy texture and bold flavor make it versatile for cooking, especially in sauces, soups, and as a spread."
+    },
+    {
+      "question": "How should Meteorite cheese be stored?",
+      "answer": "Wrap it in wax paper or cheese paper and store it in the refrigerator to maintain its freshness and prevent it from absorbing other flavors."
+    },
+    {
+      "question": "Is Meteorite cheese similar to other blue cheeses?",
+      "answer": "Yes, it shares similarities with other blue-veined cheeses in terms of flavor and texture but has its own unique characteristics due to its specific production process and aging."
+    },
+    {
+      "question": "Where can I buy Meteorite cheese?",
+      "answer": "It may be available at specialty cheese shops or Canadian markets. If not, similar cheeses like Roquefort or Gorgonzola can be good alternatives."
+    }
+  ],
+  "tags": [
+    "Canadian cheese",
+    "blue cheese",
+    "cow milk cheese",
+    "soft cheese",
+    "artisanal cheese",
+    "cheese board",
+    "gourmet cheese",
+    "cheese pairing",
+    "unique cheese",
+    "creamy cheese",
+    "tangy cheese",
+    "spreadable cheese",
+    "cheese for cooking",
+    "cheese for salads",
+    "cheese for desserts",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese and fruit",
+    "cheese and nuts",
+    "cheese storage",
+    "cheese aging",
+    "Penicillium roqueforti",
+    "cheese culture",
+    "cheese innovation",
+    "cheese flavor",
+    "cheese texture",
+    "cheese aroma",
+    "cheese aftertaste",
+    "cheese production",
+    "cheese history",
+    "cheese FAQ",
+    "cheese culinary uses",
+    "cheese nutritional info",
+    "cheese SEO",
+    "cheese keywords",
+    "cheese tags",
+    "cheese description",
+    "cheese pairings",
+    "cheese applications",
+    "cheese similar to",
+    "cheese alternatives",
+    "cheese buying guide",
+    "cheese storage tips",
+    "cheese cooking tips",
+    "cheese serving suggestions",
+    "cheese for cheese lovers",
+    "cheese for gourmets",
+    "cheese for foodies",
+    "cheese for special occasions"
+  ],
+  "longTailKeywords": [
+    "Meteorite cheese characteristics",
+    "Meteorite cheese origin",
+    "Meteorite cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Canadian blue cheese",
+    "how to use Meteorite cheese in cooking",
+    "Meteorite cheese pairings",
+    "where to buy Meteorite cheese",
+    "Meteorite cheese vs Roquefort",
+    "Meteorite cheese flavor profile",
+    "Meteorite cheese culinary uses",
+    "Meteorite cheese storage tips",
+    "Meteorite cheese for cheese boards",
+    "Meteorite cheese and wine pairings",
+    "Meteorite cheese and beer pairings",
+    "Meteorite cheese for salads",
+    "Meteorite cheese for desserts",
+    "Meteorite cheese nutritional information",
+    "Meteorite cheese production process",
+    "Meteorite cheese history",
+    "Meteorite cheese similar cheeses",
+    "Meteorite cheese FAQs",
+    "Meteorite cheese buying guide",
+    "Meteorite cheese serving suggestions"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Roquefort",
+      "description": "A famous French blue cheese made from sheep's milk, known for its moist texture and strong, tangy flavor."
+    },
+    {
+      "name": "Gorgonzola",
+      "description": "An Italian blue cheese that comes in two varieties: Gorgonzola Dolce (sweet and creamy) and Gorgonzola Piccante (firmer and more pungent)."
+    },
+    {
+      "name": "Stilton",
+      "description": "An English blue cheese with a crumbly texture and a complex flavor profile that balances sweetness and sharpness."
+    },
+    {
+      "name": "Cambozola",
+      "description": "A German cheese that combines the creamy texture of Camembert with the bold flavor of Gorgonzola, offering a milder blue cheese experience."
+    },
+    {
+      "name": "Bleu d'Auvergne",
+      "description": "A French blue cheese with a creamy texture and a strong, spicy flavor, made from cow's milk."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Rich"
+  },
+  "lastUpdated": "2025-03-02T08:01:03.863Z"
+}

@@ -1,0 +1,161 @@
+{
+  "url": "https://www.cheese.com/mt-mazama-cheddar/",
+  "milk": "cow, goat",
+  "country": "United States",
+  "region": "Oregon",
+  "family": "Cheddar",
+  "type": "semi-hard",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, crumbly, crystalline, dense",
+  "rind": "natural",
+  "color": "pale yellow",
+  "flavor": "acidic, caramel, nutty, sweet, tangy",
+  "aroma": "pleasant, rich",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "Mount Mazama",
+  "alt_spellings": "NA",
+  "producers": "Rogue Creamery",
+  "name": "Mt Mazama Cheddar",
+  "slug": "united-states-cow-mt-mazama-cheddar",
+  "description": "Mt Mazama Cheddar is a unique, semi-hard cheese originating from the United States, crafted from a blend of cow and goat milk. This cheese stands out for its rich, complex flavor profile and slightly crumbly yet smooth texture. It boasts a natural rind that adds to its rustic appearance, making it a visually appealing addition to any cheese board. The cheese's aging process contributes to its depth of flavor, which is both tangy and slightly sweet, with a hint of nuttiness that is characteristic of high-quality cheddars. Mt Mazama Cheddar is a testament to the artisanal cheese-making tradition, offering a distinctive taste that reflects the terroir of its origin.",
+  "history": "Mt Mazama Cheddar is a relatively new addition to the world of artisanal cheeses, emerging from the United States' growing craft cheese movement. Named after the volcanic mountain in Oregon, this cheese embodies the spirit of innovation and tradition that defines American artisanal cheese-making. While it does not have a long historical lineage, it draws inspiration from traditional cheddar-making techniques, adapted to incorporate the unique flavors of goat milk. This cheese represents the evolving landscape of American cheese, where cheesemakers experiment with milk blends and aging processes to create distinctive flavors.",
+  "productionProcess": "Mt Mazama Cheddar is produced using a blend of cow and goat milk, which is first pasteurized and then cultured to begin the fermentation process. Rennet is added to coagulate the milk, forming curds that are then cut, cooked, and pressed to expel whey. The cheese is aged for several months, during which it develops its characteristic flavor and texture. The aging process is carefully monitored to ensure the cheese achieves the perfect balance of tanginess and sweetness. The use of goat milk adds a unique twist to the traditional cheddar recipe, resulting in a cheese that is both familiar and novel.",
+  "flavorProfile": "Mt Mazama Cheddar offers a rich and complex flavor profile, with a perfect balance of tanginess and sweetness. The cheese has a slightly crumbly yet smooth texture, with a hint of nuttiness that complements its tangy notes. The blend of cow and goat milk adds depth to its flavor, making it more nuanced than traditional cheddars. Its aroma is earthy and inviting, with a subtle sharpness that enhances its overall appeal.",
+  "pairings": "Mt Mazama Cheddar pairs beautifully with a variety of foods and beverages. For a traditional pairing, try it with crisp apples, pears, or a slice of crusty bread. It also complements the flavors of cured meats like prosciutto or salami. For wine enthusiasts, a glass of full-bodied red wine, such as Cabernet Sauvignon or Syrah, enhances the cheese's rich flavors. Beer lovers might enjoy it with a hoppy IPA or a smooth porter. For a unique twist, serve Mt Mazama Cheddar with a drizzle of honey or a dollop of fig jam to highlight its sweet and tangy notes.",
+  "culinaryApplications": [
+    "Ideal for cheese boards, offering a unique flavor profile that stands out among other cheeses.",
+    "Melts well, making it a great choice for grilled cheese sandwiches or macaroni and cheese.",
+    "Perfect for grating over pasta dishes, adding a rich, tangy flavor.",
+    "Can be used in savory baking, such as in cheese scones or biscuits.",
+    "Excellent for snacking, paired with fruits, nuts, and crackers."
+  ],
+  "faqs": [
+    {
+      "question": "What makes Mt Mazama Cheddar different from traditional cheddar?",
+      "answer": "Mt Mazama Cheddar is unique due to its blend of cow and goat milk, which adds depth and complexity to its flavor, distinguishing it from traditional cow milk cheddars."
+    },
+    {
+      "question": "How long is Mt Mazama Cheddar aged?",
+      "answer": "Mt Mazama Cheddar is aged for several months, allowing it to develop a rich, complex flavor profile with a perfect balance of tanginess and sweetness."
+    },
+    {
+      "question": "Can Mt Mazama Cheddar be used in cooking?",
+      "answer": "Yes, Mt Mazama Cheddar is versatile in the kitchen. It melts well, making it suitable for grilled cheese, macaroni and cheese, and as a flavorful addition to baked goods."
+    },
+    {
+      "question": "What are the best pairings for Mt Mazama Cheddar?",
+      "answer": "Mt Mazama Cheddar pairs well with crisp fruits, cured meats, full-bodied red wines, hoppy beers, and sweet accompaniments like honey or fig jam."
+    },
+    {
+      "question": "Is Mt Mazama Cheddar widely available?",
+      "answer": "As a relatively new and artisanal cheese, Mt Mazama Cheddar may not be widely available in all regions. It's best sought after in specialty cheese shops or directly from the producer."
+    }
+  ],
+  "tags": [
+    "Mt Mazama Cheddar",
+    "artisanal cheese",
+    "semi-hard cheese",
+    "cow and goat milk cheese",
+    "American cheese",
+    "unique cheddar",
+    "cheese board",
+    "grilled cheese",
+    "pasta topping",
+    "savory baking",
+    "cheese pairings",
+    "full-bodied red wine",
+    "hoppy IPA",
+    "fig jam",
+    "honey",
+    "crisp apples",
+    "pears",
+    "crusty bread",
+    "prosciutto",
+    "salami",
+    "cheese aging",
+    "tangy cheese",
+    "sweet cheese",
+    "nutty cheese",
+    "earthy aroma",
+    "rustic cheese",
+    "cheese culture",
+    "craft cheese movement",
+    "Oregon cheese",
+    "volcanic mountain cheese",
+    "cheese fermentation",
+    "rennet",
+    "cheese curds",
+    "whey",
+    "cheese texture",
+    "cheese flavor",
+    "cheese aroma",
+    "cheese production",
+    "cheese history",
+    "cheese FAQs",
+    "cheese culinary uses",
+    "cheese nutritional info",
+    "cheese SEO",
+    "cheese tags",
+    "cheese keywords",
+    "cheese pairings guide",
+    "cheese making process",
+    "cheese aging process",
+    "cheese milk blend"
+  ],
+  "longTailKeywords": [
+    "Mt Mazama Cheddar cheese characteristics",
+    "Mt Mazama Cheddar cheese origin",
+    "Mt Mazama Cheddar cheese flavor"
+  ],
+  "seoKeywords": [
+    "Mt Mazama Cheddar cheese",
+    "best American artisanal cheese",
+    "cow and goat milk cheddar",
+    "how to use Mt Mazama Cheddar in cooking",
+    "Mt Mazama Cheddar pairings",
+    "where to buy Mt Mazama Cheddar",
+    "Mt Mazama Cheddar flavor profile",
+    "Mt Mazama Cheddar aging process",
+    "unique cheddar cheese blends",
+    "Oregon artisanal cheese",
+    "Mt Mazama Cheddar cheese board ideas",
+    "grilled cheese with Mt Mazama Cheddar",
+    "Mt Mazama Cheddar pasta recipes",
+    "savory baking with Mt Mazama Cheddar",
+    "Mt Mazama Cheddar and wine pairings",
+    "Mt Mazama Cheddar and beer pairings",
+    "Mt Mazama Cheddar nutritional information",
+    "how is Mt Mazama Cheddar made",
+    "Mt Mazama Cheddar vs traditional cheddar",
+    "best snacks with Mt Mazama Cheddar"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Cabot Clothbound Cheddar",
+      "similarity": "Aged cheddar with a complex flavor profile, though made exclusively from cow milk."
+    },
+    {
+      "name": "Humboldt Fog",
+      "similarity": "A goat milk cheese with a distinctive texture and flavor, offering a tangy and creamy experience."
+    },
+    {
+      "name": "Fiscalini Bandage Wrapped Cheddar",
+      "similarity": "An American cheddar with a rich, nutty flavor, aged to perfection but made from cow milk only."
+    },
+    {
+      "name": "Prairie Breeze",
+      "similarity": "A semi-hard cheese with a sweet and tangy flavor, made from cow milk, offering a similar texture to Mt Mazama Cheddar."
+    },
+    {
+      "name": "Tumalo Tomme",
+      "similarity": "A goat milk cheese from Oregon, known for its earthy flavors and smooth texture, similar to the goat milk component in Mt Mazama Cheddar."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "High"
+  },
+  "lastUpdated": "2025-03-02T07:44:48.186Z"
+}

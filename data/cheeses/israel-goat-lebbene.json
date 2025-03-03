@@ -1,0 +1,160 @@
+{
+  "url": "https://www.cheese.com/lebbene/",
+  "milk": "goat, sheep",
+  "country": "Israel",
+  "region": "NA",
+  "family": "NA",
+  "type": "soft",
+  "fat_content": "45%",
+  "calcium_content": "NA",
+  "texture": "",
+  "rind": "natural",
+  "color": "white",
+  "flavor": "mild",
+  "aroma": "mild",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "Gibne",
+  "alt_spellings": "Lebney, Labaneh",
+  "producers": "NA",
+  "name": "Lebbene",
+  "slug": "israel-goat-lebbene",
+  "description": "Lebbene cheese is a soft, artisanal cheese originating from Israel, crafted from a blend of goat and sheep milk. This cheese is celebrated for its creamy texture and delicate, tangy flavor profile, which is a testament to the rich pastoral traditions of the region. Lebbene typically presents a soft, spreadable consistency, making it a versatile addition to a variety of dishes. Its appearance is often marked by a pristine white color, indicative of its fresh, unpasteurized milk base. The cheese is traditionally made in small batches, ensuring each wheel captures the essence of its local terroir.",
+  "history": "Lebbene cheese has its roots deeply embedded in the pastoral traditions of Israel, where goat and sheep herding have been integral to the rural economy and culture for centuries. This cheese is a modern interpretation of ancient cheesemaking practices, adapted to contemporary tastes while still honoring its artisanal heritage. Lebbene is a relatively recent addition to the global cheese scene, gaining recognition for its unique blend of milks and its representation of Israeli culinary innovation. It serves as a bridge between traditional Middle Eastern cheesemaking and the evolving preferences of today's cheese enthusiasts.",
+  "productionProcess": "Lebbene cheese is produced using a blend of fresh goat and sheep milk, which is gently curdled using natural rennet. The curds are then carefully hand-ladled into molds, allowing the whey to drain naturally, a process that contributes to the cheese's soft texture. After molding, the cheese is lightly salted and aged for a short period, typically a few weeks, to develop its characteristic flavor and texture. The artisanal nature of its production emphasizes minimal processing, preserving the natural qualities of the milk.",
+  "flavorProfile": "Lebbene cheese offers a delightful balance of tangy and creamy flavors, with a subtle earthiness that reflects its goat and sheep milk origins. The aroma is fresh and inviting, with hints of the pastoral landscapes from which it comes. Its texture is luxuriously soft and spreadable, making it a pleasure to eat on its own or as part of a dish.",
+  "pairings": "Lebbene cheese pairs beautifully with a variety of foods and beverages. For a traditional experience, enjoy it with fresh pita bread, olives, and a drizzle of olive oil. It also complements fresh fruits like figs and grapes, adding a creamy contrast to their sweetness. In terms of beverages, a crisp white wine or a light, citrusy beer can enhance the cheese's tangy flavors. For a more innovative pairing, try it with a sparkling rosé or a floral gin cocktail.",
+  "culinaryApplications": [
+    "Ideal for spreading on crackers or bread",
+    "Perfect for adding a creamy texture to salads",
+    "Great for incorporating into dips and spreads",
+    "Can be used as a filling for pastries or savory crepes"
+  ],
+  "faqs": [
+    {
+      "question": "What makes Lebbene cheese unique?",
+      "answer": "Its unique blend of goat and sheep milk gives it a distinctive flavor and texture that sets it apart from other soft cheeses."
+    },
+    {
+      "question": "How long is Lebbene cheese aged?",
+      "answer": "Lebbene cheese is typically aged for a few weeks, which allows it to develop its characteristic soft texture and tangy flavor."
+    },
+    {
+      "question": "Can Lebbene cheese be used in cooking?",
+      "answer": "Yes, its creamy texture makes it versatile for use in a variety of dishes, from spreads to baked goods."
+    },
+    {
+      "question": "Is Lebbene cheese similar to any other cheeses?",
+      "answer": "It shares similarities with other soft, tangy cheeses made from goat or sheep milk, such as feta or chèvre, but has its own unique profile due to the blend of milks."
+    },
+    {
+      "question": "Where can I buy Lebbene cheese?",
+      "answer": "Lebbene cheese can be found in specialty cheese shops or markets that focus on artisanal and international cheeses."
+    }
+  ],
+  "tags": [
+    "Lebbene cheese",
+    "Israeli cheese",
+    "goat milk cheese",
+    "sheep milk cheese",
+    "soft cheese",
+    "artisanal cheese",
+    "spreadable cheese",
+    "tangy cheese",
+    "creamy cheese",
+    "cheese pairings",
+    "cheese making",
+    "Middle Eastern cheese",
+    "cheese for salads",
+    "cheese for dips",
+    "cheese for baking",
+    "unique cheese",
+    "cheese flavors",
+    "cheese texture",
+    "cheese history",
+    "cheese production",
+    "cheese aging",
+    "cheese culinary uses",
+    "cheese FAQs",
+    "cheese nutritional info",
+    "cheese SEO",
+    "cheese tags",
+    "cheese keywords",
+    "cheese description",
+    "cheese pairings guide",
+    "cheese applications",
+    "cheese culture",
+    "cheese enthusiasts",
+    "cheese lovers",
+    "cheese tasting",
+    "cheese varieties",
+    "cheese innovation",
+    "cheese traditions",
+    "cheese terroir",
+    "cheese artisanal",
+    "cheese blend",
+    "cheese from Israel",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese and fruits",
+    "cheese and bread",
+    "cheese and olives",
+    "cheese and olive oil",
+    "cheese and figs",
+    "cheese and grapes"
+  ],
+  "longTailKeywords": [
+    "Lebbene cheese characteristics",
+    "Lebbene cheese origin",
+    "Lebbene cheese flavor"
+  ],
+  "seoKeywords": [
+    "Lebbene cheese from Israel",
+    "best goat and sheep milk cheese",
+    "how to use Lebbene cheese in cooking",
+    "Lebbene cheese pairings with wine",
+    "where to buy Lebbene cheese",
+    "Lebbene cheese vs feta",
+    "artisanal Israeli cheeses",
+    "soft cheese for spreads",
+    "tangy creamy cheese options",
+    "unique Middle Eastern cheeses",
+    "Lebbene cheese in salads",
+    "Lebbene cheese for baking",
+    "how is Lebbene cheese made",
+    "Lebbene cheese flavor profile",
+    "Lebbene cheese culinary uses",
+    "best beverages to pair with Lebbene cheese",
+    "Lebbene cheese and fresh fruits",
+    "Lebbene cheese and olives pairing",
+    "Lebbene cheese artisanal production",
+    "Lebbene cheese aging process"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Feta",
+      "similarity": "Both are tangy and made from sheep or goat milk, but feta is typically brined and has a crumbly texture."
+    },
+    {
+      "name": "Chèvre",
+      "similarity": "Chèvre is also made from goat milk and has a soft, spreadable texture, but it lacks the sheep milk component of Lebbene."
+    },
+    {
+      "name": "Halloumi",
+      "similarity": "While Halloumi is firmer and often grilled, it shares the use of sheep and goat milk, offering a similar flavor foundation."
+    },
+    {
+      "name": "Ricotta",
+      "similarity": "Ricotta is soft and creamy like Lebbene, but it's made from whey and lacks the tangy flavor profile."
+    },
+    {
+      "name": "Boursin",
+      "similarity": "Boursin is a soft, spreadable cheese with a creamy texture, though it's typically made from cow's milk and flavored with herbs and garlic."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Moderate"
+  },
+  "lastUpdated": "2025-03-02T03:56:25.885Z"
+}

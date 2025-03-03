@@ -1,0 +1,159 @@
+{
+  "url": "https://www.cheese.com/midnight-moon/",
+  "milk": "goat",
+  "country": "Holland",
+  "region": "NA",
+  "family": "Gouda",
+  "type": "hard",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, crystalline",
+  "rind": "NA",
+  "color": "ivory",
+  "flavor": "caramel, sweet",
+  "aroma": "NA",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Midnight Moon",
+  "slug": "holland-goat-midnight-moon",
+  "description": "Midnight Moon is a captivating hard cheese made from goat's milk, originating from Holland but crafted in the United States by Cypress Grove. This cheese is known for its smooth, firm texture and a pale ivory color that deepens to a golden hue as it ages. Its rind is natural and often coated with a light layer of wax to preserve its quality. Midnight Moon stands out for its rich, nutty flavor with hints of caramel and brown butter, making it a favorite among cheese enthusiasts. Its aging process, typically around six months, allows it to develop a complex flavor profile that is both sophisticated and approachable.",
+  "history": "Midnight Moon was developed by Cypress Grove, a renowned American cheesemaker, in collaboration with Dutch cheesemakers. This partnership combines traditional Dutch cheesemaking techniques with Cypress Grove's innovative approach to create a unique cheese that bridges cultures. While its roots are in Holland, its production in the United States has made it a staple in American artisanal cheese markets. Midnight Moon reflects the growing appreciation for goat cheese in the U.S. and showcases the versatility of goat's milk in producing aged, hard cheeses.",
+  "productionProcess": "Midnight Moon is made from high-quality goat's milk, which is pasteurized before the cheesemaking process begins. The milk is curdled using microbial rennet, and the curds are pressed to remove whey, resulting in a dense texture. The cheese is then aged for approximately six months in a controlled environment, allowing it to develop its signature nutty and caramel flavors. The aging process is crucial, as it enhances the cheese's complexity and smoothness. The final product is coated with a light layer of wax to maintain its moisture and flavor.",
+  "flavorProfile": "Midnight Moon offers a rich, nutty flavor with delightful notes of caramel and brown butter. Its aroma is subtly sweet and earthy, complementing its smooth, firm texture. The cheese has a lingering finish that balances sweetness and savory notes, making it a versatile choice for various culinary applications.",
+  "pairings": "Midnight Moon pairs beautifully with a variety of foods and beverages. For a classic pairing, try it with a glass of Chardonnay or a Belgian-style ale to complement its nutty and caramel notes. On a cheese board, it pairs well with dried fruits like apricots or figs, and nuts such as almonds or walnuts. For a savory option, serve it with crusty bread and a drizzle of honey. It also works wonderfully in salads or melted over roasted vegetables for a gourmet touch.",
+  "culinaryApplications": [
+    "Perfect for cheese boards with dried fruits and nuts",
+    "Melts beautifully in grilled cheese sandwiches",
+    "Ideal for grating over pasta dishes",
+    "Enhances salads with its rich, nutty flavor",
+    "Pairs well with crusty bread and honey for a simple appetizer"
+  ],
+  "faqs": [
+    {
+      "question": "What does Midnight Moon taste like?",
+      "answer": "Midnight Moon has a rich, nutty flavor with hints of caramel and brown butter, offering a complex yet approachable taste."
+    },
+    {
+      "question": "How long is Midnight Moon aged?",
+      "answer": "It is typically aged for about six months, which allows it to develop its signature smooth texture and deep flavors."
+    },
+    {
+      "question": "Can Midnight Moon be used in cooking?",
+      "answer": "Yes, it melts well and can be used in grilled cheese, pasta dishes, or as a topping for roasted vegetables."
+    },
+    {
+      "question": "Is Midnight Moon similar to Gouda?",
+      "answer": "While it shares some similarities with aged Gouda in texture and nuttiness, Midnight Moon is made from goat's milk, giving it a unique flavor profile."
+    },
+    {
+      "question": "Where can I buy Midnight Moon?",
+      "answer": "It is available at specialty cheese shops, gourmet grocery stores, and online retailers that focus on artisanal cheeses."
+    }
+  ],
+  "tags": [
+    "goat cheese",
+    "hard cheese",
+    "Holland",
+    "Cypress Grove",
+    "artisanal cheese",
+    "aged cheese",
+    "nutty flavor",
+    "caramel notes",
+    "brown butter",
+    "cheese board",
+    "grilled cheese",
+    "pasta topping",
+    "salad cheese",
+    "gourmet cheese",
+    "Dutch cheese",
+    "American cheese",
+    "cheese pairings",
+    "Chardonnay pairing",
+    "Belgian ale pairing",
+    "dried fruit pairing",
+    "nut pairing",
+    "honey pairing",
+    "crusty bread pairing",
+    "roasted vegetables",
+    "cheese aging",
+    "goat milk cheese",
+    "smooth texture",
+    "complex flavor",
+    "cheese rind",
+    "wax-coated cheese",
+    "cheese production",
+    "cheese history",
+    "cheese culture",
+    "cheese FAQ",
+    "cheese nutrition",
+    "cheese storage",
+    "cheese slicing",
+    "cheese melting",
+    "cheese grating",
+    "cheese appetizer",
+    "cheese dessert",
+    "cheese innovation",
+    "cheese collaboration",
+    "cheese market",
+    "cheese trends",
+    "cheese enthusiasts",
+    "cheese lovers"
+  ],
+  "longTailKeywords": [
+    "Midnight Moon cheese characteristics",
+    "Midnight Moon cheese origin",
+    "Midnight Moon cheese flavor"
+  ],
+  "seoKeywords": [
+    "best goat milk hard cheese",
+    "how to use Midnight Moon in cooking",
+    "Midnight Moon cheese pairings",
+    "where to buy Midnight Moon cheese",
+    "Cypress Grove Midnight Moon",
+    "Midnight Moon vs Gouda",
+    "aged goat cheese from Holland",
+    "nutty caramel cheese",
+    "Midnight Moon cheese board ideas",
+    "Midnight Moon grilled cheese recipe",
+    "Midnight Moon pasta topping",
+    "Midnight Moon salad cheese",
+    "Midnight Moon and Chardonnay pairing",
+    "Midnight Moon and Belgian ale pairing",
+    "Midnight Moon with dried fruits",
+    "Midnight Moon with nuts",
+    "Midnight Moon with honey",
+    "Midnight Moon cheese aging process",
+    "Midnight Moon cheese history",
+    "Midnight Moon cheese production"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Gouda",
+      "description": "Aged Gouda shares a similar nutty and caramel flavor profile, though it is made from cow's milk."
+    },
+    {
+      "name": "Manchego",
+      "description": "This Spanish sheep's milk cheese has a firm texture and nutty flavor, making it a good alternative."
+    },
+    {
+      "name": "Pecorino Romano",
+      "description": "A hard Italian cheese made from sheep's milk, offering a sharp and salty flavor that contrasts with Midnight Moon's sweetness."
+    },
+    {
+      "name": "Aged Cheddar",
+      "description": "While made from cow's milk, aged cheddar has a similar firm texture and complex flavor profile."
+    },
+    {
+      "name": "Tomme de Chèvre",
+      "description": "A French goat cheese with a semi-hard texture and earthy, nutty flavors, similar to Midnight Moon."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "High"
+  },
+  "lastUpdated": "2025-03-02T06:07:55.483Z"
+}

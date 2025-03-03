@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/sicilian-blend/",
+  "milk": "cow",
+  "country": "United States",
+  "region": "Wisconsin",
+  "family": "Parmesan",
+  "type": "hard, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "crumbly, dry, firm",
+  "rind": "natural",
+  "color": "pale yellow",
+  "flavor": "piquant, savory, sharp, spicy",
+  "aroma": "NA",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Sartori",
+  "name": "Sicilian Blend",
+  "slug": "united-states-cow-sicilian-blend",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Sicilian Blend cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Sicilian Blend cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Sicilian Blend cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Sicilian Blend cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Sicilian Blend cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "cow milk",
+    "United States",
+    "crumbly, dry, firm"
+  ],
+  "longTailKeywords": [
+    "Sicilian Blend cheese characteristics",
+    "Sicilian Blend cheese origin",
+    "Sicilian Blend cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T14:16:42.697Z"
+}

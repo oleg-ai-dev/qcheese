@@ -1,0 +1,160 @@
+{
+  "url": "https://www.cheese.com/autun/",
+  "milk": "cow, goat",
+  "country": "France",
+  "region": "Burgundy",
+  "family": "NA",
+  "type": "fresh soft, artisan",
+  "fat_content": "40-45%",
+  "calcium_content": "NA",
+  "texture": "creamy",
+  "rind": "rindless",
+  "color": "white",
+  "flavor": "acidic",
+  "aroma": "NA",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Autun",
+  "slug": "france-cow-autun",
+  "description": "Autun cheese is a rare and artisanal fresh soft cheese originating from the Burgundy region of France. It is uniquely crafted using a blend of cow and goat milk, which contributes to its distinctive flavor and texture. The cheese is known for its creamy, spreadable consistency and a delicate, bloomy rind that hints at its artisanal roots. Autun cheese typically presents a pale ivory color with a soft, slightly moist surface. Its unique characteristic lies in the balance between the tanginess of goat milk and the mild, buttery notes of cow milk, making it a versatile choice for cheese enthusiasts.",
+  "history": "Autun cheese takes its name from the historic town of Autun in Burgundy, a region renowned for its rich cheesemaking traditions. While not as widely documented as other French cheeses, Autun is a testament to the region's dedication to artisanal and small-scale production. It reflects the Burgundian emphasis on fresh, soft cheeses that highlight the quality of local milk. Though its exact origins are unclear, Autun cheese is believed to have been a staple in rural households, where blending cow and goat milk was a practical way to utilize available resources. Today, it remains a symbol of Burgundy's artisanal cheese heritage.",
+  "productionProcess": "Autun cheese is made using a blend of cow and goat milk, which is gently pasteurized to preserve its natural flavors. The milk is then curdled using traditional rennet, resulting in a soft, delicate curd. The curds are carefully ladled into molds to drain, a process that helps achieve its creamy texture. After unmolding, the cheese is lightly salted and left to mature for a short period, typically a few days to a week. This brief aging allows the cheese to develop its characteristic bloomy rind while maintaining its fresh, soft interior. The artisanal nature of Autun cheese means that each batch may vary slightly, reflecting the skill of the cheesemaker.",
+  "flavorProfile": "Autun cheese offers a harmonious blend of flavors, with the tangy, slightly earthy notes of goat milk complemented by the creamy, mild sweetness of cow milk. Its aroma is fresh and lactic, with a subtle hint of mushrooms from the bloomy rind. The texture is luxuriously smooth and spreadable, making it a delight on the palate. The cheese's balanced flavor profile makes it approachable for those new to goat milk cheeses while still offering complexity for seasoned cheese lovers.",
+  "pairings": "Autun cheese pairs beautifully with a variety of accompaniments. For a traditional pairing, serve it with crusty baguettes, fresh figs, or honey to enhance its creamy texture and tangy notes. It also complements light, fruity wines such as Sauvignon Blanc or a crisp Chablis. For a more adventurous pairing, try it with a dry cider or a Belgian-style wheat beer. On a cheese board, pair Autun with nuts like walnuts or almonds and a drizzle of lavender-infused honey for a touch of elegance.",
+  "culinaryApplications": [
+    "Perfect for spreading on fresh bread or crackers",
+    "Ideal for cheese boards with fruits and nuts",
+    "Enhances salads with its creamy texture",
+    "Pairs well with light, fruity wines",
+    "Can be used in savory tarts or quiches"
+  ],
+  "faqs": [
+    {
+      "question": "What makes Autun cheese unique?",
+      "answer": "Autun cheese is unique due to its blend of cow and goat milk, which creates a balanced flavor profile of tanginess and creaminess."
+    },
+    {
+      "question": "How long is Autun cheese aged?",
+      "answer": "Autun cheese is typically aged for a short period, usually a few days to a week, to maintain its fresh, soft texture."
+    },
+    {
+      "question": "Can I substitute Autun cheese with another type?",
+      "answer": "Yes, similar cheeses include Boursault, Saint-Marcellin, or Valençay, which also feature creamy textures and tangy flavors."
+    },
+    {
+      "question": "Is Autun cheese suitable for cooking?",
+      "answer": "Yes, its creamy texture makes it excellent for spreading, melting, or incorporating into dishes like tarts and quiches."
+    },
+    {
+      "question": "Where can I buy Autun cheese?",
+      "answer": "Autun cheese is best found at specialty cheese shops or farmers' markets, particularly in France or stores specializing in artisanal cheeses."
+    }
+  ],
+  "tags": [
+    "Autun cheese",
+    "French cheese",
+    "artisanal cheese",
+    "cow and goat milk cheese",
+    "fresh soft cheese",
+    "Burgundy cheese",
+    "bloomy rind cheese",
+    "creamy cheese",
+    "spreadable cheese",
+    "cheese pairings",
+    "cheese board ideas",
+    "French culinary traditions",
+    "small-batch cheese",
+    "rare cheese",
+    "cheese for wine",
+    "cheese for beer",
+    "cheese for salads",
+    "cheese for tarts",
+    "cheese for quiches",
+    "cheese for bread",
+    "cheese for crackers",
+    "cheese for figs",
+    "cheese for honey",
+    "cheese for nuts",
+    "cheese for fruits",
+    "cheese for Sauvignon Blanc",
+    "cheese for Chablis",
+    "cheese for cider",
+    "cheese for wheat beer",
+    "cheese for lavender honey",
+    "cheese for walnuts",
+    "cheese for almonds",
+    "cheese for baguettes",
+    "cheese for savory dishes",
+    "cheese for fresh dishes",
+    "cheese for light wines",
+    "cheese for dry cider",
+    "cheese for Belgian beer",
+    "cheese for artisanal boards",
+    "cheese for elegant pairings",
+    "cheese for tangy flavors",
+    "cheese for creamy textures",
+    "cheese for mushroom aromas",
+    "cheese for lactic notes",
+    "cheese for earthy flavors",
+    "cheese for mild sweetness",
+    "cheese for balanced profiles",
+    "cheese for versatile uses"
+  ],
+  "longTailKeywords": [
+    "Autun cheese characteristics",
+    "Autun cheese origin",
+    "Autun cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Autun cheese pairings",
+    "how to use Autun cheese in cooking",
+    "where to buy Autun cheese",
+    "Autun cheese vs Saint-Marcellin",
+    "Autun cheese flavor profile",
+    "Autun cheese Burgundy origin",
+    "Autun cheese artisanal production",
+    "Autun cheese cow and goat milk blend",
+    "Autun cheese fresh soft texture",
+    "Autun cheese bloomy rind",
+    "Autun cheese wine pairings",
+    "Autun cheese beer pairings",
+    "Autun cheese for cheese boards",
+    "Autun cheese for salads",
+    "Autun cheese for tarts",
+    "Autun cheese for quiches",
+    "Autun cheese for baguettes",
+    "Autun cheese for figs",
+    "Autun cheese for honey",
+    "Autun cheese for nuts"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Boursault",
+      "description": "A creamy, triple-cream cheese made from cow's milk, known for its rich texture and mild flavor."
+    },
+    {
+      "name": "Saint-Marcellin",
+      "description": "A soft, creamy cheese from the Rhône-Alpes region, made from cow's milk and aged to develop a velvety texture."
+    },
+    {
+      "name": "Valençay",
+      "description": "A goat milk cheese with a distinctive pyramid shape and a tangy, slightly earthy flavor."
+    },
+    {
+      "name": "Chabichou du Poitou",
+      "description": "A semi-soft goat cheese with a firm texture and a nutty, slightly sweet flavor."
+    },
+    {
+      "name": "Crottin de Chavignol",
+      "description": "A small, aged goat cheese with a firm texture and a robust, tangy flavor."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-01T18:00:21.800Z"
+}

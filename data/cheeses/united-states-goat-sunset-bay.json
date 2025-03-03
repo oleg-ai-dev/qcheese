@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/sunset-bay/",
+  "milk": "goat",
+  "country": "United States",
+  "region": "Oregon Coast Range",
+  "family": "NA",
+  "type": "soft, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, dense, smooth",
+  "rind": "bloomy",
+  "color": "ivory",
+  "flavor": "creamy, savory, smokey , smooth",
+  "aroma": "buttery, smokey, yeasty",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Rivers Edge Chèvre",
+  "name": "Sunset Bay",
+  "slug": "united-states-goat-sunset-bay",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Sunset Bay cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Sunset Bay cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Sunset Bay cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Sunset Bay cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Sunset Bay cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "goat milk",
+    "United States",
+    "creamy, dense, smooth"
+  ],
+  "longTailKeywords": [
+    "Sunset Bay cheese characteristics",
+    "Sunset Bay cheese origin",
+    "Sunset Bay cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T16:02:46.287Z"
+}

@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/st-pat/",
+  "milk": "cow",
+  "country": "United States",
+  "region": "California",
+  "family": "NA",
+  "type": "semi-soft, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, soft",
+  "rind": "bloomy",
+  "color": "pale yellow",
+  "flavor": "full-flavored, mellow",
+  "aroma": "rich, smokey",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Cowgirl Creamery",
+  "name": "St Pat",
+  "slug": "united-states-cow-st-pat",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is St Pat cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does St Pat cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is St Pat cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with St Pat cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is St Pat cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "cow milk",
+    "United States",
+    "creamy, soft"
+  ],
+  "longTailKeywords": [
+    "St Pat cheese characteristics",
+    "St Pat cheese origin",
+    "St Pat cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T15:07:23.062Z"
+}

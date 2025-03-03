@@ -1,0 +1,160 @@
+{
+  "url": "https://www.cheese.com/manon/",
+  "milk": "goat",
+  "country": "Australia",
+  "region": "South Australia",
+  "family": "NA",
+  "type": "fresh soft, artisan",
+  "fat_content": "45%",
+  "calcium_content": "NA",
+  "texture": "creamy, smooth",
+  "rind": "leaf wrapped",
+  "color": "white",
+  "flavor": "creamy, garlicky, spicy, strong",
+  "aroma": "aromatic, garlicky, spicy, strong",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Woodside Cheese Wrights",
+  "name": "Manon",
+  "slug": "australia-goat-manon",
+  "description": "Manon cheese is a fresh, soft artisan cheese made from goat's milk, originating from Australia. It is known for its creamy texture and delicate, tangy flavor profile that is characteristic of goat cheeses. The cheese typically has a smooth, spreadable consistency, making it a versatile choice for various culinary applications. Its appearance is usually a pristine white, reflecting its fresh nature and the quality of the milk used. Manon cheese is celebrated for its artisanal craftsmanship, embodying the care and tradition of small-scale cheese production.",
+  "history": "Manon cheese is a testament to Australia's burgeoning artisan cheese scene, which has seen significant growth over the past few decades. While specific historical details about Manon cheese are scarce, it is part of a broader movement towards high-quality, locally produced cheeses that emphasize traditional methods and sustainable practices. The cheese reflects the Australian cheesemakers' dedication to exploring the unique flavors of goat's milk, contributing to the diversity of the country's cheese offerings.",
+  "productionProcess": "Manon cheese is produced using fresh goat's milk, which is gently pasteurized to ensure safety while preserving the milk's natural flavors. The milk is then curdled using a combination of heat and microbial rennet, a process that helps to develop the cheese's characteristic texture and tanginess. After curdling, the curds are carefully ladled into molds to drain, a step that contributes to the cheese's soft, spreadable consistency. Manon cheese is typically consumed fresh, highlighting the bright, clean flavors of the goat's milk.",
+  "flavorProfile": "Manon cheese boasts a fresh, tangy flavor with a slight earthiness that is typical of goat's milk cheeses. Its aroma is clean and milky, with a hint of grassy notes that reflect the goat's diet. The texture is luxuriously creamy and smooth, making it a delight to spread on bread or crackers. The cheese's flavor is balanced, with a pleasant acidity that is not overpowering, making it accessible to a wide range of palates.",
+  "pairings": "Manon cheese pairs beautifully with crisp white wines, such as Sauvignon Blanc or Pinot Grigio, which complement its tangy flavor. For beer enthusiasts, a light pilsner or a wheat beer can enhance the cheese's creamy texture and subtle earthiness. Accompaniments like fresh fruits, such as grapes or sliced apples, and nuts, such as almonds or walnuts, can add a delightful contrast in textures and flavors. For a more savory pairing, consider olives or a drizzle of honey to bring out the cheese's natural sweetness.",
+  "culinaryApplications": [
+    "Ideal for spreading on fresh bread or crackers",
+    "Perfect for adding a creamy texture to salads",
+    "Great for incorporating into dips and spreads",
+    "Can be used as a filling for stuffed vegetables or pastries"
+  ],
+  "faqs": [
+    {
+      "question": "What does Manon cheese taste like?",
+      "answer": "Manon cheese has a fresh, tangy flavor with a slight earthiness, characteristic of goat's milk cheeses."
+    },
+    {
+      "question": "How should Manon cheese be stored?",
+      "answer": "Manon cheese should be stored in the refrigerator, wrapped in parchment paper or cheese paper to allow it to breathe."
+    },
+    {
+      "question": "Can Manon cheese be used in cooking?",
+      "answer": "Yes, Manon cheese is versatile and can be used in various culinary applications, from spreads to fillings."
+    },
+    {
+      "question": "Is Manon cheese similar to any other cheeses?",
+      "answer": "Manon cheese is similar to other fresh goat cheeses, such as Chèvre or Bûcheron, in terms of texture and flavor profile."
+    },
+    {
+      "question": "Where can I buy Manon cheese?",
+      "answer": "Manon cheese can be found at specialty cheese shops or farmers' markets, particularly those that focus on Australian artisan products."
+    }
+  ],
+  "tags": [
+    "goat cheese",
+    "artisan cheese",
+    "Australian cheese",
+    "fresh cheese",
+    "soft cheese",
+    "spreadable cheese",
+    "tangy flavor",
+    "creamy texture",
+    "cheese pairings",
+    "culinary uses",
+    "sustainable cheese",
+    "local produce",
+    "cheese making",
+    "gourmet cheese",
+    "cheese board",
+    "wine pairing",
+    "beer pairing",
+    "fruit pairing",
+    "nut pairing",
+    "honey pairing",
+    "olive pairing",
+    "salad ingredient",
+    "dip ingredient",
+    "spread ingredient",
+    "filling ingredient",
+    "cheese storage",
+    "cheese cooking",
+    "cheese flavor",
+    "cheese texture",
+    "cheese aroma",
+    "cheese history",
+    "cheese production",
+    "cheese craftsmanship",
+    "cheese culture",
+    "cheese diversity",
+    "cheese quality",
+    "cheese tradition",
+    "cheese innovation",
+    "cheese exploration",
+    "cheese appreciation",
+    "cheese education",
+    "cheese community",
+    "cheese sustainability",
+    "cheese artisanal",
+    "cheese local",
+    "cheese gourmet",
+    "cheese specialty",
+    "cheese market",
+    "cheese shop"
+  ],
+  "longTailKeywords": [
+    "Manon cheese characteristics",
+    "Manon cheese origin",
+    "Manon cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Australian goat cheese",
+    "how to use Manon cheese in cooking",
+    "Manon cheese wine pairings",
+    "where to buy Manon cheese in Australia",
+    "Manon cheese vs Chèvre",
+    "artisan goat cheese Australia",
+    "fresh soft cheese recipes",
+    "Manon cheese culinary uses",
+    "sustainable artisan cheese Australia",
+    "Manon cheese flavor profile",
+    "how to store Manon cheese",
+    "Manon cheese beer pairings",
+    "Manon cheese and fruit pairings",
+    "Manon cheese in salads",
+    "Manon cheese dips and spreads",
+    "Manon cheese for cheese boards",
+    "Australian artisan cheese guide",
+    "Manon cheese production process",
+    "Manon cheese history and origin",
+    "Manon cheese similar cheeses"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Chèvre",
+      "description": "A classic French goat cheese known for its creamy texture and tangy flavor, similar to Manon."
+    },
+    {
+      "name": "Bûcheron",
+      "description": "A semi-aged goat cheese from France with a slightly firmer texture but similar tangy and earthy flavors."
+    },
+    {
+      "name": "Crottin de Chavignol",
+      "description": "A small, aged goat cheese from France, offering a more intense flavor but retaining the characteristic tanginess of goat cheese."
+    },
+    {
+      "name": "Valençay",
+      "description": "A French goat cheese with a distinctive pyramid shape and ash coating, sharing the fresh, tangy profile of Manon."
+    },
+    {
+      "name": "Humboldt Fog",
+      "description": "An American goat cheese with a layer of edible ash, known for its creamy texture and complex flavor, somewhat similar to Manon."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Moderate"
+  },
+  "lastUpdated": "2025-03-02T05:12:29.637Z"
+}

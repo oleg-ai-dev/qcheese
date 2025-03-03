@@ -1,0 +1,161 @@
+{
+  "url": "https://www.cheese.com/airedale/",
+  "milk": "cow",
+  "country": "New Zealand",
+  "region": "Airedale farming district",
+  "family": "NA",
+  "type": "semi-soft, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "smooth",
+  "rind": "waxed",
+  "color": "pale yellow",
+  "flavor": "full-flavored, milky, salty, tangy",
+  "aroma": "grassy, strong",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "Aged Airedale",
+  "producers": "Whitestone Cheese",
+  "name": "Airedale",
+  "slug": "new-zealand-cow-airedale",
+  "description": "Airedale cheese is a semi-soft, artisan cheese originating from New Zealand, made exclusively from cow's milk. It is known for its creamy texture and mild, buttery flavor, making it a versatile choice for various culinary applications. The cheese has a pale yellow interior with a natural rind that adds a subtle earthy note to its overall profile. Airedale is often compared to other semi-soft cheeses like Havarti or Butterkäse due to its smooth, spreadable consistency and gentle flavor. Its artisanal nature means each batch can have slight variations, adding to its unique charm.",
+  "history": "Airedale cheese is a relatively new addition to the world of artisanal cheeses, emerging from New Zealand's growing craft cheese scene. While its exact origins are not widely documented, it reflects the country's commitment to high-quality dairy products and innovative cheesemaking techniques. New Zealand's lush pastures and clean environment contribute to the superior quality of the milk used in Airedale, which in turn enhances the cheese's flavor and texture. This cheese is a testament to the region's dedication to preserving traditional methods while embracing modern creativity.",
+  "productionProcess": "Airedale cheese is crafted from fresh, high-quality cow's milk, which is gently pasteurized to ensure safety while retaining its natural flavors. The milk is then curdled using traditional rennet, and the curds are carefully cut and pressed to achieve the desired semi-soft texture. After molding, the cheese is aged for a short period, typically a few weeks, to develop its mild flavor and creamy consistency. The natural rind forms during this aging process, adding a subtle complexity to the cheese.",
+  "flavorProfile": "Airedale cheese boasts a mild, buttery flavor with a creamy, smooth texture that melts effortlessly on the palate. Its aroma is subtle, with hints of fresh milk and a slight earthiness from the natural rind. The cheese is neither too sharp nor too bland, making it an excellent choice for those who enjoy a balanced, approachable flavor.",
+  "pairings": "Airedale cheese pairs beautifully with a variety of foods and beverages. For a classic combination, serve it with crisp apples, pears, or grapes. It also complements crusty bread, crackers, and honey. Wine enthusiasts will enjoy it with a light Chardonnay or a crisp Sauvignon Blanc. Beer lovers can pair it with a smooth lager or a fruity ale. For a more adventurous pairing, try it with a drizzle of balsamic glaze or a sprinkle of toasted nuts.",
+  "culinaryApplications": [
+    "Melts well in grilled cheese sandwiches",
+    "Ideal for cheese boards and charcuterie platters",
+    "Perfect for adding creaminess to pasta dishes",
+    "Great for stuffing into mushrooms or peppers",
+    "Excellent for spreading on crackers or toast"
+  ],
+  "faqs": [
+    {
+      "question": "What does Airedale cheese taste like?",
+      "answer": "Airedale cheese has a mild, buttery flavor with a creamy texture and a subtle earthy note from its natural rind."
+    },
+    {
+      "question": "How long is Airedale cheese aged?",
+      "answer": "Airedale cheese is typically aged for a few weeks to develop its mild flavor and semi-soft texture."
+    },
+    {
+      "question": "Can Airedale cheese be used in cooking?",
+      "answer": "Yes, Airedale cheese melts well and is great for grilled cheese, pasta dishes, and stuffed vegetables."
+    },
+    {
+      "question": "What are some similar cheeses to Airedale?",
+      "answer": "Similar cheeses include Havarti, Butterkäse, and Fontina, which share a creamy texture and mild flavor."
+    },
+    {
+      "question": "Is Airedale cheese widely available?",
+      "answer": "Airedale cheese is relatively obscure and may be harder to find outside of New Zealand, but similar cheeses are widely available."
+    }
+  ],
+  "tags": [
+    "Airedale cheese",
+    "New Zealand cheese",
+    "semi-soft cheese",
+    "artisan cheese",
+    "cow's milk cheese",
+    "creamy cheese",
+    "mild cheese",
+    "buttery cheese",
+    "natural rind cheese",
+    "cheese pairings",
+    "cheese board",
+    "grilled cheese",
+    "pasta cheese",
+    "cheese for cooking",
+    "cheese for melting",
+    "cheese for spreading",
+    "cheese for stuffing",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese and fruit",
+    "cheese and crackers",
+    "cheese and honey",
+    "cheese and nuts",
+    "cheese and balsamic",
+    "cheese and bread",
+    "cheese and charcuterie",
+    "cheese and vegetables",
+    "cheese and mushrooms",
+    "cheese and peppers",
+    "cheese and toast",
+    "cheese and apples",
+    "cheese and pears",
+    "cheese and grapes",
+    "cheese and Chardonnay",
+    "cheese and Sauvignon Blanc",
+    "cheese and lager",
+    "cheese and ale",
+    "cheese and glaze",
+    "cheese and crusty bread",
+    "cheese and honey drizzle",
+    "cheese and toasted nuts",
+    "cheese and balsamic glaze",
+    "cheese and fruity ale",
+    "cheese and smooth lager",
+    "cheese and crisp apples",
+    "cheese and crisp pears",
+    "cheese and fresh grapes",
+    "cheese and light Chardonnay",
+    "cheese and crisp Sauvignon Blanc"
+  ],
+  "longTailKeywords": [
+    "Airedale cheese characteristics",
+    "Airedale cheese origin",
+    "Airedale cheese flavor"
+  ],
+  "seoKeywords": [
+    "Airedale cheese New Zealand",
+    "semi-soft artisan cheese",
+    "cow's milk cheese New Zealand",
+    "mild buttery cheese",
+    "creamy cheese for cooking",
+    "best cheese for grilled cheese",
+    "cheese for pasta dishes",
+    "cheese for stuffing vegetables",
+    "cheese for cheese boards",
+    "cheese for charcuterie platters",
+    "cheese for spreading on crackers",
+    "cheese for melting in sandwiches",
+    "cheese for pairing with Chardonnay",
+    "cheese for pairing with Sauvignon Blanc",
+    "cheese for pairing with lager",
+    "cheese for pairing with ale",
+    "cheese for pairing with fruit",
+    "cheese for pairing with honey",
+    "cheese for pairing with nuts",
+    "cheese for pairing with balsamic glaze"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Havarti",
+      "description": "A Danish semi-soft cheese with a buttery flavor and creamy texture, similar to Airedale."
+    },
+    {
+      "name": "Butterkäse",
+      "description": "A German cheese known for its mild, buttery taste and smooth, melt-in-your-mouth texture."
+    },
+    {
+      "name": "Fontina",
+      "description": "An Italian semi-soft cheese with a rich, nutty flavor and excellent melting properties."
+    },
+    {
+      "name": "Monterey Jack",
+      "description": "An American cheese with a mild flavor and semi-soft texture, often used in cooking."
+    },
+    {
+      "name": "Gouda",
+      "description": "A Dutch cheese that, when young, has a mild, creamy flavor similar to Airedale."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "Approximately 25-30% fat",
+    "calciumContent": "High in calcium, contributing to bone health"
+  },
+  "lastUpdated": "2025-03-01T16:30:09.056Z"
+}

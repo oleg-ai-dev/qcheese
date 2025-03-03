@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/somerset-brie/",
+  "milk": "cow",
+  "country": "England, United Kingdom",
+  "region": "Somerset",
+  "family": "Brie",
+  "type": "soft, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, smooth",
+  "rind": "natural",
+  "color": "white",
+  "flavor": "mild",
+  "aroma": "fresh, grassy, mushroom",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Somerset Brie",
+  "slug": "england-cow-somerset-brie",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Somerset Brie cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Somerset Brie cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Somerset Brie cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Somerset Brie cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Somerset Brie cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "cow milk",
+    "England, United Kingdom",
+    "creamy, smooth"
+  ],
+  "longTailKeywords": [
+    "Somerset Brie cheese characteristics",
+    "Somerset Brie cheese origin",
+    "Somerset Brie cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T14:39:00.031Z"
+}

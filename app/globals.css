@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Primary Colors */
+  --color-primary: 194, 129, 53; /* #c28135 - Golden Brown */
+  --color-primary-light: 248, 232, 200; /* #f8e8c8 - Light Cream */
+  --color-primary-dark: 107, 76, 30; /* #6b4c1e - Dark Brown */
+  
+  /* Background Colors */
+  --color-bg-primary: 255, 255, 255; /* #ffffff - White */
+  --color-bg-secondary: 249, 245, 231; /* #f9f5e7 - Cream */
+  --color-bg-tertiary: 244, 242, 237; /* #f4f2ed - Light Gray */
+  
+  /* Text Colors */
+  --color-text-primary: 51, 51, 51; /* #333333 - Dark Gray */
+  --color-text-secondary: 102, 102, 102; /* #666666 - Medium Gray */
+  --color-text-tertiary: 85, 85, 85; /* #555555 - Gray */
+  
+  /* Border Colors */
+  --color-border: 230, 230, 230; /* #e6e6e6 - Light Gray */
+}
+
+body {
+  color: rgb(var(--color-text-primary));
+  background: rgb(var(--color-bg-tertiary));
+}
+
+@layer base {
+  h1 {
+    @apply text-3xl font-bold mb-4 md:text-4xl;
+  }
+  h2 {
+    @apply text-2xl font-bold mb-3 mt-6 md:text-3xl;
+  }
+  h3 {
+    @apply text-xl font-bold mb-2 mt-5 md:text-2xl;
+  }
+  p {
+    @apply mb-4;
+  }
+  a {
+    @apply text-[rgb(var(--color-primary))] hover:text-[rgb(var(--color-primary-dark))] transition-colors;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 bg-[rgb(var(--color-primary))] text-white rounded-md hover:bg-[rgb(var(--color-primary-dark))] transition-colors font-medium;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 bg-[rgb(var(--color-primary-light))] text-[rgb(var(--color-primary-dark))] border border-[rgb(var(--color-primary-light))] rounded-md hover:bg-[rgb(var(--color-bg-secondary))] transition-colors font-medium;
+  }
+
+  .cheese-card {
+    @apply bg-white rounded-lg shadow-sm hover:shadow-md transition-all border border-[rgb(var(--color-border))];
+  }
+
+  .cheese-card-header {
+    @apply bg-[rgb(var(--color-bg-secondary))] p-4 rounded-t-lg;
+  }
+
+  .tag-pill {
+    @apply inline-block px-3 py-1 rounded-full text-sm font-medium bg-[rgb(var(--color-primary-light))] text-[rgb(var(--color-primary-dark))] hover:bg-[rgb(var(--color-primary))] hover:text-white transition-colors mr-2 mb-2;
+  }
+
+  .content-section {
+    @apply py-6 px-4 bg-white rounded-lg shadow-sm mb-6 border border-[rgb(var(--color-border))];
+  }
+
+  .breadcrumb {
+    @apply flex flex-wrap text-sm text-[rgb(var(--color-text-secondary))] mb-4;
+  }
+
+  .breadcrumb-item {
+    @apply after:content-['/'] after:mx-2 after:text-[rgb(var(--color-text-secondary))] last:after:content-none;
+  }
+  
+  .category-card {
+    @apply bg-white p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow border border-[rgb(var(--color-border))];
+  }
+  
+  .category-button {
+    @apply inline-block px-6 py-2 bg-[rgb(var(--color-primary-light))] text-[rgb(var(--color-primary-dark))] border border-[#e6d7b7] rounded-md hover:bg-[rgb(var(--color-primary))] hover:text-white transition-colors;
+  }
+}

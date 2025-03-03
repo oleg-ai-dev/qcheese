@@ -1,0 +1,152 @@
+{
+  "url": "https://www.cheese.com/black-betty/",
+  "milk": "goat",
+  "country": "Netherlands",
+  "region": "NA",
+  "family": "NA",
+  "type": "hard, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "firm",
+  "rind": "waxed",
+  "color": "NA",
+  "flavor": "NA",
+  "aroma": "NA",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Essex St. Cheese Co., Fromagerie L'Amuse",
+  "name": "Black Betty",
+  "slug": "netherlands-goat-black-betty",
+  "description": "Black Betty is a distinctive hard goat cheese originating from the Netherlands, known for its unique appearance and robust flavor. This artisan cheese is characterized by its dark, almost black rind, which is a result of the natural aging process and the application of vegetable ash. The interior of Black Betty is a creamy white, offering a striking contrast to its exterior. The texture is firm yet crumbly, making it a versatile cheese for various culinary applications. Its flavor is complex, with a tangy and slightly nutty profile that deepens with age.",
+  "history": "Black Betty cheese is a testament to the rich cheesemaking traditions of the Netherlands, a country renowned for its innovative and high-quality dairy products. While specific historical records of Black Betty are scarce, it is part of a broader tradition of Dutch goat cheeses that have been crafted for centuries. The use of vegetable ash in the rind is a nod to ancient cheesemaking techniques, where ash was used to preserve cheese and impart flavor. Black Betty represents the modern artisan cheese movement, combining traditional methods with contemporary tastes.",
+  "productionProcess": "Black Betty is made from high-quality goat's milk, which is curdled using natural enzymes. The curds are then pressed and shaped into wheels before being aged. During the aging process, the cheese is treated with vegetable ash, which contributes to the development of its distinctive black rind. The aging period can vary, but it typically lasts several months, allowing the flavors to mature and intensify. The result is a cheese that is both visually striking and rich in flavor.",
+  "flavorProfile": "Black Betty offers a complex flavor profile that is both tangy and slightly nutty, with a hint of earthiness from the vegetable ash. The texture is firm and crumbly, providing a satisfying mouthfeel. As it ages, the flavors become more pronounced, offering a deeper and more robust taste experience.",
+  "pairings": "Black Betty pairs wonderfully with a variety of foods and beverages. For a traditional pairing, try it with a crisp white wine such as Sauvignon Blanc or a light-bodied red like Pinot Noir. It also complements beers, particularly those with a hoppy or citrusy profile. On the food side, Black Betty is excellent with fresh fruits like apples and pears, as well as with nuts and honey. For a more innovative approach, incorporate it into salads or use it as a topping for gourmet pizzas.",
+  "culinaryApplications": [
+    "Ideal for cheese boards",
+    "Perfect for grating over salads",
+    "Excellent in gourmet sandwiches",
+    "Great for melting in baked dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What makes Black Betty cheese unique?",
+      "answer": "Its distinctive black rind, made with vegetable ash, and its complex, tangy flavor profile set it apart."
+    },
+    {
+      "question": "How long is Black Betty aged?",
+      "answer": "The aging period varies but typically lasts several months to develop its flavors fully."
+    },
+    {
+      "question": "Can Black Betty be used in cooking?",
+      "answer": "Yes, its firm texture makes it suitable for grating and melting in various dishes."
+    },
+    {
+      "question": "What are some similar cheeses to Black Betty?",
+      "answer": "Similar cheeses include Drunken Goat, Humboldt Fog, and Valençay, all known for their unique rinds and goat milk base."
+    },
+    {
+      "question": "Is Black Betty suitable for vegetarians?",
+      "answer": "This depends on the specific production process; some versions may use animal rennet."
+    }
+  ],
+  "tags": [
+    "goat cheese",
+    "hard cheese",
+    "artisan cheese",
+    "Netherlands",
+    "vegetable ash",
+    "tangy",
+    "nutty",
+    "firm texture",
+    "crumbly",
+    "cheese board",
+    "gourmet",
+    "aging",
+    "dairy",
+    "cheesemaking",
+    "unique",
+    "robust flavor",
+    "contrast",
+    "culinary versatility",
+    "Sauvignon Blanc",
+    "Pinot Noir",
+    "hoppy beer",
+    "citrusy beer",
+    "fresh fruits",
+    "nuts",
+    "honey",
+    "salads",
+    "gourmet pizzas",
+    "baked dishes",
+    "Drunken Goat",
+    "Humboldt Fog",
+    "Valençay",
+    "animal rennet",
+    "vegetarian",
+    "dairy products",
+    "innovative",
+    "high-quality",
+    "traditional methods",
+    "contemporary tastes",
+    "striking appearance",
+    "flavor maturation",
+    "satisfying mouthfeel",
+    "earthiness",
+    "complex flavor",
+    "cheese preservation",
+    "natural enzymes",
+    "pressed curds",
+    "cheese wheels",
+    "flavor development",
+    "dairy tradition"
+  ],
+  "longTailKeywords": [
+    "Black Betty cheese characteristics",
+    "Black Betty cheese origin",
+    "Black Betty cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Dutch goat cheese",
+    "how to use Black Betty in cooking",
+    "Black Betty cheese pairings",
+    "unique artisan goat cheeses",
+    "Black Betty vs Drunken Goat",
+    "vegetable ash in cheesemaking",
+    "aging process of Black Betty",
+    "Black Betty cheese flavor profile",
+    "gourmet dishes with Black Betty",
+    "Black Betty cheese board ideas",
+    "where to buy Black Betty cheese",
+    "Black Betty cheese nutritional info",
+    "Black Betty cheese history",
+    "how Black Betty cheese is made",
+    "Black Betty cheese culinary uses",
+    "Black Betty cheese and wine pairings",
+    "Black Betty cheese and beer pairings",
+    "Black Betty cheese for vegetarians",
+    "Black Betty cheese similar cheeses",
+    "Black Betty cheese in salads"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Drunken Goat",
+      "description": "A Spanish goat cheese soaked in red wine, offering a mild, creamy texture and a unique purple rind."
+    },
+    {
+      "name": "Humboldt Fog",
+      "description": "An American goat cheese known for its distinctive layer of edible ash and creamy, tangy flavor."
+    },
+    {
+      "name": "Valençay",
+      "description": "A French goat cheese with a pyramid shape and ash-covered rind, known for its earthy and slightly salty taste."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "High"
+  },
+  "lastUpdated": "2025-03-01T19:55:51.746Z"
+}

@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/paneer/",
+  "milk": "cow, water buffalo",
+  "country": "Bangladesh, India",
+  "region": "NA",
+  "family": "Cottage",
+  "type": "fresh firm",
+  "fat_content": "20.8 g/100g",
+  "calcium_content": "208 mg/100g",
+  "texture": "crumbly, firm",
+  "rind": "rindless",
+  "color": "white",
+  "flavor": "milky",
+  "aroma": "fresh, milky",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "Chhena, Chhana",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Paneer",
+  "slug": "bangladesh-cow-paneer",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Paneer cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Paneer cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Paneer cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Paneer cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Paneer cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "cow, water buffalo milk",
+    "Bangladesh, India",
+    "crumbly, firm"
+  ],
+  "longTailKeywords": [
+    "Paneer cheese characteristics",
+    "Paneer cheese origin",
+    "Paneer cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T08:27:43.450Z"
+}

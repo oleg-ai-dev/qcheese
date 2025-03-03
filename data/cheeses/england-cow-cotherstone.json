@@ -1,0 +1,160 @@
+{
+  "url": "https://www.cheese.com/cotherstone/",
+  "milk": "cow",
+  "country": "England, United Kingdom",
+  "region": "Cotherstone",
+  "family": "NA",
+  "type": "semi-hard, artisan",
+  "fat_content": "45%",
+  "calcium_content": "NA",
+  "texture": "crumbly, open",
+  "rind": "waxed",
+  "color": "pale yellow",
+  "flavor": "acidic, citrusy, tangy",
+  "aroma": "fresh",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Cotherstone",
+  "slug": "england-cow-cotherstone",
+  "description": "Cotherstone cheese is a traditional, semi-hard artisan cheese originating from the village of Cotherstone in County Durham, England. Made from cow's milk, it boasts a firm yet slightly crumbly texture, with a natural rind that develops a rustic, earthy appearance as it ages. The cheese is known for its mild, nutty flavor with subtle grassy undertones, reflecting the lush pastures of its origin. Cotherstone is often compared to Wensleydale but has a distinct character due to its unique production methods and aging process. It is a versatile cheese, perfect for cheese boards, cooking, or enjoying on its own.",
+  "history": "Cotherstone cheese has its roots in the rural cheesemaking traditions of Northern England, particularly in the Teesdale region. It was traditionally made by farmers using surplus milk from their herds. The cheese gained local fame for its quality and flavor, becoming a staple in the region. While it never achieved the widespread recognition of some other British cheeses, it remains a cherished part of County Durham's culinary heritage. Its production has seen a revival in recent years, thanks to the efforts of artisanal cheesemakers dedicated to preserving traditional methods.",
+  "productionProcess": "Cotherstone cheese is made from pasteurized cow's milk, which is gently heated and curdled using rennet. The curds are cut, drained, and pressed into molds to form the characteristic wheel shape. The cheese is then aged for several weeks to develop its flavor and texture. During aging, it is regularly turned and brushed to encourage the formation of its natural rind. The process is entirely artisanal, with a focus on preserving the traditional techniques that give Cotherstone its unique character.",
+  "flavorProfile": "Cotherstone cheese offers a delicate, nutty flavor with hints of grass and a slight tanginess. Its texture is semi-hard, with a crumbly yet creamy mouthfeel. The natural rind adds a subtle earthy note, enhancing the overall complexity. The cheese is neither too sharp nor too mild, making it an excellent choice for those who appreciate balanced flavors.",
+  "pairings": "Cotherstone pairs beautifully with crisp white wines like Sauvignon Blanc or light reds such as Pinot Noir. For beer lovers, a pale ale or a fruity cider complements its nutty notes. On a cheese board, it pairs well with fresh fruits like apples and pears, as well as honey or chutney. For a savory twist, try it with crusty bread and cured meats. Its versatility also makes it a great addition to salads or melted into a hearty soup.",
+  "culinaryApplications": [
+    "Perfect for cheese boards with fruits and nuts",
+    "Melts beautifully in grilled sandwiches or toasties",
+    "Adds depth to salads when crumbled",
+    "Ideal for baking into savory scones or tarts",
+    "Enhances the flavor of soups and stews when melted"
+  ],
+  "faqs": [
+    {
+      "question": "What does Cotherstone cheese taste like?",
+      "answer": "Cotherstone has a mild, nutty flavor with grassy undertones and a slight tanginess."
+    },
+    {
+      "question": "How long is Cotherstone aged?",
+      "answer": "It is typically aged for several weeks to develop its flavor and texture."
+    },
+    {
+      "question": "Is Cotherstone similar to Wensleydale?",
+      "answer": "Yes, it shares similarities with Wensleydale but has a distinct flavor and texture due to its unique production methods."
+    },
+    {
+      "question": "Can Cotherstone be used in cooking?",
+      "answer": "Absolutely! It melts well and adds a rich, nutty flavor to dishes."
+    },
+    {
+      "question": "Where can I buy Cotherstone cheese?",
+      "answer": "It is available at specialty cheese shops and online retailers, particularly those focusing on British cheeses."
+    }
+  ],
+  "tags": [
+    "Cotherstone cheese",
+    "British cheese",
+    "artisan cheese",
+    "semi-hard cheese",
+    "cow's milk cheese",
+    "County Durham",
+    "traditional cheese",
+    "nutty cheese",
+    "cheese board",
+    "grilled cheese",
+    "cheese pairings",
+    "English cheese",
+    "natural rind",
+    "artisanal cheese",
+    "cheese history",
+    "cheese production",
+    "cheese aging",
+    "cheese flavor",
+    "cheese texture",
+    "cheese recipes",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese and fruit",
+    "cheese and chutney",
+    "cheese and bread",
+    "cheese and cured meats",
+    "cheese for cooking",
+    "cheese for salads",
+    "cheese for baking",
+    "cheese for soups",
+    "cheese for stews",
+    "cheese for scones",
+    "cheese for tarts",
+    "cheese for toasties",
+    "cheese for fondue",
+    "cheese for pasta",
+    "cheese for sandwiches",
+    "cheese for snacks",
+    "cheese for desserts",
+    "cheese for appetizers",
+    "cheese for main dishes",
+    "cheese for side dishes",
+    "cheese for breakfast",
+    "cheese for lunch",
+    "cheese for dinner",
+    "cheese for parties",
+    "cheese for gifts",
+    "cheese for holidays"
+  ],
+  "longTailKeywords": [
+    "Cotherstone cheese characteristics",
+    "Cotherstone cheese origin",
+    "Cotherstone cheese flavor"
+  ],
+  "seoKeywords": [
+    "best British semi-hard cheese",
+    "how to use Cotherstone in cooking",
+    "Cotherstone cheese pairings",
+    "where to buy Cotherstone cheese",
+    "Cotherstone vs Wensleydale",
+    "traditional English cheese",
+    "artisan cow's milk cheese",
+    "Cotherstone cheese flavor profile",
+    "Cotherstone cheese history",
+    "Cotherstone cheese production process",
+    "Cotherstone cheese aging",
+    "Cotherstone cheese recipes",
+    "Cotherstone cheese for cheese boards",
+    "Cotherstone cheese for melting",
+    "Cotherstone cheese for salads",
+    "Cotherstone cheese for baking",
+    "Cotherstone cheese for soups",
+    "Cotherstone cheese for sandwiches",
+    "Cotherstone cheese for parties",
+    "Cotherstone cheese for gifts"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Wensleydale",
+      "description": "A crumbly, mild cheese from Yorkshire, England, with a similar texture and nutty flavor."
+    },
+    {
+      "name": "Cheshire",
+      "description": "A crumbly, slightly tangy cheese from Cheshire, England, known for its versatility."
+    },
+    {
+      "name": "Lancashire",
+      "description": "A creamy, crumbly cheese from Lancashire, England, with a mild, buttery flavor."
+    },
+    {
+      "name": "Caerphilly",
+      "description": "A Welsh cheese with a crumbly texture and mild, slightly tangy flavor."
+    },
+    {
+      "name": "Double Gloucester",
+      "description": "A semi-hard cheese from Gloucestershire, England, with a rich, nutty flavor."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "Approximately 30-35% fat",
+    "calciumContent": "High in calcium, contributing to bone health"
+  },
+  "lastUpdated": "2025-03-02T01:17:25.907Z"
+}

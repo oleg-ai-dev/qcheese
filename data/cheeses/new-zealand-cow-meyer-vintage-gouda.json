@@ -1,0 +1,160 @@
+{
+  "url": "https://www.cheese.com/meyer-vintage-gouda/",
+  "milk": "cow",
+  "country": "New Zealand",
+  "region": "Hamilton",
+  "family": "Gouda",
+  "type": "semi-hard, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "crumbly",
+  "rind": "NA",
+  "color": "NA",
+  "flavor": "nutty, sharp, spicy",
+  "aroma": "aromatic",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Meyer Vintage Gouda",
+  "slug": "new-zealand-cow-meyer-vintage-gouda",
+  "description": "Meyer Vintage Gouda is a semi-hard, artisan cheese originating from New Zealand, crafted from cow's milk. This cheese is celebrated for its rich, deep flavors and firm, slightly crumbly texture that becomes more pronounced with age. Its appearance is characterized by a natural, waxed rind that encases a golden-yellow interior, often dotted with small, crunchy protein crystals that are a hallmark of well-aged Gouda. Meyer Vintage Gouda is distinguished by its balance of savory and sweet notes, making it a versatile choice for cheese lovers seeking depth and complexity in their selections.",
+  "history": "Meyer Vintage Gouda is a testament to New Zealand's burgeoning artisanal cheese scene, drawing inspiration from traditional Dutch Gouda-making techniques while incorporating local terroir and innovative practices. The cheese is named after its creators, who sought to produce a Gouda that could stand alongside the world's best. Over the years, it has gained recognition for its quality and craftsmanship, contributing to New Zealand's reputation as a producer of premium dairy products. Meyer Vintage Gouda embodies the fusion of traditional European cheesemaking knowledge with the pristine dairy farming conditions of New Zealand.",
+  "productionProcess": "Meyer Vintage Gouda is made from high-quality cow's milk, which is pasteurized before the cheesemaking process begins. The milk is then curdled using traditional rennet, and the curds are pressed into molds to form the characteristic Gouda shape. After brining, the cheese is aged for a minimum of 12 months, during which it develops its distinctive flavor and texture. The aging process is carefully monitored to ensure the development of the desired characteristics, including the formation of protein crystals that add a delightful crunch to the cheese.",
+  "flavorProfile": "Meyer Vintage Gouda offers a complex flavor profile that combines savory, nutty, and caramel-like sweetness with a hint of tanginess. The texture is firm and slightly crumbly, with the presence of protein crystals adding a pleasant crunch. Its aroma is rich and inviting, with notes of butterscotch and toasted nuts, making it a sensory delight.",
+  "pairings": "Meyer Vintage Gouda pairs beautifully with a variety of foods and beverages. For a traditional pairing, enjoy it with a robust red wine like Cabernet Sauvignon or a malty beer such as a brown ale. It also complements the sweetness of dried fruits like apricots and figs, as well as the crunch of walnuts and almonds. For a unique twist, try it with dark chocolate or a drizzle of honey to enhance its caramel notes.",
+  "culinaryApplications": [
+    "Ideal for cheese boards, offering a sophisticated flavor profile",
+    "Perfect for grating over pasta dishes, adding depth and richness",
+    "Melts beautifully in grilled cheese sandwiches, providing a nutty and sweet flavor",
+    "Can be used in savory baking, such as in cheese scones or bread"
+  ],
+  "faqs": [
+    {
+      "question": "What makes Meyer Vintage Gouda unique?",
+      "answer": "Its unique combination of savory and sweet flavors, along with the presence of protein crystals, sets it apart."
+    },
+    {
+      "question": "How long is Meyer Vintage Gouda aged?",
+      "answer": "It is aged for a minimum of 12 months to develop its distinctive flavor and texture."
+    },
+    {
+      "question": "Can Meyer Vintage Gouda be used in cooking?",
+      "answer": "Yes, its melting qualities and rich flavor make it excellent for cooking and baking."
+    },
+    {
+      "question": "What are the protein crystals in Meyer Vintage Gouda?",
+      "answer": "They are a result of the aging process, adding a delightful crunch and are a sign of a well-aged cheese."
+    },
+    {
+      "question": "Is Meyer Vintage Gouda similar to traditional Dutch Gouda?",
+      "answer": "While inspired by Dutch Gouda, it has its own unique characteristics due to New Zealand's terroir and production methods."
+    }
+  ],
+  "tags": [
+    "Meyer Vintage Gouda",
+    "New Zealand cheese",
+    "cow milk cheese",
+    "semi-hard cheese",
+    "artisan cheese",
+    "aged cheese",
+    "protein crystals",
+    "cheese pairings",
+    "cheese board",
+    "grilled cheese",
+    "pasta topping",
+    "savory baking",
+    "cheese scones",
+    "cheese bread",
+    "red wine pairing",
+    "brown ale pairing",
+    "dried fruits",
+    "nuts",
+    "dark chocolate",
+    "honey",
+    "caramel notes",
+    "nutty flavor",
+    "sweet cheese",
+    "savory cheese",
+    "cheese for cooking",
+    "cheese for baking",
+    "premium dairy",
+    "cheese aging",
+    "cheese texture",
+    "cheese flavor",
+    "cheese aroma",
+    "cheese crunch",
+    "cheese crystals",
+    "cheese craftsmanship",
+    "cheese terroir",
+    "cheese innovation",
+    "cheese quality",
+    "cheese complexity",
+    "cheese depth",
+    "cheese versatility",
+    "cheese delight",
+    "cheese sensory",
+    "cheese richness",
+    "cheese balance",
+    "cheese tradition",
+    "cheese inspiration",
+    "cheese recognition",
+    "cheese premium",
+    "cheese scene"
+  ],
+  "longTailKeywords": [
+    "Meyer Vintage Gouda cheese characteristics",
+    "Meyer Vintage Gouda cheese origin",
+    "Meyer Vintage Gouda cheese flavor"
+  ],
+  "seoKeywords": [
+    "Meyer Vintage Gouda New Zealand",
+    "best New Zealand cow milk cheese",
+    "how to use Meyer Vintage Gouda in cooking",
+    "Meyer Vintage Gouda cheese pairings",
+    "aged Gouda with protein crystals",
+    "Meyer Vintage Gouda flavor profile",
+    "where to buy Meyer Vintage Gouda",
+    "Meyer Vintage Gouda vs Dutch Gouda",
+    "Meyer Vintage Gouda culinary uses",
+    "Meyer Vintage Gouda cheese board ideas",
+    "Meyer Vintage Gouda and red wine pairing",
+    "Meyer Vintage Gouda and brown ale pairing",
+    "Meyer Vintage Gouda with dried fruits",
+    "Meyer Vintage Gouda and nuts pairing",
+    "Meyer Vintage Gouda and dark chocolate",
+    "Meyer Vintage Gouda with honey",
+    "Meyer Vintage Gouda for savory baking",
+    "Meyer Vintage Gouda cheese scones",
+    "Meyer Vintage Gouda cheese bread",
+    "Meyer Vintage Gouda in grilled cheese"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Old Amsterdam",
+      "similarity": "Aged Gouda with a rich, caramel-like flavor and crunchy protein crystals."
+    },
+    {
+      "name": "Beemster Classic",
+      "similarity": "Aged cow's milk cheese with a nutty and slightly sweet flavor profile."
+    },
+    {
+      "name": "Parrano",
+      "similarity": "A Dutch cheese that combines the flavors of Gouda and Parmesan, offering a nutty and fruity taste."
+    },
+    {
+      "name": "Boerenkaas",
+      "similarity": "A traditional Dutch farmhouse cheese with a complex flavor and firm texture."
+    },
+    {
+      "name": "L'Amuse Signature Gouda",
+      "similarity": "An aged Gouda known for its deep, butterscotch flavors and crunchy texture."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "High"
+  },
+  "lastUpdated": "2025-03-02T06:01:10.385Z"
+}

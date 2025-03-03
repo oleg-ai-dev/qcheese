@@ -1,0 +1,161 @@
+{
+  "url": "https://www.cheese.com/ashley/",
+  "milk": "cow",
+  "country": "United States",
+  "region": "Colorado",
+  "family": "NA",
+  "type": "soft, artisan, soft-ripened",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, soft",
+  "rind": "ash coated",
+  "color": "cream",
+  "flavor": "sweet",
+  "aroma": "NA",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "MouCo Ashley",
+  "alt_spellings": "NA",
+  "producers": "MouCo Cheese Company",
+  "name": "Ashley",
+  "slug": "united-states-cow-ashley",
+  "description": "Ashley cheese is a soft-ripened, artisan cheese originating from the United States, made exclusively from cow's milk. This cheese is celebrated for its creamy texture and bloomy rind, which is characteristic of soft-ripened cheeses. The rind is often white and slightly fuzzy, encasing a smooth, buttery interior that becomes more fluid as it ages. Ashley cheese is known for its delicate balance of flavors, offering a mild yet complex taste profile that appeals to a wide range of palates. Its artisanal nature means that each batch can have subtle variations, making it a unique experience for cheese enthusiasts.",
+  "history": "Ashley cheese is a relatively modern addition to the American artisan cheese scene, reflecting the growing interest in high-quality, locally produced cheeses in the United States. While specific historical details about Ashley cheese are scarce, it is part of a broader movement towards reviving and innovating traditional cheesemaking techniques. This cheese embodies the spirit of American artisanal cheesemaking, which emphasizes quality, craftsmanship, and the use of local ingredients. Its creation is a testament to the skill and creativity of American cheesemakers, who continue to push the boundaries of traditional cheese production.",
+  "productionProcess": "Ashley cheese is made from pasteurized cow's milk, which is carefully selected for its quality and flavor. The milk is gently heated and then inoculated with specific cultures to begin the fermentation process. Rennet is added to coagulate the milk, forming curds that are then cut and drained. The curds are molded into the desired shape and allowed to mature in a controlled environment. During this aging process, the cheese develops its characteristic bloomy rind, thanks to the introduction of Penicillium candidum. The aging period can vary, but it typically lasts several weeks, during which the cheese's flavors deepen and its texture becomes creamier.",
+  "flavorProfile": "Ashley cheese offers a delightful sensory experience, with a creamy, buttery texture that melts in the mouth. The flavor is mild yet complex, with subtle earthy and mushroomy notes from the bloomy rind. There is a slight tanginess that balances the richness of the cheese, making it both indulgent and refreshing. The aroma is pleasant and inviting, with hints of fresh cream and a touch of earthiness.",
+  "pairings": "Ashley cheese pairs beautifully with a variety of foods and beverages. For a traditional pairing, enjoy it with crusty bread, fresh fruit like apples or pears, and a glass of crisp white wine such as Sauvignon Blanc or Chardonnay. It also complements sparkling wines and light beers. For a more adventurous pairing, try it with honey or fig jam, which enhances its creamy texture and subtle flavors. Ashley cheese can also be used in salads, adding a luxurious touch to greens and nuts.",
+  "culinaryApplications": [
+    "Perfect for cheese boards, offering a creamy contrast to harder cheeses.",
+    "Ideal for spreading on crackers or bread, highlighting its smooth texture.",
+    "Can be melted into sauces or soups for added richness.",
+    "Pairs well with fresh fruits and nuts in salads.",
+    "Excellent for baking, adding a creamy layer to dishes like quiches or tarts."
+  ],
+  "faqs": [
+    {
+      "question": "What type of milk is used in Ashley cheese?",
+      "answer": "Ashley cheese is made exclusively from cow's milk."
+    },
+    {
+      "question": "How should Ashley cheese be stored?",
+      "answer": "Store Ashley cheese in the refrigerator, wrapped in wax paper or cheese paper to allow it to breathe. Consume within a week of opening for the best flavor."
+    },
+    {
+      "question": "Can Ashley cheese be used in cooking?",
+      "answer": "Yes, Ashley cheese is versatile and can be used in a variety of culinary applications, from cheese boards to baked dishes."
+    },
+    {
+      "question": "What does Ashley cheese taste like?",
+      "answer": "Ashley cheese has a mild, creamy flavor with subtle earthy and mushroomy notes, balanced by a slight tanginess."
+    },
+    {
+      "question": "Is Ashley cheese similar to Brie?",
+      "answer": "Yes, Ashley cheese is similar to Brie in texture and flavor, both being soft-ripened cheeses with a bloomy rind and creamy interior."
+    }
+  ],
+  "tags": [
+    "Ashley cheese",
+    "soft-ripened cheese",
+    "artisan cheese",
+    "cow milk cheese",
+    "American cheese",
+    "bloomy rind",
+    "creamy cheese",
+    "mild cheese",
+    "cheese board",
+    "gourmet cheese",
+    "local cheese",
+    "pasteurized cheese",
+    "Penicillium candidum",
+    "cheese pairing",
+    "cheese storage",
+    "cheese cooking",
+    "cheese flavor",
+    "cheese texture",
+    "cheese aroma",
+    "cheese history",
+    "cheese production",
+    "cheese culture",
+    "cheese enthusiasts",
+    "cheese varieties",
+    "cheese making",
+    "cheese aging",
+    "cheese rind",
+    "cheese curds",
+    "cheese fermentation",
+    "cheese molds",
+    "cheese quality",
+    "cheese craftsmanship",
+    "cheese innovation",
+    "cheese tradition",
+    "cheese revival",
+    "cheese movement",
+    "cheese scene",
+    "cheese experience",
+    "cheese selection",
+    "cheese appreciation",
+    "cheese indulgence",
+    "cheese refreshment",
+    "cheese balance",
+    "cheese complexity",
+    "cheese subtlety",
+    "cheese richness",
+    "cheese tanginess",
+    "cheese earthiness",
+    "cheese mushroomy notes"
+  ],
+  "longTailKeywords": [
+    "Ashley cheese characteristics",
+    "Ashley cheese origin",
+    "Ashley cheese flavor"
+  ],
+  "seoKeywords": [
+    "best American soft-ripened cheese",
+    "how to use Ashley cheese in cooking",
+    "Ashley cheese flavor profile",
+    "pairing Ashley cheese with wine",
+    "Ashley cheese vs Brie",
+    "artisan cow milk cheese USA",
+    "creamy bloomy rind cheese",
+    "Ashley cheese storage tips",
+    "Ashley cheese culinary uses",
+    "where to buy Ashley cheese",
+    "Ashley cheese history and production",
+    "Ashley cheese for cheese boards",
+    "Ashley cheese with fruits and nuts",
+    "Ashley cheese in salads",
+    "Ashley cheese baking recipes",
+    "Ashley cheese and honey pairing",
+    "Ashley cheese and fig jam",
+    "Ashley cheese with sparkling wine",
+    "Ashley cheese with light beer",
+    "Ashley cheese and fresh bread"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Brie",
+      "description": "A classic French soft-ripened cheese with a bloomy rind and creamy interior, similar in texture and flavor to Ashley cheese."
+    },
+    {
+      "name": "Camembert",
+      "description": "Another French soft-ripened cheese, Camembert has a richer, more intense flavor compared to Ashley cheese but shares a similar creamy texture."
+    },
+    {
+      "name": "Humboldt Fog",
+      "description": "An American artisan cheese with a distinctive layer of ash and a creamy texture, offering a more complex flavor profile than Ashley cheese."
+    },
+    {
+      "name": "Mt. Tam",
+      "description": "A triple-cream cheese from California, Mt. Tam is richer and more buttery than Ashley cheese but shares a similar soft-ripened characteristic."
+    },
+    {
+      "name": "Saint André",
+      "description": "A triple-cream cheese from France, Saint André is even richer and creamier than Ashley cheese, with a similar bloomy rind."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Moderate"
+  },
+  "lastUpdated": "2025-03-01T17:44:07.264Z"
+}

@@ -1,0 +1,161 @@
+{
+  "url": "https://www.cheese.com/campfire/",
+  "milk": "cow",
+  "country": "United States",
+  "region": "Port Townsend",
+  "family": "Monterey Jack",
+  "type": "semi-hard",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "compact, creamy, firm, open, supple",
+  "rind": "natural",
+  "color": "ivory",
+  "flavor": "buttery, smokey , sweet",
+  "aroma": "smokey",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "Smoked Washington Jack",
+  "alt_spellings": "NA",
+  "producers": "Mt. Townsend Creamery",
+  "name": "Campfire",
+  "slug": "united-states-cow-campfire",
+  "description": "Campfire cheese is a semi-hard cheese originating from the United States, crafted from cow's milk. It is known for its unique smoky flavor, which is reminiscent of a campfire, hence the name. The cheese has a smooth, firm texture and a pale yellow color with a natural rind that may carry hints of the smoking process. Its distinct smoky aroma and flavor make it a standout choice for those who appreciate bold, artisanal cheeses.",
+  "history": "Campfire cheese is a relatively modern creation, reflecting the innovative spirit of American cheesemaking. It draws inspiration from traditional smoking techniques used in various cultures to preserve and flavor foods. While its exact origins are not widely documented, it is part of a growing trend in the U.S. towards producing cheeses with unique, bold flavors that cater to adventurous palates. Its creation is a testament to the creativity and experimentation prevalent in contemporary American artisanal cheese production.",
+  "productionProcess": "Campfire cheese begins with high-quality cow's milk, which is pasteurized and then cultured. Rennet is added to coagulate the milk, forming curds that are cut, cooked, and pressed into molds. After pressing, the cheese is aged for several months to develop its texture and flavor. The distinctive smoky flavor is achieved through a careful smoking process, where the cheese is exposed to smoke from natural wood chips, infusing it with a deep, woodsy aroma and taste.",
+  "flavorProfile": "Campfire cheese offers a robust smoky flavor that is balanced by a creamy, slightly tangy undertone. The aroma is distinctly smoky, evoking the essence of a wood fire. Its semi-hard texture is smooth and firm, making it easy to slice or grate, while still retaining a pleasant creaminess.",
+  "pairings": "Campfire cheese pairs wonderfully with full-bodied red wines such as Syrah or Zinfandel, which complement its smoky flavor. For beer lovers, a smoky porter or stout can enhance the cheese's campfire essence. It also goes well with hearty breads, cured meats, and pickled vegetables. For a unique twist, try it in a grilled cheese sandwich with caramelized onions or in a savory cheesecake.",
+  "culinaryApplications": [
+    "Ideal for cheese boards with bold accompaniments",
+    "Melts beautifully in grilled cheese sandwiches",
+    "Perfect for adding a smoky flavor to mac and cheese",
+    "Great for grating over roasted vegetables",
+    "Can be used in savory tarts or quiches"
+  ],
+  "faqs": [
+    {
+      "question": "What makes Campfire cheese smoky?",
+      "answer": "The smoky flavor is achieved through a smoking process using natural wood chips, which infuses the cheese with a deep, woodsy aroma and taste."
+    },
+    {
+      "question": "Can Campfire cheese be used in cooking?",
+      "answer": "Yes, its melting qualities and smoky flavor make it excellent for cooking, especially in dishes that benefit from a bold, smoky taste."
+    },
+    {
+      "question": "How should Campfire cheese be stored?",
+      "answer": "Wrap it in wax paper or cheese paper and store it in the refrigerator to maintain its flavor and texture."
+    },
+    {
+      "question": "Is Campfire cheese similar to smoked Gouda?",
+      "answer": "While both have a smoky flavor, Campfire cheese has a unique profile due to its specific smoking process and the type of milk used."
+    },
+    {
+      "question": "What are some good substitutes for Campfire cheese?",
+      "answer": "Smoked Gouda, smoked Cheddar, or smoked Provolone can be good substitutes, offering a similar smoky flavor profile."
+    }
+  ],
+  "tags": [
+    "Campfire cheese",
+    "semi-hard cheese",
+    "smoked cheese",
+    "cow milk cheese",
+    "artisanal cheese",
+    "American cheese",
+    "bold flavor",
+    "cheese board",
+    "grilled cheese",
+    "smoky aroma",
+    "unique cheese",
+    "cheese pairings",
+    "cheese storage",
+    "cheese cooking",
+    "smoked Gouda alternative",
+    "cheese aging",
+    "natural rind",
+    "wood-smoked",
+    "cheese texture",
+    "cheese aroma",
+    "cheese flavor",
+    "cheese history",
+    "cheese production",
+    "cheese culture",
+    "cheese FAQ",
+    "cheese nutritional info",
+    "cheese culinary uses",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese accompaniments",
+    "cheese innovation",
+    "cheese trends",
+    "cheese preservation",
+    "cheese smoking",
+    "cheese slicing",
+    "cheese grating",
+    "cheese melting",
+    "cheese for sandwiches",
+    "cheese for pasta",
+    "cheese for vegetables",
+    "cheese for tarts",
+    "cheese for quiches",
+    "cheese for cheesecake",
+    "cheese for mac and cheese",
+    "cheese for roasted vegetables",
+    "cheese for caramelized onions",
+    "cheese for pickled vegetables",
+    "cheese for cured meats",
+    "cheese for hearty breads"
+  ],
+  "longTailKeywords": [
+    "Campfire cheese characteristics",
+    "Campfire cheese origin",
+    "Campfire cheese flavor"
+  ],
+  "seoKeywords": [
+    "best American smoked cheese",
+    "how to use Campfire cheese in cooking",
+    "Campfire cheese pairings with wine",
+    "Campfire cheese vs smoked Gouda",
+    "where to buy Campfire cheese",
+    "Campfire cheese for cheese boards",
+    "smoky cheese for grilled sandwiches",
+    "Campfire cheese in mac and cheese",
+    "how to store Campfire cheese",
+    "Campfire cheese nutritional information",
+    "Campfire cheese for pasta dishes",
+    "Campfire cheese for roasted vegetables",
+    "Campfire cheese in savory tarts",
+    "Campfire cheese for quiches",
+    "Campfire cheese for cheesecake",
+    "Campfire cheese and beer pairings",
+    "Campfire cheese and cured meats",
+    "Campfire cheese and pickled vegetables",
+    "Campfire cheese and hearty breads",
+    "Campfire cheese for caramelized onions"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Smoked Gouda",
+      "similarity": "Both have a smoky flavor, though Smoked Gouda is typically creamier and less tangy."
+    },
+    {
+      "name": "Smoked Cheddar",
+      "similarity": "Offers a similar smoky profile but with a sharper, more pronounced cheddar flavor."
+    },
+    {
+      "name": "Smoked Provolone",
+      "similarity": "Shares the smoky characteristic but has a milder, more buttery taste."
+    },
+    {
+      "name": "Liquid Smoke-Infused Cheeses",
+      "similarity": "These cheeses use liquid smoke for flavoring, offering a similar smoky taste but with a different texture and aging process."
+    },
+    {
+      "name": "Applewood Smoked Cheese",
+      "similarity": "Similar in its use of smoking for flavor, but the type of wood used imparts a slightly different, sweeter smoky note."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "High"
+  },
+  "lastUpdated": "2025-03-01T22:50:05.347Z"
+}

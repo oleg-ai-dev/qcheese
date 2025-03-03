@@ -1,0 +1,157 @@
+{
+  "url": "https://www.cheese.com/american-cheese/",
+  "milk": "cow",
+  "country": "United States",
+  "region": "NA",
+  "family": "NA",
+  "type": "semi-soft, processed",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "smooth",
+  "rind": "rindless",
+  "color": "yellow",
+  "flavor": "NA",
+  "aroma": "mild",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "American Cheese",
+  "slug": "united-states-cow-american-cheese",
+  "description": "American Cheese is a popular processed cheese product originating from the United States. It is known for its smooth, creamy texture and mild flavor, making it a versatile ingredient in various culinary applications. Unlike traditional cheeses, American Cheese is made by blending natural cheeses with emulsifiers and other ingredients to create a product that melts evenly and smoothly. It typically comes in individually wrapped slices or blocks and is widely used in sandwiches, burgers, and as a melting cheese in dishes like macaroni and cheese. Its appearance is usually a uniform pale yellow or orange, depending on the addition of coloring agents.",
+  "history": "American Cheese has its roots in the early 20th century when James L. Kraft developed a method to pasteurize cheese, extending its shelf life and making it more accessible to the American public. This innovation led to the creation of processed cheese, with American Cheese becoming a staple in American households. It gained popularity for its convenience, affordability, and melting properties, becoming a key ingredient in classic American dishes like cheeseburgers and grilled cheese sandwiches. Over time, it has become synonymous with comfort food and is a common feature in diners and fast-food establishments across the country.",
+  "productionProcess": "American Cheese is produced by blending natural cheeses, such as cheddar or colby, with emulsifying salts, milk, and other ingredients. The mixture is then heated and stirred until it becomes a homogeneous, smooth paste. This process, known as pasteurization, not only extends the cheese's shelf life but also ensures it melts evenly without separating. The cheese is then molded into blocks or sliced and packaged for distribution. The use of emulsifiers like sodium citrate or phosphate is crucial for achieving the desired texture and melting properties.",
+  "flavorProfile": "American Cheese is characterized by its mild, slightly tangy flavor and creamy, smooth texture. It lacks the complexity and depth of aged natural cheeses, making it a favorite among those who prefer a subtler taste. The cheese's aroma is mild and milky, with no strong or pungent notes. Its texture is soft and pliable, allowing it to melt easily and evenly, which is one of its most valued qualities in cooking.",
+  "pairings": "American Cheese pairs well with a variety of foods and beverages. It is traditionally used in sandwiches and burgers, complementing ingredients like pickles, mustard, and tomatoes. For a classic pairing, serve it with a crisp lager or a light-bodied white wine to balance its creaminess. It also works well in grilled cheese sandwiches, paired with tomato soup for a comforting meal. For a more innovative approach, try melting it over nachos or incorporating it into a creamy cheese sauce for vegetables or pasta.",
+  "culinaryApplications": [
+    "Melts well in grilled cheese sandwiches",
+    "Ideal for cheeseburgers and sandwiches",
+    "Perfect for making creamy cheese sauces",
+    "Great for topping nachos or baked potatoes",
+    "Used in classic American macaroni and cheese"
+  ],
+  "faqs": [
+    {
+      "question": "Is American Cheese real cheese?",
+      "answer": "American Cheese is a processed cheese product made from a blend of natural cheeses and other ingredients. While it contains real cheese, it is not considered a traditional, natural cheese due to the addition of emulsifiers and other components."
+    },
+    {
+      "question": "Can American Cheese be used for melting?",
+      "answer": "Yes, American Cheese is prized for its excellent melting properties, making it ideal for dishes like grilled cheese sandwiches, cheeseburgers, and cheese sauces."
+    },
+    {
+      "question": "How does American Cheese differ from cheddar?",
+      "answer": "American Cheese is milder and creamier than cheddar, with a smoother texture due to the addition of emulsifiers. Cheddar, on the other hand, is a natural cheese with a sharper, more complex flavor."
+    },
+    {
+      "question": "Is American Cheese healthy?",
+      "answer": "American Cheese is high in calories and sodium due to its processing. While it provides calcium and protein, it should be consumed in moderation as part of a balanced diet."
+    },
+    {
+      "question": "Can I substitute American Cheese with another cheese?",
+      "answer": "Yes, cheeses like mild cheddar, colby, or Monterey Jack can be used as substitutes, though they may not melt as smoothly without the addition of emulsifiers."
+    }
+  ],
+  "tags": [
+    "American Cheese",
+    "processed cheese",
+    "cow milk cheese",
+    "United States",
+    "semi-soft cheese",
+    "melting cheese",
+    "grilled cheese",
+    "cheeseburgers",
+    "comfort food",
+    "diner food",
+    "fast food",
+    "cheese slices",
+    "creamy cheese",
+    "mild cheese",
+    "cheese sauce",
+    "mac and cheese",
+    "nachos",
+    "sandwich cheese",
+    "cheese blocks",
+    "pasteurized cheese",
+    "James L. Kraft",
+    "cheese history",
+    "cheese production",
+    "cheese pairings",
+    "cheese FAQs",
+    "cheese nutrition",
+    "cheese substitutes",
+    "cheese melting",
+    "cheese texture",
+    "cheese flavor",
+    "cheese aroma",
+    "cheese ingredients",
+    "cheese emulsifiers",
+    "cheese shelf life",
+    "cheese convenience",
+    "cheese affordability",
+    "cheese comfort",
+    "cheese innovation",
+    "cheese tradition",
+    "cheese culture",
+    "cheese versatility",
+    "cheese applications",
+    "cheese health",
+    "cheese calcium",
+    "cheese protein",
+    "cheese sodium",
+    "cheese calories",
+    "cheese balance",
+    "cheese moderation"
+  ],
+  "longTailKeywords": [
+    "American Cheese cheese characteristics",
+    "American Cheese cheese origin",
+    "American Cheese cheese flavor"
+  ],
+  "seoKeywords": [
+    "best American Cheese for melting",
+    "how to use American Cheese in grilled cheese",
+    "American Cheese vs cheddar comparison",
+    "history of American Cheese",
+    "what is American Cheese made of",
+    "American Cheese nutritional information",
+    "American Cheese pairings with wine",
+    "American Cheese in cheeseburgers",
+    "American Cheese for mac and cheese",
+    "American Cheese substitutes",
+    "is American Cheese healthy",
+    "American Cheese production process",
+    "American Cheese flavor profile",
+    "American Cheese in comfort food",
+    "American Cheese in fast food",
+    "American Cheese for cheese sauces",
+    "American Cheese for nachos",
+    "American Cheese for sandwiches",
+    "American Cheese for baked potatoes",
+    "American Cheese in diner food"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Colby",
+      "similarity": "Colby is a natural cheese with a mild flavor and semi-soft texture, similar to American Cheese but without the emulsifiers."
+    },
+    {
+      "name": "Monterey Jack",
+      "similarity": "Monterey Jack is another mild, semi-soft cheese that melts well, making it a good substitute for American Cheese in many dishes."
+    },
+    {
+      "name": "Mild Cheddar",
+      "similarity": "Mild cheddar offers a slightly sharper flavor than American Cheese but shares a similar creamy texture and melting properties."
+    },
+    {
+      "name": "Velveeta",
+      "similarity": "Velveeta is another processed cheese product known for its smooth melting, often used similarly to American Cheese in recipes."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Moderate"
+  },
+  "lastUpdated": "2025-03-01T17:02:37.172Z"
+}

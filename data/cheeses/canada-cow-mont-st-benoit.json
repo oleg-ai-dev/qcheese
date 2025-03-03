@@ -1,0 +1,161 @@
+{
+  "url": "https://www.cheese.com/mont-st-benoit/",
+  "milk": "cow",
+  "country": "Canada",
+  "region": "Quebec",
+  "family": "Swiss Cheese",
+  "type": "firm, artisan",
+  "fat_content": "31%",
+  "calcium_content": "NA",
+  "texture": "creamy, elastic, smooth, supple",
+  "rind": "rindless",
+  "color": "NA",
+  "flavor": "buttery, creamy, mild, nutty",
+  "aroma": "fermented, mild, nutty",
+  "vegetarian": "NA",
+  "vegan": "NA",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Abbey de Saint-Benoit-du-lac",
+  "name": "Mont St Benoit",
+  "slug": "canada-cow-mont-st-benoit",
+  "description": "Mont St Benoit is a Canadian artisan cheese that stands out for its firm texture and rich, nuanced flavors. Originating from Quebec, this cheese is crafted from cow's milk, embodying the essence of traditional cheesemaking with a modern twist. Its appearance is characterized by a natural rind that encases a dense, creamy interior, often with small eyes or holes that add to its unique texture. Mont St Benoit is celebrated for its ability to balance depth of flavor with a smooth, approachable profile, making it a favorite among cheese enthusiasts seeking something both distinctive and versatile.",
+  "history": "Mont St Benoit cheese is a testament to Quebec's burgeoning artisan cheese scene, which has gained international acclaim for its quality and innovation. Named after the Mont Saint-Benoît in Quebec, this cheese reflects the region's dedication to preserving traditional cheesemaking techniques while embracing new methods to create unique flavors. The cheese is part of a movement that has seen Quebec become a hub for artisan cheese production, with Mont St Benoit contributing to the province's reputation for excellence in dairy craftsmanship.",
+  "productionProcess": "Mont St Benoit is produced using high-quality cow's milk, which is carefully selected to ensure the cheese's superior taste and texture. The milk undergoes a controlled curdling process, where specific cultures and rennet are added to achieve the desired firmness. After curdling, the cheese is pressed to remove excess whey and then aged for several months. During this aging period, the cheese develops its characteristic rind and complex flavors. Artisans monitor the aging process closely, turning the cheese regularly to ensure even maturation and flavor development.",
+  "flavorProfile": "Mont St Benoit offers a rich and complex flavor profile, with notes of nuts and butter complemented by a slight tanginess. Its aroma is earthy and inviting, hinting at the care and time invested in its production. The texture is firm yet creamy, allowing it to melt beautifully when heated, making it versatile for both cooking and direct consumption.",
+  "pairings": "Mont St Benoit pairs wonderfully with a variety of foods and beverages. For a classic pairing, try it with a full-bodied red wine or a crisp, hoppy beer to complement its rich flavors. On the food side, it goes well with crusty bread, fresh fruits like apples and pears, and nuts for a delightful cheese board. For a more innovative approach, incorporate it into dishes like quiches or gratins, where its melting qualities can shine.",
+  "culinaryApplications": [
+    "Melts well in grilled cheese sandwiches",
+    "Ideal for cheese boards with fruits and nuts",
+    "Perfect for grating over pasta dishes",
+    "Enhances the flavor of quiches and gratins",
+    "Great for snacking with crusty bread"
+  ],
+  "faqs": [
+    {
+      "question": "What type of milk is used in Mont St Benoit cheese?",
+      "answer": "Mont St Benoit cheese is made from cow's milk."
+    },
+    {
+      "question": "How long is Mont St Benoit aged?",
+      "answer": "Mont St Benoit is aged for several months to develop its complex flavors and firm texture."
+    },
+    {
+      "question": "Can Mont St Benoit be used in cooking?",
+      "answer": "Yes, its firm yet creamy texture makes it excellent for melting in dishes like quiches and gratins."
+    },
+    {
+      "question": "What are some good pairings for Mont St Benoit?",
+      "answer": "It pairs well with full-bodied red wines, hoppy beers, crusty bread, and fresh fruits."
+    },
+    {
+      "question": "Is Mont St Benoit similar to any other cheeses?",
+      "answer": "Mont St Benoit shares similarities with other firm, artisan cheeses like Gruyère and Comté, known for their rich flavors and versatility."
+    }
+  ],
+  "tags": [
+    "artisan cheese",
+    "Canadian cheese",
+    "cow milk cheese",
+    "firm cheese",
+    "Quebec cheese",
+    "natural rind",
+    "complex flavors",
+    "cheese board",
+    "cooking cheese",
+    "aged cheese",
+    "nutty flavor",
+    "buttery cheese",
+    "earthy aroma",
+    "creamy texture",
+    "small eyes",
+    "traditional cheesemaking",
+    "modern cheesemaking",
+    "dairy craftsmanship",
+    "international acclaim",
+    "cheese enthusiasts",
+    "versatile cheese",
+    "full-bodied wine pairing",
+    "hoppy beer pairing",
+    "crusty bread pairing",
+    "fresh fruit pairing",
+    "quiche ingredient",
+    "gratin ingredient",
+    "pasta topping",
+    "grilled cheese",
+    "snacking cheese",
+    "cheese production",
+    "quality dairy",
+    "flavor development",
+    "aging process",
+    "cheese turning",
+    "maturation",
+    "unique texture",
+    "smooth profile",
+    "distinctive cheese",
+    "cheese culture",
+    "artisan movement",
+    "dairy innovation",
+    "cheese craftsmanship",
+    "flavor balance",
+    "approachable cheese",
+    "cheese versatility",
+    "dairy excellence",
+    "cheese aging",
+    "flavor complexity"
+  ],
+  "longTailKeywords": [
+    "Mont St Benoit cheese characteristics",
+    "Mont St Benoit cheese origin",
+    "Mont St Benoit cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Canadian artisan cheese",
+    "Mont St Benoit cheese pairings",
+    "how to use Mont St Benoit in cooking",
+    "Mont St Benoit vs Gruyère",
+    "where to buy Mont St Benoit cheese",
+    "Mont St Benoit cheese flavor profile",
+    "Mont St Benoit cheese aging process",
+    "Mont St Benoit cheese production",
+    "Mont St Benoit cheese history",
+    "Mont St Benoit cheese culinary uses",
+    "Mont St Benoit cheese nutritional info",
+    "Mont St Benoit cheese for cheese boards",
+    "Mont St Benoit cheese melting qualities",
+    "Mont St Benoit cheese and wine pairings",
+    "Mont St Benoit cheese and beer pairings",
+    "Mont St Benoit cheese in quiches",
+    "Mont St Benoit cheese in gratins",
+    "Mont St Benoit cheese for pasta",
+    "Mont St Benoit cheese for snacking",
+    "Mont St Benoit cheese for grilled cheese"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Gruyère",
+      "similarity": "Both are firm, cow's milk cheeses with a rich, nutty flavor and excellent melting qualities."
+    },
+    {
+      "name": "Comté",
+      "similarity": "Shares a complex flavor profile and firm texture, ideal for both cooking and cheese boards."
+    },
+    {
+      "name": "Beaufort",
+      "similarity": "Another firm cheese with a buttery and slightly sweet flavor, great for similar culinary applications."
+    },
+    {
+      "name": "Appenzeller",
+      "similarity": "Known for its distinctive flavor and firm texture, Appenzeller is another excellent choice for those who enjoy Mont St Benoit."
+    },
+    {
+      "name": "Emmental",
+      "similarity": "Features a similar texture with small eyes, offering a mild, nutty flavor that complements a variety of dishes."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "High"
+  },
+  "lastUpdated": "2025-03-02T06:47:59.311Z"
+}

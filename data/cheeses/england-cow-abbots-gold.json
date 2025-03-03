@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/abbots-gold/",
+  "milk": "cow",
+  "country": "England, Great Britain, United Kingdom",
+  "region": "North Yorkshire",
+  "family": "Cheddar",
+  "type": "semi-hard",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, crumbly, dense, semi firm",
+  "rind": "natural",
+  "color": "pale yellow",
+  "flavor": "mild, sweet, tangy",
+  "aroma": "aromatic",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "Abbot's Gold Cheddar with Caramelised Onion, Caramelised Onion Cheddar, English Cheddar with Caramelized Onions",
+  "alt_spellings": "NA",
+  "producers": "Wensleydale Creamery",
+  "name": "Abbots Gold",
+  "slug": "england-cow-abbots-gold",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Abbots Gold cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Abbots Gold cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Abbots Gold cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Abbots Gold cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Abbots Gold cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "cow milk",
+    "England, Great Britain, United Kingdom",
+    "creamy, crumbly, dense, semi firm"
+  ],
+  "longTailKeywords": [
+    "Abbots Gold cheese characteristics",
+    "Abbots Gold cheese origin",
+    "Abbots Gold cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-01T16:02:05.401Z"
+}

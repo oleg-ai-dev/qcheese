@@ -1,0 +1,152 @@
+{
+  "url": "https://www.cheese.com/lord-hundreds/",
+  "milk": "sheep",
+  "country": "United Kingdom",
+  "region": "East Sussex",
+  "family": "NA",
+  "type": "semi-hard, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "firm, grainy, open",
+  "rind": "natural",
+  "color": "golden yellow",
+  "flavor": "burnt caramel, nutty, savory, sweet",
+  "aroma": "grassy, sweet",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "Traditional Cheese Dairy",
+  "name": "Lord Hundreds",
+  "slug": "united-kingdom-sheep-lord-hundreds",
+  "description": "Lord Hundreds is a semi-hard, artisan cheese made from sheep's milk, originating from the United Kingdom. This cheese is celebrated for its rich, nutty flavor and firm yet slightly crumbly texture. It typically presents a natural rind that adds to its rustic appearance, with a pale yellow interior that becomes more pronounced as it ages. Lord Hundreds is a testament to the artisanal cheesemaking traditions of the UK, offering a unique taste experience that reflects the quality of the sheep's milk and the skill of the cheesemaker.",
+  "history": "Lord Hundreds cheese is a relatively obscure gem within the UK's artisanal cheese scene, reflecting the country's growing interest in high-quality, locally produced cheeses. Its origins are rooted in the tradition of sheep farming and cheesemaking, which has seen a resurgence in recent years as consumers seek out unique and flavorful cheeses. While specific historical details about Lord Hundreds are scarce, it embodies the spirit of British artisanal cheesemaking, showcasing the potential of sheep's milk to produce cheeses with depth and character.",
+  "productionProcess": "The production of Lord Hundreds cheese begins with high-quality sheep's milk, which is gently heated before the addition of rennet to initiate curdling. The curds are then cut, stirred, and pressed into molds to form the cheese. After pressing, the cheese is salted and left to age for several months. During this time, it develops its distinctive flavor and texture. The aging process is carefully monitored to ensure the cheese reaches its full potential, with the natural rind forming as it matures.",
+  "flavorProfile": "Lord Hundreds cheese boasts a rich, nutty flavor with hints of grassiness, reflecting the quality of the sheep's milk. Its aroma is earthy and inviting, while the texture is firm yet slightly crumbly, offering a satisfying mouthfeel. The cheese's flavor deepens with age, becoming more complex and intense.",
+  "pairings": "Lord Hundreds cheese pairs beautifully with a variety of foods and drinks. Traditional pairings include crusty bread, fresh fruits like apples and pears, and nuts. For a more innovative approach, try it with honey or fig jam to complement its nutty flavor. Wine enthusiasts will appreciate its pairing with medium-bodied reds or crisp whites, while beer lovers might enjoy it alongside a hoppy IPA or a smooth stout. Cider also makes an excellent companion, enhancing the cheese's natural flavors.",
+  "culinaryApplications": [
+    "Ideal for cheese boards, offering a rustic and flavorful option",
+    "Perfect for grating over pasta dishes, adding depth and richness",
+    "Melts well in grilled cheese sandwiches, providing a unique twist",
+    "Can be used in salads, contributing a nutty and earthy flavor",
+    "Excellent for baking, especially in savory scones or bread"
+  ],
+  "faqs": [
+    {
+      "question": "What makes Lord Hundreds cheese unique?",
+      "answer": "Its unique combination of sheep's milk, artisanal production methods, and aging process gives Lord Hundreds a distinctive nutty flavor and firm yet crumbly texture."
+    },
+    {
+      "question": "How long is Lord Hundreds cheese aged?",
+      "answer": "Lord Hundreds is typically aged for several months, allowing it to develop a complex flavor profile and a firm texture."
+    },
+    {
+      "question": "Can Lord Hundreds cheese be used in cooking?",
+      "answer": "Yes, its firm texture and rich flavor make it versatile for cooking, especially in dishes that benefit from a nutty, earthy cheese."
+    },
+    {
+      "question": "What are some similar cheeses to Lord Hundreds?",
+      "answer": "Similar cheeses include Manchego, Pecorino Romano, and Ossau-Iraty, all of which are made from sheep's milk and share a nutty, rich flavor profile."
+    },
+    {
+      "question": "Is Lord Hundreds cheese suitable for vegetarians?",
+      "answer": "This depends on the rennet used in production. Traditional rennet is animal-based, but some cheesemakers use vegetarian alternatives. It's best to check with the producer."
+    }
+  ],
+  "tags": [
+    "sheep milk cheese",
+    "semi-hard cheese",
+    "artisan cheese",
+    "UK cheese",
+    "nutty flavor",
+    "firm texture",
+    "natural rind",
+    "cheese board",
+    "grating cheese",
+    "cooking cheese",
+    "aged cheese",
+    "British cheese",
+    "unique cheese",
+    "flavorful cheese",
+    "rustic cheese",
+    "cheese pairings",
+    "wine and cheese",
+    "beer and cheese",
+    "cider and cheese",
+    "cheese for salads",
+    "cheese for baking",
+    "cheese for pasta",
+    "cheese for sandwiches",
+    "cheese for scones",
+    "cheese for bread",
+    "earthy aroma",
+    "grassiness",
+    "complex flavor",
+    "intense flavor",
+    "satisfying mouthfeel",
+    "high-quality cheese",
+    "locally produced",
+    "artisanal production",
+    "cheesemaking tradition",
+    "sheep farming",
+    "resurgence of interest",
+    "depth and character",
+    "pale yellow interior",
+    "crusty bread pairing",
+    "fresh fruits pairing",
+    "nuts pairing",
+    "honey pairing",
+    "fig jam pairing",
+    "medium-bodied reds",
+    "crisp whites",
+    "hoppy IPA",
+    "smooth stout",
+    "cider pairing"
+  ],
+  "longTailKeywords": [
+    "Lord Hundreds cheese characteristics",
+    "Lord Hundreds cheese origin",
+    "Lord Hundreds cheese flavor"
+  ],
+  "seoKeywords": [
+    "best UK sheep milk cheese",
+    "how to use Lord Hundreds in cooking",
+    "Lord Hundreds cheese pairings",
+    "where to buy Lord Hundreds cheese",
+    "Lord Hundreds vs Manchego",
+    "artisan sheep milk cheese UK",
+    "semi-hard cheese for cheese boards",
+    "nutty flavor cheese for pasta",
+    "aged sheep milk cheese",
+    "Lord Hundreds cheese flavor profile",
+    "unique British artisan cheese",
+    "Lord Hundreds cheese culinary uses",
+    "sheep milk cheese for baking",
+    "Lord Hundreds cheese and wine",
+    "Lord Hundreds cheese and beer",
+    "Lord Hundreds cheese and cider",
+    "rustic cheese for salads",
+    "firm texture cheese for grating",
+    "earthy aroma cheese",
+    "complex flavor sheep milk cheese"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Manchego",
+      "similarity": "Both are made from sheep's milk and have a nutty, rich flavor, though Manchego is typically harder and aged longer."
+    },
+    {
+      "name": "Pecorino Romano",
+      "similarity": "Pecorino Romano is another sheep's milk cheese with a firm texture and sharp, salty flavor, making it a good alternative for grating."
+    },
+    {
+      "name": "Ossau-Iraty",
+      "similarity": "This French sheep's milk cheese shares the nutty and slightly sweet flavor profile, with a firm yet creamy texture."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High (typical of sheep's milk cheeses)",
+    "calciumContent": "Rich source (beneficial for bone health)"
+  },
+  "lastUpdated": "2025-03-02T04:34:54.471Z"
+}

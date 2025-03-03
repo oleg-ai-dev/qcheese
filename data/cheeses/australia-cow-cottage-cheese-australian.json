@@ -1,0 +1,162 @@
+{
+  "url": "https://www.cheese.com/cottage-cheese-australian/",
+  "milk": "cow",
+  "country": "Australia",
+  "region": "NA",
+  "family": "Cottage",
+  "type": "fresh soft",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "crumbly, firm, grainy",
+  "rind": "rindless",
+  "color": "white",
+  "flavor": "mild, sweet",
+  "aroma": "lactic, milky",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Cottage Cheese Australian",
+  "slug": "australia-cow-cottage-cheese-australian",
+  "description": "Cottage Cheese, particularly the Australian variant, is a fresh, soft cheese known for its mild flavor and creamy, lumpy texture. Made from cow's milk, it is characterized by its white color and the presence of curds that are typically moist and surrounded by a small amount of whey or cream. Australian Cottage Cheese is appreciated for its versatility in the kitchen, serving as a healthy addition to various dishes due to its high protein content and low fat compared to other cheeses. Its simplicity and freshness make it a staple in many households, offering a light and refreshing taste that complements both sweet and savory recipes.",
+  "history": "Cottage Cheese has a long history, with its origins tracing back to ancient times when it was made by allowing milk to naturally sour and curdle. The Australian version of Cottage Cheese follows this traditional method but has been adapted to modern production techniques to ensure consistency and safety. In Australia, Cottage Cheese became popular as a health-conscious choice among consumers, aligning with the country's growing interest in nutritious and versatile food options. Its production has been embraced by both large-scale manufacturers and artisanal cheesemakers, contributing to its widespread availability and popularity across the continent.",
+  "productionProcess": "Australian Cottage Cheese is produced by curdling cow's milk, which can be achieved through the addition of an acidic substance like vinegar or lemon juice, or by using bacterial cultures that produce lactic acid. The curds are then gently heated and cut to release whey, after which they are washed to remove excess acidity, resulting in a milder flavor. The final step involves mixing the curds with cream or milk to achieve the desired consistency. This process is carefully controlled to ensure the cheese maintains its characteristic texture and freshness.",
+  "flavorProfile": "Australian Cottage Cheese offers a mild, slightly tangy flavor with a creamy and moist texture. The curds provide a soft, lumpy consistency that is both satisfying and light. Its subtle taste makes it an excellent base for adding herbs, spices, or fruits, allowing for a wide range of flavor combinations. The freshness of the cheese is evident in its clean, milky aroma, making it a refreshing choice for various culinary applications.",
+  "pairings": "Australian Cottage Cheese pairs well with fresh fruits like pineapple, peaches, and berries for a sweet and healthy snack. It also complements savory dishes, such as salads, baked potatoes, and crackers, especially when mixed with herbs and spices. For beverages, it goes well with light white wines, sparkling water, or herbal teas, enhancing its refreshing qualities. Its versatility also makes it a great addition to smoothies or as a topping for toast and pancakes.",
+  "culinaryApplications": [
+    "Ideal for adding to salads for a protein boost",
+    "Perfect for blending into smoothies for creaminess",
+    "Great as a spread on toast or crackers",
+    "Suitable for baking into healthy muffins or pancakes",
+    "Excellent for mixing with fruits for a light dessert"
+  ],
+  "faqs": [
+    {
+      "question": "Is Australian Cottage Cheese pasteurized?",
+      "answer": "Yes, most commercially produced Australian Cottage Cheese is made from pasteurized milk to ensure safety and extend shelf life."
+    },
+    {
+      "question": "Can I freeze Australian Cottage Cheese?",
+      "answer": "Freezing is not recommended as it can significantly alter the texture, making it grainy and less pleasant to eat."
+    },
+    {
+      "question": "How does Australian Cottage Cheese differ from other types?",
+      "answer": "Australian Cottage Cheese is known for its freshness and mild flavor, with a focus on health-conscious production methods."
+    },
+    {
+      "question": "Is Australian Cottage Cheese suitable for vegetarians?",
+      "answer": "Yes, it is typically suitable for vegetarians, but it's always best to check the label for specific rennet used."
+    },
+    {
+      "question": "How long does Australian Cottage Cheese last?",
+      "answer": "When stored properly in the refrigerator, it can last up to two weeks. Always check the expiration date and look for signs of spoilage."
+    }
+  ],
+  "tags": [
+    "cottage cheese",
+    "Australian cheese",
+    "fresh cheese",
+    "soft cheese",
+    "cow milk cheese",
+    "healthy cheese",
+    "low fat cheese",
+    "high protein cheese",
+    "versatile cheese",
+    "mild cheese",
+    "creamy cheese",
+    "lumpy texture",
+    "refreshing cheese",
+    "salad cheese",
+    "smoothie cheese",
+    "baking cheese",
+    "spreadable cheese",
+    "light cheese",
+    "nutritious cheese",
+    "artisanal cheese",
+    "modern cheese",
+    "traditional cheese",
+    "pasteurized cheese",
+    "vegetarian cheese",
+    "fresh milk cheese",
+    "curd cheese",
+    "whey cheese",
+    "acid-set cheese",
+    "lactic acid cheese",
+    "health food",
+    "diet cheese",
+    "breakfast cheese",
+    "snack cheese",
+    "dessert cheese",
+    "fruit cheese",
+    "herb cheese",
+    "spice cheese",
+    "wine cheese",
+    "tea cheese",
+    "sparkling water cheese",
+    "toast cheese",
+    "cracker cheese",
+    "pancake cheese",
+    "muffin cheese",
+    "protein cheese",
+    "calcium cheese",
+    "milk product",
+    "dairy product",
+    "cheese culture",
+    "Australian dairy"
+  ],
+  "longTailKeywords": [
+    "Cottage Cheese Australian cheese characteristics",
+    "Cottage Cheese Australian cheese origin",
+    "Cottage Cheese Australian cheese flavor"
+  ],
+  "seoKeywords": [
+    "best Australian Cottage Cheese",
+    "how to use Cottage Cheese in smoothies",
+    "healthy Cottage Cheese recipes",
+    "Australian fresh soft cheese",
+    "low fat high protein cheese Australia",
+    "Cottage Cheese pairings with fruit",
+    "vegetarian friendly Australian cheese",
+    "pasteurized Cottage Cheese Australia",
+    "how to store Cottage Cheese",
+    "Cottage Cheese vs other fresh cheeses",
+    "artisanal Australian Cottage Cheese",
+    "Cottage Cheese in baking",
+    "Australian dairy products",
+    "Cottage Cheese for weight loss",
+    "best ways to eat Cottage Cheese",
+    "Cottage Cheese nutritional benefits",
+    "Australian cheese culture",
+    "Cottage Cheese in salads",
+    "how to make Cottage Cheese at home",
+    "Cottage Cheese as a spread"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Quark",
+      "description": "A fresh dairy product common in German-speaking countries, similar in texture and mildness, often used in similar culinary applications."
+    },
+    {
+      "name": "Fromage Blanc",
+      "description": "A French fresh cheese that is creamy and smooth, offering a slightly tangy flavor, ideal for spreads and desserts."
+    },
+    {
+      "name": "Ricotta",
+      "description": "An Italian whey cheese known for its light, fluffy texture and mild taste, used in both savory dishes and desserts."
+    },
+    {
+      "name": "Paneer",
+      "description": "A fresh cheese common in South Asian cuisine, known for its firm texture and ability to hold shape when cooked, offering a mild flavor."
+    },
+    {
+      "name": "Cream Cheese",
+      "description": "A soft, mild-tasting cheese with a high fat content, used as a spread and in baking, offering a richer alternative to Cottage Cheese."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "Low to moderate, depending on the cream content",
+    "calciumContent": "High, beneficial for bone health"
+  },
+  "lastUpdated": "2025-03-02T01:20:55.958Z"
+}

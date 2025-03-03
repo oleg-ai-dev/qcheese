@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/shaker-blue/",
+  "milk": "sheep",
+  "country": "United States",
+  "region": "New York",
+  "family": "Blue",
+  "type": "semi-firm, blue-veined",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy",
+  "rind": "rindless",
+  "color": "ivory",
+  "flavor": "acidic, creamy, full-flavored, sweet",
+  "aroma": "rich, sweet",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "Shaker Blue",
+  "alt_spellings": "NA",
+  "producers": "Old Chatham Sheepherding Company",
+  "name": "Shaker Blue",
+  "slug": "united-states-sheep-shaker-blue",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Shaker Blue cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Shaker Blue cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Shaker Blue cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Shaker Blue cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Shaker Blue cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "sheep milk",
+    "United States",
+    "creamy"
+  ],
+  "longTailKeywords": [
+    "Shaker Blue cheese characteristics",
+    "Shaker Blue cheese origin",
+    "Shaker Blue cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T13:46:14.409Z"
+}

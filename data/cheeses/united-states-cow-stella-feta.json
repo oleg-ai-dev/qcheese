@@ -1,0 +1,71 @@
+{
+  "url": "https://www.cheese.com/stella-feta/",
+  "milk": "cow",
+  "country": "United States",
+  "region": "NA",
+  "family": "Feta",
+  "type": "firm, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "crumbly, firm",
+  "rind": "NA",
+  "color": "white",
+  "flavor": "tangy",
+  "aroma": "fresh",
+  "vegetarian": "TRUE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Stella Feta",
+  "slug": "united-states-cow-stella-feta",
+  "description": "Description unavailable",
+  "history": "History unavailable",
+  "productionProcess": "Production process unavailable",
+  "flavorProfile": "Flavor profile unavailable",
+  "pairings": "Pairing information unavailable",
+  "culinaryApplications": [
+    "Versatile table cheese",
+    "Suitable for cooking",
+    "Can be used in various dishes"
+  ],
+  "faqs": [
+    {
+      "question": "What is Stella Feta cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What does Stella Feta cheese taste like?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "How is Stella Feta cheese made?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "What pairs well with Stella Feta cheese?",
+      "answer": "Information unavailable"
+    },
+    {
+      "question": "Is Stella Feta cheese vegetarian?",
+      "answer": "Yes"
+    }
+  ],
+  "tags": [
+    "cow milk",
+    "United States",
+    "crumbly, firm"
+  ],
+  "longTailKeywords": [
+    "Stella Feta cheese characteristics",
+    "Stella Feta cheese origin",
+    "Stella Feta cheese flavor"
+  ],
+  "seoKeywords": [],
+  "similarCheeses": [],
+  "nutritionalInfo": {
+    "fatContent": "Not specified",
+    "calciumContent": "Not specified"
+  },
+  "lastUpdated": "2025-03-02T15:24:37.524Z"
+}

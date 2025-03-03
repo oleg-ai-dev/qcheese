@@ -1,0 +1,152 @@
+{
+  "url": "https://www.cheese.com/baladi/",
+  "milk": "cow, goat, sheep",
+  "country": "Lebanon, Middle East",
+  "region": "NA",
+  "family": "NA",
+  "type": "fresh soft, artisan",
+  "fat_content": "22%",
+  "calcium_content": "NA",
+  "texture": "creamy, dense, smooth",
+  "rind": "rindless",
+  "color": "white",
+  "flavor": "buttery, mild, salty, sweet",
+  "aroma": "fresh",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "Jibneh Khadra, Jibnah Baladi, Baladieh, Jibneh Baladi",
+  "alt_spellings": "NA",
+  "producers": "NA",
+  "name": "Baladi",
+  "slug": "lebanon-cow-baladi",
+  "description": "Baladi cheese is a traditional fresh, soft cheese originating from Lebanon in the Middle East. It is an artisan cheese, often made from a blend of cow, goat, and sheep milk, which contributes to its unique flavor profile and texture. Baladi cheese is known for its creamy consistency and mild, slightly tangy taste, making it a versatile ingredient in various culinary applications. Its appearance is typically white, with a soft, spreadable texture that can range from smooth to slightly grainy, depending on the specific production methods used. Baladi cheese is a staple in Lebanese cuisine, often enjoyed fresh or used in cooking, and is celebrated for its artisanal quality and connection to traditional cheesemaking practices.",
+  "history": "Baladi cheese has deep roots in Lebanese culture and cuisine, where it has been made for centuries by local artisans. The name 'Baladi' translates to 'local' or 'from the country,' reflecting its traditional and regional significance. This cheese is a product of the pastoral lifestyle prevalent in rural Lebanon, where small-scale farmers would use milk from their own herds to create fresh cheeses. Baladi cheese is a testament to the simplicity and resourcefulness of traditional cheesemaking, embodying the flavors and techniques passed down through generations. It holds a special place in Lebanese households, often made during festive occasions or as a daily staple.",
+  "productionProcess": "Baladi cheese is made using a blend of cow, goat, and sheep milk, which is first pasteurized to ensure safety. The milk is then curdled using natural rennet or acidic substances like lemon juice or vinegar, a method typical of fresh cheeses. Once the curds form, they are gently drained and pressed to remove excess whey, resulting in a soft, spreadable texture. The cheese is not aged, which preserves its fresh, mild flavor. Some variations may include the addition of herbs or spices for extra flavor. The entire process is artisanal, often carried out in small batches to maintain quality and tradition.",
+  "flavorProfile": "Baladi cheese offers a mild, slightly tangy flavor with a creamy and smooth texture. The blend of cow, goat, and sheep milk gives it a subtle complexity, with hints of sweetness and a refreshing finish. Its aroma is fresh and milky, with a light acidity that enhances its overall appeal. The cheese's soft consistency makes it easy to spread, while its delicate flavor allows it to pair well with a variety of foods and beverages.",
+  "pairings": "Baladi cheese pairs beautifully with fresh vegetables like cucumbers, tomatoes, and olives, making it a great addition to mezze platters. It also complements flatbreads, such as pita, and can be used in sandwiches or wraps. For beverages, try pairing it with light, crisp white wines like Sauvignon Blanc or a refreshing Lebanese arak. Beer enthusiasts might enjoy it with a pale ale or lager. For a sweet contrast, drizzle honey over the cheese or serve it with fresh fruits like figs or grapes.",
+  "culinaryApplications": [
+    "Perfect for spreading on flatbreads or crackers",
+    "Ideal for mezze platters and appetizers",
+    "Great in sandwiches or wraps",
+    "Can be used as a filling for pastries or savory pies",
+    "Pairs well with fresh herbs and olive oil for a simple snack"
+  ],
+  "faqs": [
+    {
+      "question": "What does Baladi cheese taste like?",
+      "answer": "Baladi cheese has a mild, slightly tangy flavor with a creamy texture, influenced by the blend of cow, goat, and sheep milk."
+    },
+    {
+      "question": "Is Baladi cheese aged?",
+      "answer": "No, Baladi cheese is a fresh cheese and is not aged, which gives it a soft and spreadable texture."
+    },
+    {
+      "question": "Can I use Baladi cheese in cooking?",
+      "answer": "Yes, Baladi cheese is versatile and can be used in cooking, such as in sandwiches, pastries, or as a topping for dishes."
+    },
+    {
+      "question": "What are some similar cheeses to Baladi?",
+      "answer": "Similar cheeses include Feta, Labneh, and Ricotta, which share a fresh, soft texture and mild flavor profile."
+    },
+    {
+      "question": "Where can I buy Baladi cheese?",
+      "answer": "Baladi cheese is often found in Middle Eastern markets or specialty cheese shops. It may also be available online from artisanal producers."
+    }
+  ],
+  "tags": [
+    "Baladi cheese",
+    "Lebanese cheese",
+    "fresh cheese",
+    "soft cheese",
+    "artisan cheese",
+    "cow milk cheese",
+    "goat milk cheese",
+    "sheep milk cheese",
+    "Middle Eastern cheese",
+    "mezze cheese",
+    "spreadable cheese",
+    "traditional cheese",
+    "Lebanese cuisine",
+    "fresh and tangy",
+    "creamy cheese",
+    "mild cheese",
+    "artisanal dairy",
+    "small-batch cheese",
+    "homemade cheese",
+    "Lebanese food",
+    "cheese for flatbreads",
+    "cheese for sandwiches",
+    "cheese for cooking",
+    "cheese for appetizers",
+    "cheese for mezze",
+    "cheese pairings",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese and honey",
+    "cheese and olives",
+    "cheese and vegetables",
+    "cheese and fruits",
+    "cheese and herbs",
+    "cheese and olive oil",
+    "cheese for pastries",
+    "cheese for pies",
+    "cheese for wraps",
+    "cheese for snacks",
+    "cheese for breakfast",
+    "cheese for lunch",
+    "cheese for dinner",
+    "cheese for parties",
+    "cheese for gatherings",
+    "cheese for celebrations",
+    "cheese for festivals",
+    "cheese for holidays",
+    "cheese for everyday use",
+    "cheese for special occasions"
+  ],
+  "longTailKeywords": [
+    "Baladi cheese characteristics",
+    "Baladi cheese origin",
+    "Baladi cheese flavor"
+  ],
+  "seoKeywords": [
+    "Baladi cheese from Lebanon",
+    "traditional Lebanese cheese",
+    "fresh soft artisan cheese",
+    "cow goat sheep milk cheese",
+    "how to use Baladi cheese",
+    "Baladi cheese pairings",
+    "Baladi cheese in cooking",
+    "Baladi cheese for mezze",
+    "Baladi cheese for sandwiches",
+    "Baladi cheese for flatbreads",
+    "Baladi cheese for pastries",
+    "Baladi cheese for appetizers",
+    "Baladi cheese and wine",
+    "Baladi cheese and beer",
+    "Baladi cheese and honey",
+    "Baladi cheese and olives",
+    "Baladi cheese and vegetables",
+    "Baladi cheese and fruits",
+    "Baladi cheese and herbs",
+    "Baladi cheese and olive oil"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Feta",
+      "description": "A brined curd cheese from Greece, Feta shares a tangy flavor and crumbly texture, though it is saltier than Baladi."
+    },
+    {
+      "name": "Labneh",
+      "description": "A strained yogurt cheese from the Middle East, Labneh is creamy and tangy, often used as a spread or dip."
+    },
+    {
+      "name": "Ricotta",
+      "description": "An Italian whey cheese, Ricotta is mild and creamy, with a similar fresh and soft texture to Baladi."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "Moderate, varies by milk blend",
+    "calciumContent": "High, due to fresh milk content"
+  },
+  "lastUpdated": "2025-03-01T18:15:41.906Z"
+}

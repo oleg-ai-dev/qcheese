@@ -1,0 +1,159 @@
+{
+  "url": "https://www.cheese.com/tamie/",
+  "milk": "cow",
+  "country": "France",
+  "region": "Savoie",
+  "family": "NA",
+  "type": "soft, artisan",
+  "fat_content": "NA",
+  "calcium_content": "NA",
+  "texture": "creamy, open, smooth",
+  "rind": "washed",
+  "color": "white",
+  "flavor": "fruity, nutty",
+  "aroma": "perfumed, pungent",
+  "vegetarian": "FALSE",
+  "vegan": "FALSE",
+  "synonyms": "NA",
+  "alt_spellings": "Tamié, Trappiste de Tamie, Abbey of Tamie",
+  "producers": "NA",
+  "name": "Tamie",
+  "slug": "france-cow-tamie",
+  "description": "Tamie cheese is a soft, artisan cheese originating from the Savoie region of France, known for its lush pastures and rich dairy traditions. This cheese is made from cow's milk and is characterized by its creamy texture and bloomy rind, which is typical of soft-ripened cheeses. The rind is edible and adds a slightly earthy flavor to the cheese. Tamie cheese is often compared to other soft cheeses like Brie or Camembert but has a unique profile due to its specific aging process and the terroir of the Savoie region. Its appearance is marked by a soft, white exterior with a creamy, almost runny interior when perfectly ripe.",
+  "history": "Tamie cheese is named after the Abbaye de Tamié, a Cistercian monastery in the French Alps, where the cheese was originally produced by monks. The tradition of cheesemaking in monasteries dates back centuries, serving both as a means of sustenance and a way to support the monastic community. The monks of Abbaye de Tamié have been producing this cheese for generations, using methods passed down through the ages. The cheese is a testament to the region's dairy farming heritage and the monks' dedication to preserving traditional cheesemaking techniques.",
+  "productionProcess": "Tamie cheese is made from pasteurized cow's milk, which is curdled using rennet. The curds are then gently ladled into molds, allowing the whey to drain naturally. This process helps achieve the cheese's characteristic soft texture. After unmolding, the cheese is salted and then aged in the cool, humid cellars of the abbey for several weeks. During this time, the cheese develops its bloomy rind through the growth of Penicillium candidum. The aging process is carefully monitored to ensure the cheese reaches its optimal flavor and texture.",
+  "flavorProfile": "Tamie cheese offers a delicate and buttery flavor with hints of mushroom and a slight tanginess from the bloomy rind. Its texture is creamy and smooth, becoming almost liquid near the rind as it ages. The aroma is mild and earthy, with a subtle milky sweetness that complements its rich, indulgent taste.",
+  "pairings": "Tamie cheese pairs beautifully with a variety of foods and beverages. Traditional pairings include crusty French bread, fresh fruits like apples and pears, and nuts such as walnuts or almonds. For drinks, a light, crisp white wine like Chardonnay or a sparkling wine such as Champagne complements its creamy texture. Beer enthusiasts might enjoy it with a Belgian-style ale or a light lager. For a more adventurous pairing, try it with a drizzle of honey or a fig jam to enhance its natural sweetness.",
+  "culinaryApplications": [
+    "Perfect for cheese boards, offering a creamy contrast to harder cheeses",
+    "Melts beautifully in warm dishes, such as baked brie or fondue",
+    "Ideal for spreading on crusty bread or crackers",
+    "Pairs well with fresh fruits and nuts for a light snack or dessert"
+  ],
+  "faqs": [
+    {
+      "question": "What type of milk is used in Tamie cheese?",
+      "answer": "Tamie cheese is made from pasteurized cow's milk."
+    },
+    {
+      "question": "How long is Tamie cheese aged?",
+      "answer": "Tamie cheese is aged for several weeks in the cool, humid cellars of the Abbaye de Tamié."
+    },
+    {
+      "question": "Can the rind of Tamie cheese be eaten?",
+      "answer": "Yes, the bloomy rind of Tamie cheese is edible and adds a slightly earthy flavor to the cheese."
+    },
+    {
+      "question": "What are some similar cheeses to Tamie?",
+      "answer": "Similar cheeses include Brie, Camembert, and Chaource, all of which are soft, creamy, and have a bloomy rind."
+    },
+    {
+      "question": "What is the best way to serve Tamie cheese?",
+      "answer": "Tamie cheese is best served at room temperature to fully appreciate its creamy texture and complex flavors."
+    }
+  ],
+  "tags": [
+    "Tamie cheese",
+    "French cheese",
+    "soft cheese",
+    "cow milk cheese",
+    "artisan cheese",
+    "Abbaye de Tamié",
+    "Savoie region",
+    "bloomy rind",
+    "creamy cheese",
+    "cheese pairing",
+    "cheese board",
+    "French Alps",
+    "monastic cheese",
+    "traditional cheese",
+    "cheese aging",
+    "Penicillium candidum",
+    "cheese history",
+    "cheese production",
+    "cheese flavor",
+    "cheese texture",
+    "cheese aroma",
+    "cheese and wine",
+    "cheese and beer",
+    "cheese and fruit",
+    "cheese and nuts",
+    "cheese culinary uses",
+    "cheese melting",
+    "cheese spreading",
+    "cheese dessert",
+    "cheese snack",
+    "cheese FAQ",
+    "cheese comparison",
+    "cheese terroir",
+    "cheese tradition",
+    "cheese culture",
+    "cheese heritage",
+    "cheese making",
+    "cheese curdling",
+    "cheese molds",
+    "cheese whey",
+    "cheese salting",
+    "cheese cellars",
+    "cheese monitoring",
+    "cheese optimal flavor",
+    "cheese optimal texture",
+    "cheese serving",
+    "cheese room temperature",
+    "cheese complexity"
+  ],
+  "longTailKeywords": [
+    "Tamie cheese characteristics",
+    "Tamie cheese origin",
+    "Tamie cheese flavor"
+  ],
+  "seoKeywords": [
+    "best French cow milk cheese",
+    "how to serve Tamie cheese",
+    "Tamie cheese pairing guide",
+    "artisan cheese from Savoie",
+    "soft cheese with bloomy rind",
+    "traditional French cheese making",
+    "monastic cheese traditions",
+    "Abbaye de Tamié cheese history",
+    "creamy cheese for cheese boards",
+    "Tamie cheese vs Brie",
+    "how to age soft cheese",
+    "cheese from the French Alps",
+    "best wine with Tamie cheese",
+    "Tamie cheese culinary uses",
+    "where to buy Tamie cheese",
+    "Tamie cheese flavor profile",
+    "cheese similar to Camembert",
+    "how to make Tamie cheese",
+    "Tamie cheese nutritional info",
+    "cheese pairing with fruits and nuts"
+  ],
+  "similarCheeses": [
+    {
+      "name": "Brie",
+      "similarity": "Both are soft, creamy cheeses with a bloomy rind, offering a buttery flavor and smooth texture."
+    },
+    {
+      "name": "Camembert",
+      "similarity": "Camembert shares the soft, creamy texture and edible bloomy rind, with a slightly stronger flavor profile."
+    },
+    {
+      "name": "Chaource",
+      "similarity": "Chaource is another French soft cheese with a creamy interior and bloomy rind, known for its rich, buttery taste."
+    },
+    {
+      "name": "Brillat-Savarin",
+      "similarity": "This cheese is also a soft, bloomy-rind cheese from France, known for its luxurious creaminess and rich flavor."
+    },
+    {
+      "name": "Saint-Marcellin",
+      "similarity": "Saint-Marcellin is a soft, creamy cheese from the Rhône-Alpes region, similar in texture and flavor to Tamie cheese."
+    }
+  ],
+  "nutritionalInfo": {
+    "fatContent": "High",
+    "calciumContent": "Moderate"
+  },
+  "lastUpdated": "2025-03-01T15:58:40.158Z"
+}
