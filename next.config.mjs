@@ -23,15 +23,7 @@ const nextConfig = {
   },
   // Add a configuration option to tell Next.js to skip static generation for the problematic routes
   output: 'standalone',
-  // Add a rewrite rule to handle /origin/:country paths
-  async rewrites() {
-    return [
-      {
-        source: '/origin/:country',
-        destination: '/origin/:country/all',
-      },
-    ]
-  }
+  trailingSlash: true,
 }
 
 mergeConfig(nextConfig, userConfig)
