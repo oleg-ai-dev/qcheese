@@ -1,6 +1,7 @@
 import type React from "react"
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
+import Script from "next/script"
 import "./globals.css"
 import Header from "@/components/header"
 import Footer from "@/components/footer"
@@ -49,6 +50,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <Script
+        src="https://cloud.umami.is/script.js"
+        data-website-id="e87e2e0a-2dcc-47c8-8889-a7b89a136d3d"
+        strategy="afterInteractive"
+      />
       <body className={inter.className}>
         <div className="flex flex-col min-h-screen">
           <Header />
@@ -59,7 +65,3 @@ export default function RootLayout({
     </html>
   )
 }
-
-
-
-import './globals.css'
